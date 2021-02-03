@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="2.0" Creator="SCRIOS-1.2.1-2096" Modified="2021-02-02 22:09:41 -0300" Device="Brito’s iPad" SyncID="4A1DB10B-8521-44CE-8FCD-EE059EFE87F9" Checksums="DB9B2224-DB87-4027-8379-466D47126946">
+<ScrivenerProject Version="2.0" Creator="SCRIOS-1.2.1-2096" Modified="2021-02-03 00:07:02 -0300" Device="Brito’s iPad" SyncID="4A1DB10B-8521-44CE-8FCD-EE059EFE87F9" Checksums="64C72CBD-4C50-403D-994A-0B3FD9BFE22D">
 	<Binder>
 		<BinderItem UUID="10391114-61B3-45FA-9881-722814EC3507" Type="DraftFolder" Created="2020-12-23 13:51:50 -0300" Modified="2021-01-20 15:34:51 -0300">
 			<Title>Draft</Title>
@@ -28,7 +28,7 @@
 				</MetaData>
 				<TextSettings><TextSelection>28,0</TextSelection></TextSettings>
 			</BinderItem>
-			<BinderItem UUID="2C5635FA-8AE7-48B9-9855-55097D8DEF68" Type="Text" Created="2020-12-30 21:31:50 -0300" Modified="2021-02-02 22:09:37 -0300">
+			<BinderItem UUID="2C5635FA-8AE7-48B9-9855-55097D8DEF68" Type="Text" Created="2020-12-30 21:31:50 -0300" Modified="2021-02-03 00:06:59 -0300">
 				<Title>Abstract</Title>
 				<MetaData>
 					<LabelID>-1</LabelID>
@@ -36,7 +36,7 @@
 					<IncludeInCompile>Yes</IncludeInCompile>
 					<NotesTextSelection>78,0</NotesTextSelection>
 				</MetaData>
-				<TextSettings><TextSelection>27,0</TextSelection></TextSettings>
+				<TextSettings><TextSelection>32,0</TextSelection></TextSettings>
 			</BinderItem>
 			<BinderItem UUID="29D995D2-1DF1-408B-9F5B-EE880E6E8851" Type="Text" Created="2021-01-20 13:45:23 -0300" Modified="2021-01-28 17:30:12 -0300">
 				<Title>Abbreviations</Title>
@@ -1107,7 +1107,7 @@
 	<ProjectTargets>
 		<DraftTarget Type="Words">12000</DraftTarget>
 		<SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No">667</SessionTarget>
-		<PreviousSession Words="124" Characters="921"></PreviousSession>
+		<PreviousSession Words="125" Characters="926"></PreviousSession>
 	</ProjectTargets>
 	<TemplateFolderUUID>D0BC89FF-F7FE-4A5A-B829-05268AD0EB39</TemplateFolderUUID>
 </ScrivenerProject>
