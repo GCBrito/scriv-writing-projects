@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Styles>
+    <Style ID="F06EBBBB-AA90-44B2-8022-84D3A4F5461D" Name="Heading 1" Shortcut="4" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 IBM Plex Sans;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs26\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa80\sb120\sl276\slmult1\ltrch\loch {\f0\fs26\b1\i0 <$Scr_H::1>Attributes<!$Scr_H::1>}}]]></Format>
+    </Style>
+    <Style ID="EE2F89A8-7058-4229-B499-C3AC73E8E22F" Name="Heading 2" Shortcut="5" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 IBM Plex Sans;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa120\sb200\sl276\slmult1\ltrch\loch {\f0\fs24\b1\i0 <$Scr_H::2>Attributes<!$Scr_H::2>}}]]></Format>
+    </Style>
+    <Style ID="DFB5BCFC-A1E7-4B08-97D5-D4C2B1CBB2B0" Name="Code Span" Type="Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Consolas;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs22\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx0\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi720\ltrch\loch {\f0\fs22\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="C0399075-8699-4702-A0C6-AB403066A7AD" Name="Caption" Shortcut="3" Type="Para" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SourceSansPro-Regular;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs22\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sa160\sl228\slmult1\qj\ltrch\loch {\f0\fs22\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="6E6562DD-10DC-403E-9092-EE22954E26E5" Name="Emphasis" Type="Char">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri-Italic;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx0\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi720\ltrch\loch {\f0\fs24\b0\i1 Attributes}}]]></Format>
+    </Style>
+    <Style ID="7D83B52B-D391-4E07-898B-008B8697E499" Name="Annotations" Next="7D83B52B-D391-4E07-898B-008B8697E499" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 IBM Plex Mono;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs20\cf0\pgnrestart\pgnstarts1
+\pard\plain \sa160\sb120\sl276\slmult1\ql\ltrch\loch {\f0\fs20\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="088C3851-1C2B-4912-B448-9FE013B7D3A5" Name="Block_code" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 IBM Plex Mono;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs20\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\li360\ri720\sa160\sb160\sl276\slmult1\qj\ltrch\loch {\f0\fs20\b0\i0 Attributes}}]]></Format>
+    </Style>
+    <Style ID="DC9E6332-DB77-4E25-B0DA-022176DC6980" Name="Block_text" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 IBM Plex Mono;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs20\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx0\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\li360\ri700\sa160\sb120\sl276\slmult1\qj\ltrch\loch {\f0\fs20\b0\i0 Attributes}}]]></Format>
+    </Style>
+</Styles>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="2ABADD8F-D41E-4D09-823B-3D3C5C520E23">
+    <Snapshot Date="2021-01-10 21:00:53 -0300">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>OpenStats package provides statistical methods for the identification of abnormal phenotypes with an emphasis on high-throughput dataflows. The package contains:
+Dataset pre-processing and checking for minimal requirements; and
+3 statistical tests to identify significant genotype effect on the phenotype:
+Fisher’s exact test for categorical data
+Linear mixed model (LMM) for continuous data
+Reference range plus (RR+) model for low N continuous data
+All analysis frameworks output a statistical significance measure, an effect size measure, model diagnostics (when appropriate), and data visualization (particularly chart pages).
+Categorical data
+Categorical data are analysed using Fisher’s exact test. This method involves constructing a contingency table to split animals up by phenotype and biological group, e.g. mutant versus baseline. Currently, phenotypes for a given trait are grouped together and compared to the frequency of normal phenotypes collectively. Examples of this type of analysis include abnormal coat colour and abnormal eye morphology.
+Independent variable (AKA factor): The variable that the experimenter manipulates; it does not depend on other variables being measured. Often displayed on the x-axis.
+Dependent variable: The variable that is expected to change as a result of changes in the independent variable. Often displayed on the y-axis, so that changes in X, the independent variable, effect changes in Y.
+Continuous data
+Linear mixed model
+Continuous data are analysed using a linear mixed model. This method uses a linear equation to model measurements as a function of genotype and additional variables including gender, weight, and batch (date of measurement). The batch is treated as a random effect except in the case of measurements that are taken over time (e.g. body weight), in which case it is included in the covariates. Interactions between variables such as genotype and sex can also be modelled.
+This approach allows the statistical procedure to determine significant shifts that can be attributed to the genotype as opposed to the other covariates. Examples of this type of analysis include hypoactivity in open field and circulating insulin levels in clinical chemistry.
+
+Control selection strategy
+One side effect of producing data in a high throughput pipeline is that the input data for a statistical calculation might be produced over multiple days. Environmental fluctuations have been identified as a confounding factor when comparing data gathered on different days. The IMPC describes this as a “batch effect” and it is treated as a random effect in the Mixed model framework.
+Relevant reading:
+Please, see this IMPC paper on a soft windowing application to improve analysis of high-throughput phenotyping data, Bioinformatics 36, 1492–1500 (2020)
+
+
+Field
+Description
+Background strain
+The original strain from which the mutant specimen was derived.
+Allele / Colony
+The genomic variation in the mutant. The allele describes the character and the severity of the mutation, Genotype effect terms. 
+Zygosity
+WT (wildtype or +/+) The wild type allele.Heterozygous (het)The mutation occurred in one copy of the allele.Homozygous (hom)The mutation occurred in both copies of the allele.Hemizygous (hemi)The mutation occurred in a sex-linked allele where, normally, only a single copy exists in the WT.
+Pipeline
+The standardized phenotyping pipeline as described in IMPReSS Pipelines.
+Procedure
+The standardised set of procedures (experiments) as described in IMPReSS procedures.
+Parameter
+The standardised set of measurements as described in IMPReSS parameters.
+Metadata group
+Some parameters are indicated as “procedureMetadata” type. Some of these metadata are used to group comparable data together as described on the IMPReSS parameters page under the “Required For Data Analysis” section. The parameters that are marked as “Required For Data Analysis” are collectively identified by an identifier called the metadata group.
+Organisation
+The phenotyping organisation that performed the experiment and collected the data.
+Sex[1]
+The sex of the specimens. When analyzed using the linear mixed model, males and females are analysed together to determine the Sex and Sex*Genotype interaction effect terms. [1] – optional
+
+</Text>
+    </Snapshot>
+    <Snapshot Date="2021-01-20 12:45:44 -0300">
+        <Title>Untitled (Save)</Title>
+        <Text>OpenStats package provides statistical methods for the identification of abnormal phenotypes with an emphasis on high-throughput dataflows. The package contains:
+Dataset pre-processing and checking for minimal requirements; and
+3 statistical tests to identify significant genotype effect on the phenotype:
+Fisher’s exact test for categorical data
+Linear mixed model (LMM) for continuous data
+Reference range plus (RR+) model for low N continuous data
+All analysis frameworks output a statistical significance measure, an effect size measure, model diagnostics (when appropriate), and data visualization (particularly chart pages).
+Categorical data
+Categorical data are analysed using Fisher’s exact test. This method involves constructing a contingency table to split animals up by phenotype and biological group, e.g. mutant versus baseline. Currently, phenotypes for a given trait are grouped together and compared to the frequency of normal phenotypes collectively. Examples of this type of analysis include abnormal coat colour and abnormal eye morphology.
+Independent variable (AKA factor): The variable that the experimenter manipulates; it does not depend on other variables being measured. Often displayed on the x-axis.
+Dependent variable: The variable that is expected to change as a result of changes in the independent variable. Often displayed on the y-axis, so that changes in X, the independent variable, effect changes in Y.
+Continuous data
+Linear mixed model
+Continuous data are analysed using a linear mixed model. This method uses a linear equation to model measurements as a function of genotype and additional variables including gender, weight, and batch (date of measurement). The batch is treated as a random effect except in the case of measurements that are taken over time (e.g. body weight), in which case it is included in the covariates. Interactions between variables such as genotype and sex can also be modelled.
+This approach allows the statistical procedure to determine significant shifts that can be attributed to the genotype as opposed to the other covariates. Examples of this type of analysis include hypoactivity in open field and circulating insulin levels in clinical chemistry.
+Control selection strategy
+One side effect of producing data in a high throughput pipeline is that the input data for a statistical calculation might be produced over multiple days. Environmental fluctuations have been identified as a confounding factor when comparing data gathered on different days. The IMPC describes this as a “batch effect” and it is treated as a random effect in the Mixed model framework.
+Relevant reading:
+Please, see this IMPC paper on a soft windowing application to improve analysis of high-throughput phenotyping data, Bioinformatics 36, 1492–1500 (2020)
+
+Field
+Description
+Background strain
+The original strain from which the mutant specimen was derived.
+Allele / Colony
+The genomic variation in the mutant. The allele describes the character and the severity of the mutation, Genotype effect terms. 
+Zygosity
+WT (wildtype or +/+) The wild type allele.Heterozygous (het)The mutation occurred in one copy of the allele.Homozygous (hom)The mutation occurred in both copies of the allele.Hemizygous (hemi)The mutation occurred in a sex-linked allele where, normally, only a single copy exists in the WT.
+Pipeline
+The standardized phenotyping pipeline as described in IMPReSS Pipelines.
+Procedure
+The standardised set of procedures (experiments) as described in IMPReSS procedures.
+Parameter
+The standardised set of measurements as described in IMPReSS parameters.
+Metadata group
+Some parameters are indicated as “procedureMetadata” type. Some of these metadata are used to group comparable data together as described on the IMPReSS parameters page under the “Required For Data Analysis” section. The parameters that are marked as “Required For Data Analysis” are collectively identified by an identifier called the metadata group.
+Organisation
+The phenotyping organisation that performed the experiment and collected the data.
+Sex[1]
+
+The sex of the specimens. When analyzed using the linear mixed model, males and females are analysed together to determine the Sex and Sex*Genotype interaction effect terms. [1] – optional
+
+#</Text>
+    </Snapshot>
+</SnapshotIndexes>

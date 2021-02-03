@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="9D2CFD12-2EAD-4C50-A240-9166B49674F9">
+    <Snapshot Date="2021-01-20 12:32:16 -0300">
+        <Title>Untitled (Save)</Title>
+        <Text>Manuscript Formatting Guidelines
+1. General standards
+1.1. Article Type
+1.2. Templates
+1.3. Manuscript Length
+1.4. Language Editing
+1.5. Language Style
+1.6. Search Engine Optimization (SEO)
+1.7. CrossMark Policy
+1.8. Title
+1.9. Authors and Affiliations
+1.10. Consortium/Group and Collaborative Authors
+1.11. Abstract
+1.12. Keywords
+1.13. Text
+1.14. Nomenclature
+1.15. Sections
+1.16. Acknowledgments
+1.17. Contribution to the Field Statement
+2. Figure and Table Guidelines
+2.1. CC-BY Licence
+2.2. Figure Requirements and Style Guidelines
+2.2.1. Captions
+2.2.2. Image Size and Resolution Requirements
+2.2.3. Format and Color Image Mode
+2.2.4. Chemical Structures
+2.3. Table Requirements and Style Guidelines
+2.4. Accessibility
+3. Supplementary Material
+4. References
+4.1. Science, Engineering and Humanities and Sustainability Journals
+4.1.1. In-text Citations
+4.1.2. Reference List
+4.1.3. Resources
+4.2. Health, Physics, and Mathematics Journals
+4.2.1. In-text Citations
+4.2.2. Reference List
+4.2.3. Resources
+1. General standards
+1.1. Article Type
+Frontiers requires authors to carefully select the appropriate article type for their manuscript and to comply with the article type descriptions defined in the journal’s &quot;Article Types&quot; page, which can be seen from the &quot;For Authors&quot; menu on any Frontiers journal page. Please pay close attention to the word count limits.
+1.2. Templates
+If working with Word please use our Frontiers Word templates. If you wish to submit your article as LaTeX, we recommend our Frontiers LaTeX templates.
+For LaTeX files, please ensure all relevant manuscript files are uploaded: .tex file, PDF, and .bib file (if the bibliography is not already included in the .tex file).
+During the Interactive Review, authors are encouraged to upload versions using “Track Changes.” Editors and reviewers can only download the PDF file of the submitted manuscript.
+1.3. Manuscript Length
+Frontiers encourages the authors to closely follow the article word count lengths given in the “Article Types” page of the journals. The manuscript length includes only the main body of the text, footnotes, and all citations within it, and excludes the abstract, section titles, figure and table captions, funding statement, acknowledgments, and references in the bibliography. Please indicate the number of words and the number of figures and tables included in your manuscript on the first page.
+1.4. Language Editing
+Frontiers requires manuscripts submitted to meet international English language standards to be considered for publication.
+For authors who would like their manuscript to receive language editing or proofreading to improve the clarity of the manuscript and help highlight their research, Frontiers recommends the language-editing services provided by the following external partners:
+Editage
+Frontiers is pleased to recommend the language-editing service provided by our external partner Editage to authors who believe their manuscripts would benefit from professional editing. These services may be particularly useful for researchers for whom English is not the primary language. They can help to improve the grammar, syntax, and flow of your manuscript prior to submission. Frontiers authors will receive a 10% discount by visiting the following link: https://editage.com/frontiers/.
+The Charlesworth Group
+Frontiers recommends the Charlesworth Group’s author services, who has a long-standing track record in language editing and proofreading. This is a third-party service for which Frontiers authors will receive a 10% discount by visiting the following link: https://www.cwauthors.com/frontiers/.
+Frontiers: www.cwauthors.com.cn/frontiers/.
+Note that sending your manuscript for language editing does not imply or guarantee that it will be accepted for publication by a Frontiers journal. Editorial decisions on the scientific content of a manuscript are independent of whether it has received language editing or proofreading by the partner services, or other services.
+1.5. Language Style
+The default language style at Frontiers is American English. If you prefer your article to be formatted in British English, please specify this on the first page of your manuscript. For any questions regarding style, Frontiers recommends authors to consult the Chicago Manual of Style.
+1.6. Search Engine Optimization (SEO)
+There are a few simple ways to maximize your article’s discoverability. Follow the steps below to improve search results of your article:
+include a few of your article's keywords in the title of the article;
+do not use long article titles;
+pick 5 to 8 keywords using a mix of generic and more specific terms on the article subject(s);
+use the maximum amount of keywords in the first 2 sentences of the abstract;
+use some of the keywords in level 1 headings.
+1.7. CrossMark Policy
+CrossMark is a multi-publisher initiative to provide a standard way for readers to locate the current version of a piece of content. By applying the CrossMark logo Frontiers is committed to maintaining the content it publishes and to alerting readers to changes if and when they occur. Clicking on the CrossMark logo will tell you the current status of a document and may also give you additional publication record information about the document.
+1.8. Title
+The title should be concise, omitting terms that are implicit and, where possible, be a statement of the main result or conclusion presented in the manuscript. Abbreviations should be avoided within the title.
+Witty or creative titles are welcome, but only if relevant and within measure. Consider if a title meant to be thought-provoking might be misinterpreted as offensive or alarming. In extreme cases, the editorial office may veto a title and propose an alternative.
+Authors should try to avoid, if possible:
+titles that are a mere question without giving the answer;
+unambitious titles, for example starting with &quot;Towards,&quot; &quot;A description of,&quot; &quot;A characterization of,&quot; &quot;Preliminary study on;&quot;
+vague titles, for example starting with &quot;Role of…,&quot; &quot;Link between…,&quot; &quot;Effect of...&quot; that do not specify the role, link, or effect;
+include terms that are out of place, for example the taxonomic affiliation apart from species name.
+For Corrigenda, Book Reviews, General Commentaries, and Editorials, the title of your manuscript should have the following format:
+&quot;Corrigendum: Title of Original Article&quot;
+&quot;Book Review: Title of Book&quot;
+General Commentaries
+&quot;Commentary: Title of Original Article&quot;
+&quot;Response: Commentary: Title of Original Article&quot;
+&quot;Editorial: Title of Research Topic&quot;
+The running title should be a maximum of 5 words in length.
+1.9. Authors and Affiliations
+All names are listed together and separated by commas. Provide exact and correct author names as these will be indexed in official archives. Affiliations should be keyed to the author's name with superscript numbers and be listed as follows: Laboratory, Institute, Department, Organization, City, State abbreviation (only for United States, Canada, and Australia), and Country (without detailed address information such as city zip codes or street names).
+Example: Max Maximus1
+1 Department of Excellence, International University of Science, New York, NY, United States.
+Correspondence:
+The Corresponding Author(s) should be marked with an asterisk in the author list. Provide the exact contact email address of the corresponding author(s) in a separate section.
+Example: Max Maximus
+maximus@iuscience.edu
+If any authors wish to include a change of address, list the present address(es) below the correspondence details using a unique superscript symbol keyed to the author(s) in the author list.
+Equal contributions:
+The authors who have contributed equally should be marked with a symbol (†) in the author list of the doc/latex and pdf files of the manuscript uploaded at submission.
+Standard statements to include in the author list:
+#
+
+Example: Max Maximus 1†, John Smith2† and Barbara Smith1
+†These authors have contributed equally to this work and share first authorship
+1.10. Consortium/Group and Collaborative Authors
+Consortium/group authorship should be listed in the manuscript with the other author(s).
+In cases where authorship is retained by the consortium/group, the consortium/group should be listed as an author separated by “,” or “and,”. The consortium/group name will appear in the author list, in the citation, and in the copyright. If provided, the consortium/group members will be listed in a separate section at the end of the article.
+For the collaborators of the consortium/group to be indexed in PubMed, they do not have to be inserted in the Frontiers submission system individually. However, in the manuscript itself, provide a section with the name of the consortium/group as the heading followed by the list of collaborators, so they can be tagged accordingly and indexed properly.
+Example: John Smith, Barbara Smith and The Collaborative Working Group.
+In cases where work is presented by the author(s) on behalf of a consortium/group, it should be included in the author list separated with the wording “for” or “on behalf of.” The consortium/group will not retain authorship and will only appear in the author list.
+Example: John Smith and Barbara Smith on behalf of The Collaborative Working Group.
+1.11. Abstract
+As a primary goal, the abstract should render the general significance and conceptual advance of the work clearly accessible to a broad readership. In the abstract, minimize the use of abbreviations and do not cite references, figures or tables.
+For Clinical Trial articles, please include the Unique Identifier and the URL of the publicly accessible website on which the trial is registered.
+1.12. Keywords
+All article types require a minimum of 5 and a maximum of 8 keywords.
+1.13. Text
+The entire document should be single-spaced and must contain page and line numbers in order to facilitate the review process. The manuscript should be written using either Word or LaTeX. For templates, see 1.2. Templates.
+1.14. Nomenclature
+The use of abbreviations should be kept to a minimum. Non-standard abbreviations should be avoided unless they appear at least four times, and defined upon first use in the main text. Consider also giving a list of non-standard abbreviations at the end, immediately before the Acknowledgments.
+Equations should be inserted in editable format from the equation editor.
+Italicize gene symbols and use the approved gene nomenclature where it is available. For human genes, please refer to the HUGO Gene Nomenclature Committee (HGNC). New gene symbols should be submitted here. Common alternative gene aliases may also be reported, but should not be used alone in place of the HGNC symbol. Nomenclature committees for other species are listed here. Protein products are not italicized.
+We encourage the use of Standard International Units in all manuscripts.
+Chemical compounds and biomolecules should be referred to using systematic nomenclature, preferably using the recommendations by IUPAC.
+Astronomical objects should be referred to using the nomenclature given by the International Astronomical Union provided here.
+Life Science Identifiers (LSIDs) for ZOOBANK registered names or nomenclatural acts should be listed in the manuscript before the keywords. An LSID is represented as a uniform resource name (URN) with the following format: urn:lsid:&lt;Authority&gt;:&lt;Namespace&gt;:&lt;ObjectID&gt;[:&lt;Version&gt;]
+For more information on LSIDs please see the Code section.
+1.15. Sections
+The manuscript is organized by headings and subheadings. The section headings should be those appropriate for your field and the research itself. You may insert up to 5 heading levels into your manuscript (i.e.,: 3.2.2.1.2 Heading Title).
+For Original Research articles, it is recommended to organize your manuscript in the following sections or their equivalents for your field:
+INTRODUCTION
+Succinct, with no subheadings.
+MATERIALS AND METHODS
+This section may be divided by subheadings and should contain sufficient detail so that when read in conjunction with cited references, all procedures can be repeated. For experiments reporting results on animal or human subject research, an ethics approval statement should be included in this section (for further information, see the Bioethics section.)
+RESULTS
+This section may be divided by subheadings. Footnotes should not be used and must be transferred to the main text.
+DISCUSSION
+This section may be divided by subheadings. Discussions should cover the key findings of the study: discuss any prior research related to the subject to place the novelty of the discovery in the appropriate context, discuss the potential shortcomings and limitations on their interpretations, discuss their integration into the current understanding of the problem and how this advances the current views, speculate on the future direction of the research, and freely postulate theories that could be tested in the future.
+For further information, please check the descriptions defined in the journal’s &quot;Article Types&quot; page, which can be seen from the &quot;For Authors&quot; menu on any Frontiers journal page.
+1.16. Acknowledgments
+This is a short text to acknowledge the contributions of specific colleagues, institutions, or agencies that aided the efforts of the authors. Should the content of the manuscript have previously appeared online, such as in a thesis or preprint, this should be mentioned here, in addition to listing the source within the reference list.
+1.17. Contribution to the Field Statement
+When you submit your manuscript, you will be required to briefly summarize in 200 words your manuscript’s contribution to, and position in, the existing literature in your field. This should be written avoiding any technical language or non-standard acronyms. The aim should be to convey the meaning and importance of this research to a non-expert. While Frontiers evaluates articles using objective criteria, rather than impact or novelty, your statement should frame the question(s) you have addressed in your work in the context of the current body of knowledge, providing evidence that the findings—whether positive or negative—contribute to progress in your research discipline. This will assist the Chief Editors to determine whether your manuscript fits within the scope of a specialty as defined in its mission statement; a detailed statement will also facilitate the identification of the editors and reviewers most appropriate to evaluate your work, ultimately expediting your manuscript's initial consideration.
+Example Statement on: Markram K and Markram H (2010) The Intense World Theory – a unifying theory of the neurobiology of autism. Front. Hum. Neurosci. 4:224. doi: 10.3389/fnhum.2010.00224
+Autism spectrum disorders are a group of neurodevelopmental disorders that affect up to 1 in 100 individuals. People with autism display an array of symptoms encompassing emotional processing, sociability, perception and memory, and present as uniquely as the individual. No theory has suggested a single underlying neuropathology to account for these diverse symptoms. The Intense World Theory, proposed here, describes a unifying pathology producing the wide spectrum of manifestations observed in autists. This theory focuses on the neocortex, fundamental for higher cognitive functions, and the limbic system, key for processing emotions and social signals. Drawing on discoveries in animal models and neuroimaging studies in individuals with autism, we propose how a combination of genetics, toxin exposure and/or environmental stress could produce hyper-reactivity and hyper-plasticity in the microcircuits involved with perception, attention, memory and emotionality. These hyper-functioning circuits will eventually come to dominate their neighbors, leading to hyper-sensitivity to incoming stimuli, over-specialization in tasks and a hyper-preference syndrome. We make the case that this theory of enhanced brain function in autism explains many of the varied past results and resolves conflicting findings and views and makes some testable experimental predictions.
+2. Figure and Table Guidelines
+2.1. CC-BY Licence
+All figures, tables, and images will be published under a Creative Commons CC-BY licence, and permission must be obtained for use of copyrighted material from other sources (including re-published/adapted/modified/partial figures and images from the internet). It is the responsibility of the authors to acquire the licenses, follow any citation instructions requested by third-party rights holders, and cover any supplementary charges.
+For additional information, please see the Image Manipulation section.
+2.2. Figure Requirements and Style Guidelines
+Frontiers requires figures to be submitted individually, in the same order as they are referred to in the manuscript; the figures will then be automatically embedded at the end of the submitted manuscript. Kindly ensure that each figure is mentioned in the text and in numerical order.
+For figures with more than one panel, panels should be clearly indicated using labels (A), (B), (C), (D), etc. However, do not embed the part labels over any part of the image, these labels will be replaced during typesetting according to Frontiers’ journal style. For graphs, there must be a self-explanatory label (including units) along each axis.
+For LaTeX files, figures should be included in the provided PDF. In case of acceptance, our Production Office might require high-resolution files of the figures included in the manuscript in EPS, JPEG or TIF/TIFF format.
+In order to be able to upload more than one figure at a time, save the figures (labeled in order of appearance in the manuscript) in a zip file and upload them as ‘Supplementary Material Presentation.’
+Please note that figures not in accordance with the guidelines will cause substantial delay during the production process.
+2.2.1. Captions
+Captions should be preceded by the appropriate label, for example &quot;Figure 1.&quot; Figure captions should be placed at the end of the manuscript. Figure panels are referred to by bold capital letters in brackets: (A), (B), (C), (D), etc.
+2.2.2. Image Size and Resolution Requirements
+Figures should be prepared with the PDF layout in mind. Individual figures should not be longer than one page and with a width that corresponds to 1 column (85 mm) or 2 columns (180 mm).
+All images must have a resolution of 300 dpi at final size. Check the resolution of your figure by enlarging it to 150%. If the image appears blurry, jagged or has a stair-stepped effect, the resolution is too low.
+The text should be legible and of high quality. The smallest visible text should be no less than 8 points in height when viewed at actual size.
+Solid lines should not be broken up. Any lines in the graphic should be no smaller than 2 points wide.
+Please note that saving a figure directly as an image file (JPEG, TIF) can greatly affect the resolution of your image. To avoid this, one option is to export the file as PDF, then convert into TIFF or EPS using a graphics software.
+2.2.3. Format and Color Image Mode
+The following formats are accepted: TIF/TIFF (.tif/.tiff), JPEG (.jpg), and EPS (.eps) (upon acceptance).
+Images must be submitted in the color mode RGB.
+2.2.4. Chemical Structures
+Chemical structures should be prepared using ChemDraw or a similar program. If working with ChemDraw please use our Frontiers ChemDraw template. If working with another program please follow the guidelines given below:
+Drawing settings: chain angle, 120° bond spacing, 18% width; fixed length, 14.4 pt; bold width, 2.0 pt; line width, 0.6 pt; margin width, 1.6 pt; hash spacing, 2.5 pt. Scale 100% Atom Label settings: font, Arial; size, 8 pt.
+Assign all chemical compounds a bold, Arabic numeral in the order in which the compounds are presented in the manuscript text.
+2.3. Table Requirements and Style Guidelines
+Tables should be inserted at the end of the manuscript in an editable format. If you use a word processor, build your table in Word. If you use a LaTeX processor, build your table in LaTeX. An empty line should be left before and after the table.
+Table captions must be placed immediately before the table. Captions should be preceded by the appropriate label, for example &quot;Table 1.&quot; Please use only a single paragraph for the caption.
+Kindly ensure that each table is mentioned in the text and in numerical order.
+Please note that large tables covering several pages cannot be included in the final PDF for formatting reasons. These tables will be published as supplementary material.
+Please note that tables which are not according to the guidelines will cause substantial delay during the production process.
+2.4. Accessibility
+Frontiers encourages authors to make the figures and visual elements of their articles accessible for the visually impaired. An effective use of color can help people with low visual acuity, or color blindness, understand all the content of an article.
+These guidelines are easy to implement and are in accordance with the W3C Web Content Accessibility Guidelines (WCAG 2.1), the standard for web accessibility best practices.
+A. Ensure sufficient contrast between text and its background
+People who have low visual acuity or color blindness could find it difficult to read text with low contrast background color. Try using colors that provide maximum contrast.
+WC3 recommends the following contrast ratio levels:
+Level AA, contrast ratio of at least 4.5:1
+Level AAA, contrast ratio of at least 7:1
+Level AAContast ratio 4.6:1 
+Level AAContast ratio 9.5:1
+You can verify the contrast ratio of your palette with these online ratio checkers:
+WebAIM
+Color Safe
+B. Avoid using red or green indicators
+More than 99% of color-blind people have a red-green color vision deficiency.
+C. Avoid using only color to communicate information
+Elements with complex information like charts and graphs can be hard to read when only color is used to distinguish the data. Try to use other visual aspects to communicate information, such as shape, labels, and size. Incorporating patterns into the shape fills also make differences clearer; for an example please see below:
+3. Supplementary Material
+Data that are not of primary importance to the text, or which cannot be included in the article because they are too large or the current format does not permit it (such as videos, raw data traces, powerpoint presentations, etc.), can be uploaded as Supplementary Material during the submission procedure and will be displayed along with the published article. All supplementary files are deposited to Figshare for permanent storage and receive a DOI.
+Supplementary Material is not typeset, so please ensure that all information is clearly presented without tracked changes/highlighted text/line numbers, and the appropriate caption is included in the file. To avoid discrepancies between the published article and the supplementary material, please do not add the title, author list, affiliations or correspondence in the supplementary files.
+The Supplementary Material can be uploaded as Data Sheet (Word, Excel, CSV, CDX, FASTA, PDF or Zip files), Presentation (PowerPoint, PDF or Zip files), Image (CDX, EPS, JPEG, PDF, PNG or TIF/TIFF), Table (Word, Excel, CSV or PDF), Audio (MP3, WAV or WMA) or Video (AVI, DIVX, FLV, MOV, MP4, MPEG, MPG or WMV).
+For Supplementary Material templates (LaTeX and Word), see our Supplementary Material templates.
+4. References
+All citations in the text, figures or tables must be in the reference list and vice-versa.
+The names of the first six authors followed by et al. and the DOI (when available) should be provided.
+The reference list should only include articles that are published or accepted.
+Unpublished data, submitted manuscripts or personal communications should be cited within the text only, for the article types that allow such inclusions.
+For accepted but unpublished works use &quot;in press&quot; instead of page numbers.
+Data sets that have been deposited to an online repository should be included in the reference list. Include the version and unique identifier when available.
+Personal communications should be documented by a letter of permission.
+Website URLs should be included as footnotes.
+Any inclusion of verbatim text must be contained in quotation marks and clearly reference the original source.
+Preprints can be cited as long as a DOI or archive URL is available, and the citation clearly mentions that the contribution is a preprint. If a peer-reviewed journal publication for the same preprint exists, the official journal publication is the preferred source. See the Preprints section for more information.
+4.1. Science, Engineering and Humanities and Sustainability Journals
+4.1.1. In-text Citations
+For works by a single author, include the surname, followed by the year.
+For works by two authors, include both surnames, followed by the year.
+For works by more than two authors, include only the surname of the first author followed by et al., followed by the year.
+For Humanities and Social Sciences articles, include the page numbers.
+4.1.2. Reference List
+ARTICLE IN A PRINT JOURNAL
+Sondheimer, N., and Lindquist, S. (2000). Rnq1: an epigenetic modifier of protein function in yeast. Mol. Cell. 5, 163-172.
+ARTICLE IN AN ONLINE JOURNAL
+Tahimic, C.G.T., Wang, Y., Bikle, D.D. (2013). Anabolic effects of IGF-1 signaling on the skeleton. Front. Endocrinol. 4:6. doi: 10.3389/fendo.2013.00006
+ARTICLE OR CHAPTER IN A BOOK
+Sorenson, P. W., and Caprio, J. C. (1998). &quot;Chemoreception,&quot; in The Physiology of Fishes, ed. D. H. Evans (Boca Raton, FL: CRC Press), 375-405.
+BOOK
+Cowan, W. M., Jessell, T. M., and Zipursky, S. L. (1997). Molecular and Cellular Approaches to Neural Development. New York: Oxford University Press.
+ABSTRACT
+Hendricks, J., Applebaum, R., and Kunkel, S. (2010). A world apart? Bridging the gap between theory and applied social gerontology. Gerontologist 50, 284-293. Abstract retrieved from Abstracts in Social Gerontology database. (Accession No. 50360869)
+WEBSITE
+World Health Organization. (2018). E. coli. https://www.who.int/news-room/fact-sheets/detail/e-coli [Accessed March 15, 2018].
+PATENT
+Marshall, S. P. (2000). Method and apparatus for eye tracking and monitoring pupil dilation to evaluate cognitive activity. U.S. Patent No 6,090,051. Washington, DC: U.S. Patent and Trademark Office.
+DATA
+Perdiguero P, Venturas M, Cervera MT, Gil L, Collada C. Data from: Massive sequencing of Ulms minor's transcriptome provides new molecular tools for a genus under the constant threat of Dutch elm disease. Dryad Digital Repository. (2015) http://dx.doi.org/10.5061/dryad.ps837
+THESES AND DISSERTATIONS
+Smith, J. (2008) Post-structuralist discourse relative to phenomological pursuits in the deconstructivist arena. [dissertation/master’s thesis]. [Chicago (IL)]: University of Chicago
+PREPRINT
+Smith, J. (2008). Title of the document. Preprint repository name [Preprint]. Available at: https://persistent-url (Accessed March 15, 2018).
+4.1.3. Resources
+Chicago Manual of Style
+Frontiers Science Endnote Style
+Frontiers Science, Engineering and Humanities Bibstyle
+4.2. Health, Physics, and Mathematics Journals
+4.2.1. In-text Citations
+Please apply the Vancouver system for in-text citations.
+In-text citations should be numbered consecutively in order of appearance in the text—identified by Arabic numerals in the parenthesis for Health articles and in square brackets for Physics and Mathematics articles.
+4.2.2. Reference List
+ARTICLE IN A PRINT JOURNAL
+Sondheimer N, Lindquist S. Rnq1: an epigenetic modifier of protein function in yeast. Mol Cell (2000) 5:163-72.
+ARTICLE IN AN ONLINE JOURNAL
+Tahimic CGT, Wang Y, Bikle DD. Anabolic effects of IGF-1 signaling on the skeleton. Front Endocrinol (2013) 4:6. doi: 10.3389/fendo.2013.00006
+ARTICLE OR CHAPTER IN A BOOK
+Sorenson PW, Caprio JC. &quot;Chemoreception,&quot;. In: Evans DH, editor. The Physiology of Fishes. Boca Raton, FL: CRC Press (1998). p. 375-405.
+BOOK
+Cowan WM, Jessell TM, Zipursky SL. Molecular and Cellular Approaches to Neural Development. New York: Oxford University Press (1997). 345 p.
+ABSTRACT
+Christensen S, Oppacher F. An analysis of Koza's computational effort statistic for genetic programming. In: Foster JA, editor. Genetic Programming. EuroGP 2002: Proceedings of the 5th European Conference on Genetic Programming; 2002 Apr 3–5; Kinsdale, Ireland. Berlin: Springer (2002). p. 182–91.
+WEBSITE
+World Health Organization. E. coli (2018). https://www.who.int/news-room/fact-sheets/detail/e-coli [Accessed March 15, 2018].
+PATENT
+Pagedas AC, inventor; Ancel Surgical R&amp;D Inc., assignee. Flexible Endoscopic Grasping and Cutting Device and Positioning Tool Assembly. United States patent US 20020103498 (2002).
+DATA
+Perdiguero P, Venturas M, Cervera MT, Gil L, Collada C. Data from: Massive sequencing of Ulms minor's transcriptome provides new molecular tools for a genus under the constant threat of Dutch elm disease. Dryad Digital Repository. (2015) http://dx.doi.org/10.5061/dryad.ps837
+THESES AND DISSERTATIONS
+Smith, J. (2008) Post-structuralist discourse relative to phenomological pursuits in the deconstructivist arena. [dissertation/master’s thesis]. [Chicago (IL)]: University of Chicago
+PREPRINT
+​​Smith, J. Title of the document. Preprint repository name [Preprint] (2008). Available at: https://persistent-url (Accessed March 15, 2018).
+4.2.3. Resources
+Citing Medicine
+Frontiers Health Endnote Style
+Frontiers Health and Physics Bibstyle</Text>
+    </Snapshot>
+    <Snapshot Date="2021-01-20 12:45:45 -0300">
+        <Title>Untitled (Save)</Title>
+        <Text>Manuscript Formatting Guidelines
+1. General standards
+1.1. Article Type
+1.2. Templates
+1.3. Manuscript Length
+1.4. Language Editing
+1.5. Language Style
+1.6. Search Engine Optimization (SEO)
+1.7. CrossMark Policy
+1.8. Title
+1.9. Authors and Affiliations
+1.10. Consortium/Group and Collaborative Authors
+1.11. Abstract
+1.12. Keywords
+1.13. Text
+1.14. Nomenclature
+1.15. Sections
+1.16. Acknowledgments
+1.17. Contribution to the Field Statement
+2. Figure and Table Guidelines
+2.1. CC-BY Licence
+2.2. Figure Requirements and Style Guidelines
+2.2.1. Captions
+2.2.2. Image Size and Resolution Requirements
+2.2.3. Format and Color Image Mode
+2.2.4. Chemical Structures
+2.3. Table Requirements and Style Guidelines
+2.4. Accessibility
+3. Supplementary Material
+4. References
+4.1. Science, Engineering and Humanities and Sustainability Journals
+4.1.1. In-text Citations
+4.1.2. Reference List
+4.1.3. Resources
+4.2. Health, Physics, and Mathematics Journals
+4.2.1. In-text Citations
+4.2.2. Reference List
+4.2.3. Resources
+1. General standards
+1.1. Article Type
+Frontiers requires authors to carefully select the appropriate article type for their manuscript and to comply with the article type descriptions defined in the journal’s &quot;Article Types&quot; page, which can be seen from the &quot;For Authors&quot; menu on any Frontiers journal page. Please pay close attention to the word count limits.
+1.2. Templates
+If working with Word please use our Frontiers Word templates. If you wish to submit your article as LaTeX, we recommend our Frontiers LaTeX templates.
+For LaTeX files, please ensure all relevant manuscript files are uploaded: .tex file, PDF, and .bib file (if the bibliography is not already included in the .tex file).
+During the Interactive Review, authors are encouraged to upload versions using “Track Changes.” Editors and reviewers can only download the PDF file of the submitted manuscript.
+1.3. Manuscript Length
+Frontiers encourages the authors to closely follow the article word count lengths given in the “Article Types” page of the journals. The manuscript length includes only the main body of the text, footnotes, and all citations within it, and excludes the abstract, section titles, figure and table captions, funding statement, acknowledgments, and references in the bibliography. Please indicate the number of words and the number of figures and tables included in your manuscript on the first page.
+1.4. Language Editing
+Frontiers requires manuscripts submitted to meet international English language standards to be considered for publication.
+For authors who would like their manuscript to receive language editing or proofreading to improve the clarity of the manuscript and help highlight their research, Frontiers recommends the language-editing services provided by the following external partners:
+Editage
+Frontiers is pleased to recommend the language-editing service provided by our external partner Editage to authors who believe their manuscripts would benefit from professional editing. These services may be particularly useful for researchers for whom English is not the primary language. They can help to improve the grammar, syntax, and flow of your manuscript prior to submission. Frontiers authors will receive a 10% discount by visiting the following link: https://editage.com/frontiers/.
+The Charlesworth Group
+Frontiers recommends the Charlesworth Group’s author services, who has a long-standing track record in language editing and proofreading. This is a third-party service for which Frontiers authors will receive a 10% discount by visiting the following link: https://www.cwauthors.com/frontiers/.
+Frontiers: www.cwauthors.com.cn/frontiers/.
+Note that sending your manuscript for language editing does not imply or guarantee that it will be accepted for publication by a Frontiers journal. Editorial decisions on the scientific content of a manuscript are independent of whether it has received language editing or proofreading by the partner services, or other services.
+1.5. Language Style
+The default language style at Frontiers is American English. If you prefer your article to be formatted in British English, please specify this on the first page of your manuscript. For any questions regarding style, Frontiers recommends authors to consult the Chicago Manual of Style.
+1.6. Search Engine Optimization (SEO)
+There are a few simple ways to maximize your article’s discoverability. Follow the steps below to improve search results of your article:
+include a few of your article's keywords in the title of the article;
+do not use long article titles;
+pick 5 to 8 keywords using a mix of generic and more specific terms on the article subject(s);
+use the maximum amount of keywords in the first 2 sentences of the abstract;
+use some of the keywords in level 1 headings.
+1.7. CrossMark Policy
+CrossMark is a multi-publisher initiative to provide a standard way for readers to locate the current version of a piece of content. By applying the CrossMark logo Frontiers is committed to maintaining the content it publishes and to alerting readers to changes if and when they occur. Clicking on the CrossMark logo will tell you the current status of a document and may also give you additional publication record information about the document.
+1.8. Title
+The title should be concise, omitting terms that are implicit and, where possible, be a statement of the main result or conclusion presented in the manuscript. Abbreviations should be avoided within the title.
+Witty or creative titles are welcome, but only if relevant and within measure. Consider if a title meant to be thought-provoking might be misinterpreted as offensive or alarming. In extreme cases, the editorial office may veto a title and propose an alternative.
+Authors should try to avoid, if possible:
+titles that are a mere question without giving the answer;
+unambitious titles, for example starting with &quot;Towards,&quot; &quot;A description of,&quot; &quot;A characterization of,&quot; &quot;Preliminary study on;&quot;
+vague titles, for example starting with &quot;Role of…,&quot; &quot;Link between…,&quot; &quot;Effect of...&quot; that do not specify the role, link, or effect;
+include terms that are out of place, for example the taxonomic affiliation apart from species name.
+For Corrigenda, Book Reviews, General Commentaries, and Editorials, the title of your manuscript should have the following format:
+&quot;Corrigendum: Title of Original Article&quot;
+&quot;Book Review: Title of Book&quot;
+General Commentaries
+&quot;Commentary: Title of Original Article&quot;
+&quot;Response: Commentary: Title of Original Article&quot;
+&quot;Editorial: Title of Research Topic&quot;
+The running title should be a maximum of 5 words in length.
+1.9. Authors and Affiliations
+All names are listed together and separated by commas. Provide exact and correct author names as these will be indexed in official archives. Affiliations should be keyed to the author's name with superscript numbers and be listed as follows: Laboratory, Institute, Department, Organization, City, State abbreviation (only for United States, Canada, and Australia), and Country (without detailed address information such as city zip codes or street names).
+Example: Max Maximus1
+1 Department of Excellence, International University of Science, New York, NY, United States.
+Correspondence:
+The Corresponding Author(s) should be marked with an asterisk in the author list. Provide the exact contact email address of the corresponding author(s) in a separate section.
+Example: Max Maximus
+maximus@iuscience.edu
+If any authors wish to include a change of address, list the present address(es) below the correspondence details using a unique superscript symbol keyed to the author(s) in the author list.
+Equal contributions:
+The authors who have contributed equally should be marked with a symbol (†) in the author list of the doc/latex and pdf files of the manuscript uploaded at submission.
+Standard statements to include in the author list:
+#
+
+Example: Max Maximus 1†, John Smith2† and Barbara Smith1
+†These authors have contributed equally to this work and share first authorship
+1.10. Consortium/Group and Collaborative Authors
+Consortium/group authorship should be listed in the manuscript with the other author(s).
+In cases where authorship is retained by the consortium/group, the consortium/group should be listed as an author separated by “,” or “and,”. The consortium/group name will appear in the author list, in the citation, and in the copyright. If provided, the consortium/group members will be listed in a separate section at the end of the article.
+For the collaborators of the consortium/group to be indexed in PubMed, they do not have to be inserted in the Frontiers submission system individually. However, in the manuscript itself, provide a section with the name of the consortium/group as the heading followed by the list of collaborators, so they can be tagged accordingly and indexed properly.
+Example: John Smith, Barbara Smith and The Collaborative Working Group.
+In cases where work is presented by the author(s) on behalf of a consortium/group, it should be included in the author list separated with the wording “for” or “on behalf of.” The consortium/group will not retain authorship and will only appear in the author list.
+Example: John Smith and Barbara Smith on behalf of The Collaborative Working Group.
+1.11. Abstract
+As a primary goal, the abstract should render the general significance and conceptual advance of the work clearly accessible to a broad readership. In the abstract, minimize the use of abbreviations and do not cite references, figures or tables.
+For Clinical Trial articles, please include the Unique Identifier and the URL of the publicly accessible website on which the trial is registered.
+1.12. Keywords
+All article types require a minimum of 5 and a maximum of 8 keywords.
+1.13. Text
+The entire document should be single-spaced and must contain page and line numbers in order to facilitate the review process. The manuscript should be written using either Word or LaTeX. For templates, see 1.2. Templates.
+1.14. Nomenclature
+The use of abbreviations should be kept to a minimum. Non-standard abbreviations should be avoided unless they appear at least four times, and defined upon first use in the main text. Consider also giving a list of non-standard abbreviations at the end, immediately before the Acknowledgments.
+Equations should be inserted in editable format from the equation editor.
+Italicize gene symbols and use the approved gene nomenclature where it is available. For human genes, please refer to the HUGO Gene Nomenclature Committee (HGNC). New gene symbols should be submitted here. Common alternative gene aliases may also be reported, but should not be used alone in place of the HGNC symbol. Nomenclature committees for other species are listed here. Protein products are not italicized.
+We encourage the use of Standard International Units in all manuscripts.
+Chemical compounds and biomolecules should be referred to using systematic nomenclature, preferably using the recommendations by IUPAC.
+Astronomical objects should be referred to using the nomenclature given by the International Astronomical Union provided here.
+Life Science Identifiers (LSIDs) for ZOOBANK registered names or nomenclatural acts should be listed in the manuscript before the keywords. An LSID is represented as a uniform resource name (URN) with the following format: urn:lsid:&lt;Authority&gt;:&lt;Namespace&gt;:&lt;ObjectID&gt;[:&lt;Version&gt;]
+For more information on LSIDs please see the Code section.
+1.15. Sections
+The manuscript is organized by headings and subheadings. The section headings should be those appropriate for your field and the research itself. You may insert up to 5 heading levels into your manuscript (i.e.,: 3.2.2.1.2 Heading Title).
+For Original Research articles, it is recommended to organize your manuscript in the following sections or their equivalents for your field:
+INTRODUCTION
+Succinct, with no subheadings.
+MATERIALS AND METHODS
+This section may be divided by subheadings and should contain sufficient detail so that when read in conjunction with cited references, all procedures can be repeated. For experiments reporting results on animal or human subject research, an ethics approval statement should be included in this section (for further information, see the Bioethics section.)
+RESULTS
+This section may be divided by subheadings. Footnotes should not be used and must be transferred to the main text.
+DISCUSSION
+This section may be divided by subheadings. Discussions should cover the key findings of the study: discuss any prior research related to the subject to place the novelty of the discovery in the appropriate context, discuss the potential shortcomings and limitations on their interpretations, discuss their integration into the current understanding of the problem and how this advances the current views, speculate on the future direction of the research, and freely postulate theories that could be tested in the future.
+For further information, please check the descriptions defined in the journal’s &quot;Article Types&quot; page, which can be seen from the &quot;For Authors&quot; menu on any Frontiers journal page.
+1.16. Acknowledgments
+This is a short text to acknowledge the contributions of specific colleagues, institutions, or agencies that aided the efforts of the authors. Should the content of the manuscript have previously appeared online, such as in a thesis or preprint, this should be mentioned here, in addition to listing the source within the reference list.
+1.17. Contribution to the Field Statement
+When you submit your manuscript, you will be required to briefly summarize in 200 words your manuscript’s contribution to, and position in, the existing literature in your field. This should be written avoiding any technical language or non-standard acronyms. The aim should be to convey the meaning and importance of this research to a non-expert. While Frontiers evaluates articles using objective criteria, rather than impact or novelty, your statement should frame the question(s) you have addressed in your work in the context of the current body of knowledge, providing evidence that the findings—whether positive or negative—contribute to progress in your research discipline. This will assist the Chief Editors to determine whether your manuscript fits within the scope of a specialty as defined in its mission statement; a detailed statement will also facilitate the identification of the editors and reviewers most appropriate to evaluate your work, ultimately expediting your manuscript's initial consideration.
+Example Statement on: Markram K and Markram H (2010) The Intense World Theory – a unifying theory of the neurobiology of autism. Front. Hum. Neurosci. 4:224. doi: 10.3389/fnhum.2010.00224
+Autism spectrum disorders are a group of neurodevelopmental disorders that affect up to 1 in 100 individuals. People with autism display an array of symptoms encompassing emotional processing, sociability, perception and memory, and present as uniquely as the individual. No theory has suggested a single underlying neuropathology to account for these diverse symptoms. The Intense World Theory, proposed here, describes a unifying pathology producing the wide spectrum of manifestations observed in autists. This theory focuses on the neocortex, fundamental for higher cognitive functions, and the limbic system, key for processing emotions and social signals. Drawing on discoveries in animal models and neuroimaging studies in individuals with autism, we propose how a combination of genetics, toxin exposure and/or environmental stress could produce hyper-reactivity and hyper-plasticity in the microcircuits involved with perception, attention, memory and emotionality. These hyper-functioning circuits will eventually come to dominate their neighbors, leading to hyper-sensitivity to incoming stimuli, over-specialization in tasks and a hyper-preference syndrome. We make the case that this theory of enhanced brain function in autism explains many of the varied past results and resolves conflicting findings and views and makes some testable experimental predictions.
+2. Figure and Table Guidelines
+2.1. CC-BY Licence
+All figures, tables, and images will be published under a Creative Commons CC-BY licence, and permission must be obtained for use of copyrighted material from other sources (including re-published/adapted/modified/partial figures and images from the internet). It is the responsibility of the authors to acquire the licenses, follow any citation instructions requested by third-party rights holders, and cover any supplementary charges.
+For additional information, please see the Image Manipulation section.
+2.2. Figure Requirements and Style Guidelines
+Frontiers requires figures to be submitted individually, in the same order as they are referred to in the manuscript; the figures will then be automatically embedded at the end of the submitted manuscript. Kindly ensure that each figure is mentioned in the text and in numerical order.
+For figures with more than one panel, panels should be clearly indicated using labels (A), (B), (C), (D), etc. However, do not embed the part labels over any part of the image, these labels will be replaced during typesetting according to Frontiers’ journal style. For graphs, there must be a self-explanatory label (including units) along each axis.
+For LaTeX files, figures should be included in the provided PDF. In case of acceptance, our Production Office might require high-resolution files of the figures included in the manuscript in EPS, JPEG or TIF/TIFF format.
+In order to be able to upload more than one figure at a time, save the figures (labeled in order of appearance in the manuscript) in a zip file and upload them as ‘Supplementary Material Presentation.’
+Please note that figures not in accordance with the guidelines will cause substantial delay during the production process.
+2.2.1. Captions
+Captions should be preceded by the appropriate label, for example &quot;Figure 1.&quot; Figure captions should be placed at the end of the manuscript. Figure panels are referred to by bold capital letters in brackets: (A), (B), (C), (D), etc.
+2.2.2. Image Size and Resolution Requirements
+Figures should be prepared with the PDF layout in mind. Individual figures should not be longer than one page and with a width that corresponds to 1 column (85 mm) or 2 columns (180 mm).
+All images must have a resolution of 300 dpi at final size. Check the resolution of your figure by enlarging it to 150%. If the image appears blurry, jagged or has a stair-stepped effect, the resolution is too low.
+The text should be legible and of high quality. The smallest visible text should be no less than 8 points in height when viewed at actual size.
+Solid lines should not be broken up. Any lines in the graphic should be no smaller than 2 points wide.
+Please note that saving a figure directly as an image file (JPEG, TIF) can greatly affect the resolution of your image. To avoid this, one option is to export the file as PDF, then convert into TIFF or EPS using a graphics software.
+2.2.3. Format and Color Image Mode
+The following formats are accepted: TIF/TIFF (.tif/.tiff), JPEG (.jpg), and EPS (.eps) (upon acceptance).
+Images must be submitted in the color mode RGB.
+2.2.4. Chemical Structures
+Chemical structures should be prepared using ChemDraw or a similar program. If working with ChemDraw please use our Frontiers ChemDraw template. If working with another program please follow the guidelines given below:
+Drawing settings: chain angle, 120° bond spacing, 18% width; fixed length, 14.4 pt; bold width, 2.0 pt; line width, 0.6 pt; margin width, 1.6 pt; hash spacing, 2.5 pt. Scale 100% Atom Label settings: font, Arial; size, 8 pt.
+Assign all chemical compounds a bold, Arabic numeral in the order in which the compounds are presented in the manuscript text.
+2.3. Table Requirements and Style Guidelines
+Tables should be inserted at the end of the manuscript in an editable format. If you use a word processor, build your table in Word. If you use a LaTeX processor, build your table in LaTeX. An empty line should be left before and after the table.
+Table captions must be placed immediately before the table. Captions should be preceded by the appropriate label, for example &quot;Table 1.&quot; Please use only a single paragraph for the caption.
+Kindly ensure that each table is mentioned in the text and in numerical order.
+Please note that large tables covering several pages cannot be included in the final PDF for formatting reasons. These tables will be published as supplementary material.
+Please note that tables which are not according to the guidelines will cause substantial delay during the production process.
+2.4. Accessibility
+Frontiers encourages authors to make the figures and visual elements of their articles accessible for the visually impaired. An effective use of color can help people with low visual acuity, or color blindness, understand all the content of an article.
+These guidelines are easy to implement and are in accordance with the W3C Web Content Accessibility Guidelines (WCAG 2.1), the standard for web accessibility best practices.
+A. Ensure sufficient contrast between text and its background
+People who have low visual acuity or color blindness could find it difficult to read text with low contrast background color. Try using colors that provide maximum contrast.
+WC3 recommends the following contrast ratio levels:
+Level AA, contrast ratio of at least 4.5:1
+Level AAA, contrast ratio of at least 7:1
+Level AAContast ratio 4.6:1 
+Level AAContast ratio 9.5:1
+You can verify the contrast ratio of your palette with these online ratio checkers:
+WebAIM
+Color Safe
+B. Avoid using red or green indicators
+More than 99% of color-blind people have a red-green color vision deficiency.
+C. Avoid using only color to communicate information
+Elements with complex information like charts and graphs can be hard to read when only color is used to distinguish the data. Try to use other visual aspects to communicate information, such as shape, labels, and size. Incorporating patterns into the shape fills also make differences clearer; for an example please see below:
+3. Supplementary Material
+Data that are not of primary importance to the text, or which cannot be included in the article because they are too large or the current format does not permit it (such as videos, raw data traces, powerpoint presentations, etc.), can be uploaded as Supplementary Material during the submission procedure and will be displayed along with the published article. All supplementary files are deposited to Figshare for permanent storage and receive a DOI.
+Supplementary Material is not typeset, so please ensure that all information is clearly presented without tracked changes/highlighted text/line numbers, and the appropriate caption is included in the file. To avoid discrepancies between the published article and the supplementary material, please do not add the title, author list, affiliations or correspondence in the supplementary files.
+The Supplementary Material can be uploaded as Data Sheet (Word, Excel, CSV, CDX, FASTA, PDF or Zip files), Presentation (PowerPoint, PDF or Zip files), Image (CDX, EPS, JPEG, PDF, PNG or TIF/TIFF), Table (Word, Excel, CSV or PDF), Audio (MP3, WAV or WMA) or Video (AVI, DIVX, FLV, MOV, MP4, MPEG, MPG or WMV).
+For Supplementary Material templates (LaTeX and Word), see our Supplementary Material templates.
+4. References
+All citations in the text, figures or tables must be in the reference list and vice-versa.
+The names of the first six authors followed by et al. and the DOI (when available) should be provided.
+The reference list should only include articles that are published or accepted.
+Unpublished data, submitted manuscripts or personal communications should be cited within the text only, for the article types that allow such inclusions.
+For accepted but unpublished works use &quot;in press&quot; instead of page numbers.
+Data sets that have been deposited to an online repository should be included in the reference list. Include the version and unique identifier when available.
+Personal communications should be documented by a letter of permission.
+Website URLs should be included as footnotes.
+Any inclusion of verbatim text must be contained in quotation marks and clearly reference the original source.
+Preprints can be cited as long as a DOI or archive URL is available, and the citation clearly mentions that the contribution is a preprint. If a peer-reviewed journal publication for the same preprint exists, the official journal publication is the preferred source. See the Preprints section for more information.
+4.1. Science, Engineering and Humanities and Sustainability Journals
+4.1.1. In-text Citations
+For works by a single author, include the surname, followed by the year.
+For works by two authors, include both surnames, followed by the year.
+For works by more than two authors, include only the surname of the first author followed by et al., followed by the year.
+For Humanities and Social Sciences articles, include the page numbers.
+4.1.2. Reference List
+ARTICLE IN A PRINT JOURNAL
+Sondheimer, N., and Lindquist, S. (2000). Rnq1: an epigenetic modifier of protein function in yeast. Mol. Cell. 5, 163-172.
+ARTICLE IN AN ONLINE JOURNAL
+Tahimic, C.G.T., Wang, Y., Bikle, D.D. (2013). Anabolic effects of IGF-1 signaling on the skeleton. Front. Endocrinol. 4:6. doi: 10.3389/fendo.2013.00006
+ARTICLE OR CHAPTER IN A BOOK
+Sorenson, P. W., and Caprio, J. C. (1998). &quot;Chemoreception,&quot; in The Physiology of Fishes, ed. D. H. Evans (Boca Raton, FL: CRC Press), 375-405.
+BOOK
+Cowan, W. M., Jessell, T. M., and Zipursky, S. L. (1997). Molecular and Cellular Approaches to Neural Development. New York: Oxford University Press.
+ABSTRACT
+Hendricks, J., Applebaum, R., and Kunkel, S. (2010). A world apart? Bridging the gap between theory and applied social gerontology. Gerontologist 50, 284-293. Abstract retrieved from Abstracts in Social Gerontology database. (Accession No. 50360869)
+WEBSITE
+World Health Organization. (2018). E. coli. https://www.who.int/news-room/fact-sheets/detail/e-coli [Accessed March 15, 2018].
+PATENT
+Marshall, S. P. (2000). Method and apparatus for eye tracking and monitoring pupil dilation to evaluate cognitive activity. U.S. Patent No 6,090,051. Washington, DC: U.S. Patent and Trademark Office.
+DATA
+Perdiguero P, Venturas M, Cervera MT, Gil L, Collada C. Data from: Massive sequencing of Ulms minor's transcriptome provides new molecular tools for a genus under the constant threat of Dutch elm disease. Dryad Digital Repository. (2015) http://dx.doi.org/10.5061/dryad.ps837
+THESES AND DISSERTATIONS
+Smith, J. (2008) Post-structuralist discourse relative to phenomological pursuits in the deconstructivist arena. [dissertation/master’s thesis]. [Chicago (IL)]: University of Chicago
+PREPRINT
+Smith, J. (2008). Title of the document. Preprint repository name [Preprint]. Available at: https://persistent-url (Accessed March 15, 2018).
+4.1.3. Resources
+Chicago Manual of Style
+Frontiers Science Endnote Style
+Frontiers Science, Engineering and Humanities Bibstyle
+4.2. Health, Physics, and Mathematics Journals
+4.2.1. In-text Citations
+Please apply the Vancouver system for in-text citations.
+In-text citations should be numbered consecutively in order of appearance in the text—identified by Arabic numerals in the parenthesis for Health articles and in square brackets for Physics and Mathematics articles.
+4.2.2. Reference List
+ARTICLE IN A PRINT JOURNAL
+Sondheimer N, Lindquist S. Rnq1: an epigenetic modifier of protein function in yeast. Mol Cell (2000) 5:163-72.
+ARTICLE IN AN ONLINE JOURNAL
+Tahimic CGT, Wang Y, Bikle DD. Anabolic effects of IGF-1 signaling on the skeleton. Front Endocrinol (2013) 4:6. doi: 10.3389/fendo.2013.00006
+ARTICLE OR CHAPTER IN A BOOK
+Sorenson PW, Caprio JC. &quot;Chemoreception,&quot;. In: Evans DH, editor. The Physiology of Fishes. Boca Raton, FL: CRC Press (1998). p. 375-405.
+BOOK
+Cowan WM, Jessell TM, Zipursky SL. Molecular and Cellular Approaches to Neural Development. New York: Oxford University Press (1997). 345 p.
+ABSTRACT
+Christensen S, Oppacher F. An analysis of Koza's computational effort statistic for genetic programming. In: Foster JA, editor. Genetic Programming. EuroGP 2002: Proceedings of the 5th European Conference on Genetic Programming; 2002 Apr 3–5; Kinsdale, Ireland. Berlin: Springer (2002). p. 182–91.
+WEBSITE
+World Health Organization. E. coli (2018). https://www.who.int/news-room/fact-sheets/detail/e-coli [Accessed March 15, 2018].
+PATENT
+Pagedas AC, inventor; Ancel Surgical R&amp;D Inc., assignee. Flexible Endoscopic Grasping and Cutting Device and Positioning Tool Assembly. United States patent US 20020103498 (2002).
+DATA
+Perdiguero P, Venturas M, Cervera MT, Gil L, Collada C. Data from: Massive sequencing of Ulms minor's transcriptome provides new molecular tools for a genus under the constant threat of Dutch elm disease. Dryad Digital Repository. (2015) http://dx.doi.org/10.5061/dryad.ps837
+THESES AND DISSERTATIONS
+Smith, J. (2008) Post-structuralist discourse relative to phenomological pursuits in the deconstructivist arena. [dissertation/master’s thesis]. [Chicago (IL)]: University of Chicago
+PREPRINT
+​​Smith, J. Title of the document. Preprint repository name [Preprint] (2008). Available at: https://persistent-url (Accessed March 15, 2018).
+4.2.3. Resources
+Citing Medicine
+Frontiers Health Endnote Style
+Frontiers Health and Physics Bibstyle</Text>
+    </Snapshot>
+</SnapshotIndexes>

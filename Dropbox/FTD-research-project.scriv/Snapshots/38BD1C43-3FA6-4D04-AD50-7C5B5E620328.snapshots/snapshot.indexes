@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="38BD1C43-3FA6-4D04-AD50-7C5B5E620328">
+    <Snapshot Date="2021-01-20 17:58:46 -0300">
+        <Title>Untitled (Save)</Title>
+        <Text>
+C9orf72 in human
+Begin &gt; end
+5’ &gt; 3’
+27546545 &gt; 27573866
+
+
+OMIM IDs for FTD/ALS
+105500 (FTD and/or ALS type 1) 
+117300
+164700
+167320
+172700
+182830
+205200
+208700
+300857
+600274
+600333
+600795
+607485
+608030
+612069
+613954
+615422
+615424
+615911
+616208
+616437
+616439
+
+ORPHA IDs
+52430	
+100069
+275864
+275872
+329329
+412066
+NAMING GENES
+Alternative Transcripts
+Mttp
+microsomal triglyceride transfer protein
+Splice variant
+Mttp_EU553486  
+microsomal triglyceride transfer protein splice variant defined by transcript sequence EU553486
+Read-through Transcripts
+Read-through transcript genes should be named with a unique symbol and name. An example is diagrammed below.
+#
+Opposite Strand Genes
+Transcripts from the opposite strand that overlap another gene, or a transcript that is derived principally from the introns of another gene, or one that uses an alternative reading frame to another gene (and does not use the existing frame to a significant extent) should be given a different name.
+Other genes on the opposite strand should be assigned the symbol of the known gene with the suffix &quot;os&quot; for opposite strand.
+Example:
+Zbtb8os  zinc finger and BTB domain containing 8, opposite strand
+Gene Families
+Identified by Hybridization
+Identified by Sequence Comparison
+ESTs
+Expressed Sequence Tags (ESTs): ESTs that clearly derive from a known gene should be considered simply as an assay (marker) for that known gene 
+ Anonymous DNA Segments
+Mapped DNA Segments: 
+D8Mit17
+DNA segment, Chr 8, Massachusetts Institute of Technology 17
+D1Arb27 
+DNA segment, Chr 1, Arthritis and Rheumatism Branch, NIAMS
+D4Mit17
+DNA segment, Chr 4, Massachusetts Institute of Technology 17 (a simple sequence length polymorphism within the mouse Orm1 gene)
+Mouse or rat DNA segments that are detected by cross-hybridization to human segments are given the human name with &quot;chromosome N, cross-hybridizing to human DNA segment&quot; inserted between DNA segment and the human segment code (see symbols). The same applies for rat DNA segments detected by cross-hybridization to mouse segments (or vice versa).
+D16H21S13
+Mouse DNA segment on Chr 16 that cross-hybridizes with a DNA segment D21S13 from human Chr 21
+D1M7Mit236  
+Rat DNA segment on Chr 1 that cross-hybridizes with a DNA segment D7Mit236 from mouse Chr 7
+Gene Trap Loci
+Gene trap experiments in embryonic stem (ES) cells produce cell lines in which integration into a putative gene is selected by virtue of its expression in ES cells. The trapped gene is usually (though not necessarily) mutated by the integration. The site of integration can be characterized by a number of means, including cloning or extension of cDNA products. The loci of integration of a series of gene trap lines, once characterized as potentially unique, can be named and symbolized as members of a series, using the prefix Gt (for gene trap), followed by a vector designation in parentheses, a serial number assigned by the laboratory characterizing the locus, and the laboratory ILAR code. 
+For example, the 26th gene &quot;trapped&quot; by the ROSA vector in the laboratory of Phillip Soriano (Sor) is symbolized as:
+Gt(ROSA)26Sor
+Quantitative Trait Loci, Resistance Genes, and Immune Response Genes
+Differences between inbred strains and the phenotype of offspring of crosses between strains provide evidence for the existence of genes affecting disease resistance, immune response, and many other quantitative traits (quantitative trait loci, QTL)
+Names and symbols for QTL s
+hould be brief and descriptive and reflect the trait or phenotype measured 
+a root name describing the measured trait
+the designation QTL (recommended)
+a serial number
+
+in mouse  
+Cafq1
+caffeine metabolism QTL 1
+Cafq2
+caffeine metabolism QTL 2
+Cafq3  
+caffeine metabolism QTL 3
+in rat
+Kidm1
+kidney mass QTL 1
+Kidm2
+kidney mass QTL 2
+Kidm3  
+kidney mass QTL 3
+
+Chromosomal Rearrangements
+Symbols for chromosomal deletions, inversions, and translocations are given in the Rules for Nomenclature of Chromosome Aberrations. The end points of each of these rearrangements, however, define a locus. Where there is only a single locus on a chromosome, the chromosome anomaly symbol serves to define it. However, where an anomaly gives two loci on a single chromosome they can bedistinguished by the letters p and d for proximal and distal.
+For example, In(1)1Rk-p, In(1)1Rk-d are the proximal and distal end points of the chromosomal inversion In(1)1Rk in mouse.
+Genes Residing on the Mitochondria
+The mitochondria carry essential genes, among them many transfer RNA (tRNA) genes. Genes residing on the mitochondria have a prefix mt- (lowercase mt followed by a hyphen). For transfer RNAs, the symbols consist of three parts, mt-, T (for tRNA), and a single lowercase letter for the amino acid. The chromosomal designation for mitochondrial genes is Chr MT.
+Examples:
+mt-Tc
+tRNA, cysteine, mitochondrial(a tRNA gene residing on the mitochondria)
+mt-Atp6  
+ATP synthase 6, mitochondrial(a non-tRNA gene residing on the mitochondria)
+
+RNA Housekeeping Genes Encoded in the Nucleus
+There are hundreds of loci encoding transfer RNAs (tRNA) and ribosomal RNAs (rRNA), and many are encoded in the nucleus. The following method symbolizes these nuclear-encoded RNA genes:
+Naming nuclear encoded transfer-RNAs
+Symbols for nuclear encoded transfer-RNAs consist of four parts:
+
+n-
+lowercase n followed by a hyphen to indicate nuclear encoding
+T
+uppercase T to indicate transfer-RNA
+A
+the single letter abbreviation for the amino acid (uppercase)
+xxx
+the 3-letter anticodon (lowercase)
+#
+serial number (only when needed to distinguish multiple copies of a particular anticodon tRNA class
+
+n-TAagc12
+nuclear encoded tRNA alanine 12 (anticodon AGC)
+
+Naming nuclear encoded ribosomal-RNAs
+Symbols for nuclear encoded ribosomal-RNAs consist of four parts:
+
+n-
+lowercase n followed by a hyphen to indicate nuclear encoding
+R
+uppercase R to indicate ribosomal-RNA
+subunit
+the subunit designation
+#
+serial number for this ribosomal-RNA
+
+n-R5s104
+nuclear encoded rRNA 5S 104
+
+microRNAs and microRNA clusters
+MicroRNAs (miRNAs) are abundant, short RNA molecules that are post-transcriptional regulators that bind to complementary sequences on target mRNA transcripts, usually resulting in translational repression or target degradation and gene silencing.
+Naming microRNAsSymbols for microRNAs consist of the root symbol Mir followed by the numbering scheme tracked in the miRBase database (www.mirbase.org), a database tracking microRNAs reported for all species. (c.f. Desvignes, et al., 2015)
+For example, mouse Mir143 (microRNA 143) is represented as mmu-mir-143 in miRBase, with the mmu signifying mouse.
+Naming microRNA clustersA microRNA cluster consists of several microRNAs in immediate genome proximity. These may be given symbols and names to refer unambiguously to the entire cluster.
+For a microRNA cluster, the name will consist of the root symbol Mirc (for microRNA cluster) followed by a serial number (1, 2, 3…) for the cluster. MGI (for mouse) or RGD (for rat) should be consulted for the next available cluster number when a new cluster is defined. The list of microRNAs included in each cluster will be recorded in relevant database records for the genes, knockouts, and strains.
+(Note that this differs from the definition of miRBase, which simply refers to clustered miRNAs as those less than 10kb from the miRNA of interest. Thus, in miRBase clusters defined based on one miRNA may or may not overlap clusters based on another miRNA.
+Long noncoding RNAs
+Long non-coding RNAs (long ncRNAs, lncRNAs) are defined as transcripts longer than 200 nucleotides that are not translated into protein. The conservation of long ncRNAs is assessed on a case by case basis.
+Lincmd1 for long intergenic non-protein coding RNA of muscle differentiation 1
+Xist for X inactive specific transcript
+Enhancers, Promoters, and Regulatory Regions
+Enhancers, promoters, and regulatory regions can influence multiple genes. In addition, they can be localized far away from the gene(s) that they affect. Thus, it is misleading to name them based on the gene for which regulation was first recognized.
+Enhancers, promoters, and regulatory regions are to be symbolized as:
+
+Rr#
+regulatory region #
+where # indicates the next number in the series
+
+
+Names and Symbols for Variant and Mutant Alleles
+Different alleles of a gene or locus can be distinguished by a number of methods, including DNA fragment length, protein electrophoretic mobility, sequence comparison, or variant physiological or morphological phenotype.
+All mutant alleles, whether of spontaneous or induced origin, targeted mutations, gene traps, or transgenics should be submitted to MGD (mouse) or RGD (rat) for an allele or gene accession identifier.
+3.1   Mutant Phenotypes
+3.1.1   Genes Known Only by Mutant Phenotypes
+Where a gene is known only by mutant phenotype, the gene is given the name and symbol of the first identified mutant. Symbols of mutations conferring a recessive phenotype begin with a lowercase letter; symbols for dominant or semidominant phenotype genes begin with an uppercase letter.
+Examples:
+In mouse, recessive spotting, rs; abnormal feet and tail, Aft; circling, cir
+
+Further (allelic) mutations at the same locus, if they have the same phenotype, are given the same name with a Laboratory code preceded by a serial number (if more than one additional allele from the same lab). In the symbol the Laboratory code is added as a superscript.
+Example:
+tp2J   the second new allele of the taupe gene identified at The Jackson Laboratory
+
+If a new allelic mutation of a gene known only by a mutant phenotype is caused by a transgenic insertion, the symbol of this mutation should use the symbol of the transgene as superscript (see Section 3.4.2 and Section 4).
+Example:
+awgTg(GBtslenv)832Pkw  
+this mutation of abnormal wobbly gait is caused by a transgene in mouse line 832, produced in the laboratory of Paul Wong. (An abbreviated form, awgTg832Pkw can be used if the abbreviated designation is unique.)
+
+If the additional allele has a different phenotype, it may be given a different name, but when symbolized the new mutant symbol is superscripted to the original mutant symbol. Also, if a new mutation is described and named but not shown to be an allele of an existing gene until later, the original name of the new mutation can be kept. Even if the phenotype is apparently identical, the original symbol is used, with the new mutation symbol as superscript.
+Example:
+grey coat is an allele of recessive spotting (rs) in the mouse, and hence is symbolized rsgrc
+
+3.1.2   Phenotypes Due to Mutations in Structural Genes
+When a spontaneous or induced mutant phenotype is subsequently found to be a mutation in a structural gene, or the gene in which the mutation has occurred is cloned, the mutation becomes an allele of that gene and the symbol for the mutant allele is formed by adding the original mutant symbol as a superscript to the new gene symbol. (The mutant symbol should retain its initial upper or lowercase letter).
+The hotfoot (ho) mutation of the mouse glutamate receptor Grid2, Grid2ho
+The dominant white spotting (W) mutation of mouse Kit, KitW
+If the original mutation has multiple alleles, when describing these alleles, their symbols become part of the superscript to the identified structural gene.
+creeper, Grid2ho-cpr.
+viable white spotting, KitW-v; sash, KitW-sh.
+Even if the identified gene is novel and unnamed, it is recommended that it is nevertheless given a name and symbol different from the mutant name and symbol. This will more readily allow discrimination between mutant and wild type and between gene and phenotype.
+3.1.3   Wild Type Alleles and Revertants
+The wild type allele of a gene is indicated by + as superscript to the mutant symbol.
+The wild type allele of the taupe mutation, tp+
+The wild type Kit locus (if necessary to distinguish from mutations), Kit+
+A revertant to wild type of a mutant phenotype locus should be indicated by the symbol + with the mutant symbol as superscript.
+Revertant to wild type at the hairless mutant locus +hr
+Additional revertants are given a Laboratory Code and preceded by a serial number if more than one revertant is found in a lab. Serial numbers are independent for mouse and rat revertants and no homology is implied. If the revertant is in a gene that has been cloned, then the mutant symbol is retained as superscript to the gene symbol, and + is appended.
+Revertant to wild type of the dilute mutation of myosin Va; Myo5ad+
+Second such revertant identified at The Jackson Laboratory; Myo5ad+2J
+Engineered reversions of phenotypic mutations should be indicated by the gene symbol and superscripted mutant symbol followed by the + symbol and appropriate engineered allele designation. The format then is
+Genemutation+tm#LabcodeExample:
+Crb1rd8+em1Mvw   reversion to wild-type of the Crb1rd8 mutation by endonuclease mediated targeting, 1st reported from the laboratory of Michael Wiles.
+
+3.2   Variants
+3.2.1   Biochemical Variants
+Electrophoretic or other biochemicalvariant alleles of known structural genes are usually given lowercase letters to indicate different alleles, and in the symbol the letter becomes a superscript to the gene symbol.
+Example:
+glucose phosphate isomerase 1 alleles a and b; Gpi1a, Gpi1b
+
+3.2.2   DNA Segment Variants
+Variants of DNA segments are indicated by a superscript to the symbol. The symbol is usually an abbreviation for the inbred strain in which the variant is being described. However, a particular allele may be found in several inbred strains, and, furthermore, it may be difficult to establish whether an allele in one strain is identical to one in another. The use of allele symbols for DNA segments is mainly limited to describing inheritance and haplotypes in crosses. As long as the symbols are defined in the description, users are free to use whatever allele symbol best fits their needs. In tables of genotypes, the gene symbol can be omitted and the allele abbreviation used alone.
+D11Mit19a, D11Mit19b, D11Mit19c are variant alleles of D11Mit19 in mouse.
+3.2.3   Single Nucleotide Polymorphisms (SNPs)
+Polymorphisms defined by SNPs may occur within or outside of a protein coding sequence.
+If the SNP occurs within a gene, the SNP allele can be designated based on its dbSNP_ID, followed by a hyphen and the specific nucleotide.
+Examples:
+Park2rs6200232-G  
+The Park2 rs6200232 SNP allele with the G variant
+Park2rs6200232-A
+The Park2 rs6200232 SNP allele with the A variant
+
+If the SNP occurs outside of an identified gene, the SNP locus can be designated using the dbSNP_ID as the locus symbol and the nucleotide allelic variants are then superscripted as alleles. If a gene is later discovered to include this SNP locus, the same guidelines are applicable as those used when mutant locus symbols become alleles of known genes.
+Examples:
+rs6200616T  
+A SNP locus with the T variant
+rs6200616C
+A SNP locus with the C variant
+
+Note: If a gene Xyz is later discovered to include this SNP locus, rs620061, then the alleles listed above become Xyzrs620061-T and Xyzrs620061-C.
+3.3  Variation in Quantitative Trait Loci and in Response and Resistance Genes
+Variation in genes that do not give rise to a visible phenotype may be detected by assaying physiological or pathological parameters. Examples of this type of variation include levels of metabolite, immune response to antigen challenge, viral resistance, or response to drugs. Genetic variation may also produce phenotypic variation in morphology, behavior, or other observable traits that interact in a complex manner with other genes and/or with the environment.
+These genes can only be identified by virtue of allelic variation. In most cases, there will not be a clear wild type; hence all alleles should be named. In most cases, the alleles should be named according to their strain of origin and symbolized by adding the strain abbreviation as superscript, although for resistance and sensitivity, variants r and s may be used. Bear in mind that resistance alleles deriving from different strains may not be the same and should be given different names and symbols.
+Once the gene underlying a quantitative trait has been cloned or identified, the phenotypic name should be replaced by the name of the identified gene. The allele names and symbols should be the same as those used for the phenotype.
+Examples:
+Slc11a1r
+solute carrier family 11, host resistance allele
+Slc11a1s
+solute carrier family 11, host susceptibility allele(the QTL originally known as BCG/Lsh resistance has been identified as Slc11a1)
+Scc2BALB/cHeA  
+colon tumor susceptibility 2, BALB/cHeA allele
+Scc2STS/A
+colon tumor susceptibility 2, STS/A allele(for QTL Scc2, the STS/A allele has increased tumor susceptibility vs. BALB/cHeA)
+
+3.4   Insertional and Induced Mutations
+Mutations that are induced, targeted, or selected in structural genes are named as alleles of the structural gene.
+3.4.1   Mutations of Structural Genes
+Variants of structural genes that are clearly mutations, whether or not they confer a phenotype, are given the superscript m#Labcode, where # is a serial number and is followed by the Laboratory code where the mutation was found or characterized. Serial numbers are independently assigned in mouse and rat and the same assigned serial number does not imply orthology. If the mutation is known to have occurred on a particular allele, that can be specified by preceding the superscript with the allele symbol and a hyphen.
+for example, Mod1a-m1Lws is a mutation of the mouse Mod1a allele, the first found in the laboratory of Susan Lewis.
+If the mutation is shown to be a deletion of all or part of the structural gene, the superscript del can be used in place of m. Note that this should be used only for deletions that encompass a single gene; larger deletions should use the chromosomal deletion nomenclature.
+3.4.2    Transgenic Insertional Mutations
+Mutations produced by random insertion of a transgene (not by gene targeting) are named as a mutant allele of the gene (which should be given a name and symbol if it is a novel gene), with the superscript the symbol for the transgene (see Section 3.1.1 for examples, and Section 4 for naming transgenes).
+3.5    Targeted and Trapped Mutations
+3.5.1   Knock-out, Knock-in, Conditional and Other Targeted Mutations
+Mutations that are the result of gene targeting in ES cells are given the symbol of the targeted gene, with a superscript consisting of three parts: the symbol tm to denote a targeted mutation, a serial number from the laboratory of origin and the Laboratory code where the mutation was produced (see Section 2.1).
+Example:
+Cftrtm1Unc is the first targeted mutation of the cystic fibrosis transmembrane regulator (Cftr) gene produced at the University of North Carolina.
+
+Targeted mutations that result in the ablation of any gene expression (i.e., functionally null) are termed knock-out mutations.
+Targeted mutations, in which a foreign gene or gene segment is inserted into a target gene, resulting in expression of the foreign gene under control of the endogenous promoter are termed knock-in mutations. In these cases, the foreign (replacing) gene symbol is used parenthetically as part of the targeted allele symbol. Reporter symbols, however, are not indicated in allele symbols. Details describing specific of knock-in constructs should be associated in databases or publications, and not in nomenclature.
+Examples:
+En1tm1(Otx2)Wrst   
+in this targeted knock-in mutation, the coding region of En1 was replaced by the Otx2 gene, originating from the W. Wurst laboratory.
+Cd19tm1(cre)Cgn  
+in this targeted knock-in mutation, cre was inserted in-frame in exon 1. The allele expresses cre recombinase specifically in B-lineage cells throughout development.
+Apoetm1(APOE*2)Mae  
+in this targeted knock-in mutation, a DNA fragment containing exons 2-4 of a human APOE2 isoform replaced the equivalent portion of the mouse Apoe gene. The human protein is expressed from this allele and the endogenous mouse protein is undetectable.
+
+Knock-in alleles expressing RNAi under the control of the endogenous promoter can be designated using targeted mutation or transgene mutation nomenclature, as appropriate:
+Example:
+Genetm#(RNAi:Xyz)Labcode
+
+When a targeting vector is used to generate multiple germline transmissible alleles, such as in the Cre-Lox system, the original knock-in of loxP would follow the regular tm designation rules. If a second heritable allele was then generated after mating with a cre transgenic mouse, it would retain the parental designation followed by a decimal point and serial number.
+Example:
+Tfamtm1Lrsn and Tfamtm1.1Lrsn. In this example, Tfamtm1Lrsn designates a targeted mutation where loxP was inserted into the Tfam gene. Tfamtm1.1Lrsn designates another germline transmissible allele generated after mating with a cre transgenic mouse. Note: somatic events generated in offspring from a Tfamtm1Lrsn bearing mouse and a cre transgenic that cause disruption of Tfam in selective tissues would not be assigned nomenclature.
+
+Other more complex forms of gene replacement, such as partial &quot;knock-in&quot;, hit-and-run, double replacements, and loxP mediated integrations are not conveniently abbreviated and should be given a conventional tm#Labcode superscript. Details of the targeted locus should be given in associated publications and database entries.
+Note that although subtle alterations made in a gene appear to lend themselves to a simple naming convention whereby the base or amino acid changes are specified, in fact these do not provide unique gene names, as such alterations, which could be made in independent labs, while bearing the same changes, may differ elsewhere in the gene.
+For MHC complex engineered alleles, include the haplotype of the allele symbol, similar to spontaneous mutations.
+Examples:
+H2-Kb-tm1Bpe
+targeted mutation allele on 129P2/OlaHsd b haplotype
+H2-Db-tm1Bpe
+targeted mutation allele on 129P2/OlaHsd b haplotype
+H2-Ab1g7-em1Ygch
+CRISPR generated alllele on NOD g7 haplotype
+
+Large-scale projects that systematically produce a large number of alleles (&gt;1000) may include a project abbreviation in parentheses as part of the allele designation. These should retain the accepted nomenclature features of other alleles of that class. For example, a targeted allele created by Velocigene (Regeneron) in the KOMP knockout project:
+Gstm3tm1(KOMP)Vlcg
+Once fully designated in a publication, the allele can be abbreviated by removing the portion of the allele designation in parentheses (in this case, Gstm3tm1Vlcg), provided the symbol remains unique.
+Additional details for naming mutations and visualizing allele structures for targeted mutations generated from the International Knockout Mouse Consortium (IKMC) are provided separately. See IKMC mutation nomenclature and IKMC allele structure.
+3.5.2   Endonuclease-mediated Mutations
+Endonuclease-mediated mutations are targeted mutations generated in pluripotent or totipotent cells by an endonuclease joined to sequence-specific DNA binding domains. The mutation is introduced during homology-directed or non-homologous end-joining repair of the induced DNA break(s). Technologies generating these types of mutations include TALENs, CRISPR, Cas9, etc. (c.f. Gaj, et al., 2013; Wijshake, et al., 2014)
+Endonuclease-mediated mutations are given the symbol of the mutated gene, with a superscript consisting of three parts: the symbol &quot;em&quot; to denote an endonuclease-mediated mutation, a serial number from the laboratory of origin and the ILAR registered laboratory code of the laboratory where the mutation was produced.
+Example:
+Fgf1em1Mcw
+the first endonuclease-induced mutation of the fibroblast growth factor 1 (Fgf1) gene produced at the Medical College of Wisconsin
+
+Knock-ins, conditional and derivative alleles may be named similarly to targeted mutations above.
+Examples:
+Ptpn6em1.1Shoy
+the first derivative of the first endonuclease-induced mutation of the protein tyrosine phosphatase, non-receptor type 6 gene produced by Sho Yamasaki
+Gt(ROSA)26Sorem1.1(CAG-cas9*,-EGFP)Rsky
+the first derivative of the first endonuclease-induced mutation of the gene trap ROSA 26 gene produced by Klaus Rajewsky
+
+3.5.3    Gene Trap Mutations
+Gene trap mutations are symbolized in a similar way to targeted mutations. If the trapped gene is known, the symbol for the trapped allele will be similar to a targeted mutation of the same gene using the format Gt(vector content)#Labcode for the allele designation.
+Example:
+
+Akap12Gt(ble-lacZ)15Brr
+a gene trap allele of the Akap12 gene, where the gene trap vector contains a phleomycin resistance gene (ble) and lacZ, the 15th analyzed in the laboratory of Jacqueline Barra (Brr)
+
+If the trapped gene is novel, it should be given a name and a symbol, which includes the letters Gt for &quot;gene trap,&quot; the vector in parentheses, a serial number, and Laboratory code.
+For example, a gene trapped locus (where the gene is unknown) using vector ROSA, the 26th made in P. Soriano's laboratory, is Gt(ROSA)26Sor.
+For high throughput systematic gene trap pipelines, the mutant ES cell line's designation can be used in parentheses instead of the vector designation, and the serial number following the parentheses may be omitted.
+Examples:
+Gt(DTM030)Byg
+for a trapped gene (at an undefined locus) in mutant ES cell line DTM030, made by BayGenomics
+Osbpl1aGt(OST48536)Lex  
+gene trap allele of the oxysterol binding protein-like 1A gene, in mutant ES cell line OST48536, made by Lexicon Genetics, Inc.
+
+3.5.4    Enhancer Traps
+Enhancer traps are specialized transgenes. One utility of these transgenes is in creating cre driver lines. Enhancer traps of this type that are currently being created may include a minimal promoter, introns, a cre recombinase cassette (sometimes fused with another element such as ERT2), and polyA sites from different sources.
+Nomenclature for these enhancer traps consists of 4 parts as follows:
+Et
+prefix for enhancer trap
+cre recombinase cassette
+portion in parentheses...for example, cre, icre, or cre/ERT2 (if fused with ERT2)
+line number or serial number
+to designate lab trap number or serial number
+Lab code
+ILAR code identifying the creator of this enhancer trap
+
+Examples:
+Et(icre)1642Rdav
+Enhancer trap 1642, Ron Davis
+Et(cre/ERT2)2047Rdav
+Enhancer trap 2047, Ron Davis
+
+Note that the minimal promoter, poly A source, etc. are not part of the enhancer trap nomenclature. These are molecular details of the specific construct that will be captured in database records and reported with experimental results.
+4   Transgenes
+Any DNA that has been stably introduced into the germline of mice or rats is a transgene. Transgenes can be broken down into two categories:
+Those that are produced by homologous recombination as targeted events at particular loci
+Those that occur by random insertion into the genome (usually by means of microinjection)
+Nomenclature for targeted genes is dealt with in Section 3.5. Random insertion of a transgene in or near an endogenous gene may produce a new allele of this gene. This new allele should be named as described in Section 3.4.2. The transgene itself is a new genetic entity for which a name may be required. This section describes the guidelines for naming the inserted transgene.
+4.1   Symbols for transgenes
+It is recognized that it is not necessary, or even desirable, to name all transgenes. For example, if a number of transgenic lines are described in a publication but not all are subsequently maintained or archived, then only those that are maintained require standardized names. The following Guidelines were developed by an interspecies committee sponsored by ILAR in 1992 and modified by the Nomenclature Committee in 1999 and 2000. Transgenic symbols should be submitted to MGD or RGD through the nomenclature submission form for new loci. The transgene symbol is made up of four parts:
+Tg denoting transgene
+In parentheses, the official gene symbol of the inserted DNA, using nomenclature conventions of the species of origin
+The laboratory's line or founder designation or a serial number (note that numbering is independent for mouse and rat series)
+The Laboratory code of the originating lab
+No part of a transgene symbol is ever italicized as these are random insertions of foreign DNA material and are not part of the native genome.
+Examples:
+Tg(Zfp38)D1Htz
+a transgene containing the mouse Zfp38 gene, in line D1 reported by Nathaniel Heintz.
+Tg(CD8)1Jwg
+a transgene containing the human CD8 gene, the first transgenic line using this construct described by the lab of Jon W. Gordon.
+Tg(HLA-B*2705, B2M)33-3Trg  
+a double transgene in rat containing the human HLA-B*2705 and B2M genes, that were co-injected, giving rise to line 33-3 by Joel D. Taurog.
+
+The *, as used in the last example above, indicates that the included gene is mutant.
+Different transgenic constructs containing the same gene should not be differentiated in the symbol; they will use the same gene symbol in parentheses and will be distinguished by the serial number/Laboratory code. Information about the nature of the transgenic entity should be given in associated publications and database entries.
+In many cases, a large number of transgenic lines are made from the same gene construct and only differ by tissue specificity of expression. The most common of these are transgenes that use reporter constructs or recombinases (e.g., GFP, lacZ, cre), where the promoter should be specified as the first part of the gene insertion designation, separated by a hyphen from the reporter or recombinase designation. The SV40 large T antigen is another example. The use of promoter designations is helpful in such cases.
+Examples:
+Tg(Wnt1-LacZ)206Amc  
+the LacZ transgene with a Wnt1 promoter, from mouse line 206 in the laboratory of Andrew McMahon
+Tg(Zp3-cre)3Mrt
+the cre transgene with a Zp3 promoter, the third transgenic mouse line from the laboratory of Gail Martin
+
+In the case of a fusion gene insert, where roughly equal parts of two genes compose the construct, a forward slash separates the two genes in parentheses.
+Example:
+Tg(TCF3/HLF)1Mlc  
+a transgene in which the human transcription factor 3 gene and the hepatic leukemia factor gene were inserted as a fusion chimeric cDNA, the first transgenic mouse line produced by Michael L. Cleary's laboratory (Mlc).
+
+This scheme is to name the transgene entity only. The mouse or rat strain on which the transgene is maintained should be named separately as in the Rules and Guidelines for Nomenclature of Mouse and Rat Strains. In describing a transgenic mouse or rat strain, the strain name should precede the transgene designation.
+Examples:
+C57BL/6J-Tg(CD8)1Jwg
+mouse strain C57BL/6J carrying the Tg(CD8)1Jwg transgene.
+F344/CrlBR-Tg(HLA-B*2705, B2M)33-3Trg  
+rat strain F344/CrlBR carrying the Tg(HLA-B*2705,B2M)33-3Trg double transgene
+
+For BAC transgenics, the insert designation is the BAC clone and follows the same naming convention as the Clone Registry at NCBI.
+Example:
+Tg(RP22-412K21)15Som  
+a BAC transgene where the inserted BAC is from the RP22 BAC library, plate 412, row K, column 21. It is the 15th in the mouse made in the laboratory of Stefan Somlo (Som).
+
+Transgenes containing RNAi constructs can be designated minimally as:
+
+Tg(RNAi:geneX)#Labcode, where
+geneX
+is the gene that is knocked down
+#
+is the serial number of the transgene
+
+An expanded version of this designation is:
+
+Tg(Pro-yyRNAi:geneX)#Labcode, where
+Pro-
+can be used optionally to designate the promoter
+yy
+can be used optionally for the specific RNAi construct
+
+While there is the option to include significant information on vectors, promoters, etc. within the parentheses of a transgene symbol, this should be minimized for brevity and clarity. The function of a symbol is to provide a unique designation to a gene, locus, or mutation. The fine molecular detail of these loci and mutations should reside in databases such as MGD and RGD.
+4.2  Intergenic sites used as &quot;neutral&quot; recipient sequence landing sites
+Commonly used insertion sites include Gt(Rosa)26Sor and Hprt. The characteristics of these loci are such that they are &quot;benign&quot; in not affecting expression or function of other genes. New sites that are intergenic are being identified that can also serve as neutral insertion sites for transgenesis and are designated by Igs# (Intergenic site #), where # indicates a serial number.
+These intergenic genomic sequences can be modified by targeted, spontaneous or other means of mutagenesis to facilitate the creation of alleles for modified intergenic sites such as those generated by MICER targeting or knock-out alleles for highly conserved sequences that reside within intergenic sequences. In general, these sites are benign, not affecting expression or function of other genes, but can act as a generic site for many kinds of inserted DNA. These markers differ from Regulatory Region markers in that Igs# loci do not exhibit regulator function.
+Intergenic sites are to be symbolized as:
+Igs#   Intergenic site # where # indicates the next number in the series.5    Transposon-induced Mutations and Inserts
+Three types of genetic inserts are involved in creating transposon-induced mutations. Two lines, one carrying the transposable-element as a concatamer and the other carrying the transposase are mated. This causes the transposable-element to come in contact with the transposase and to be mobilized from its original site, and, when reintegrated into the genome, can cause a heritable phenotypic mutation. (c.f., Ding, et al.,2005; Bestor, 2005; Dupuy, et al., 2005). Accepted nomenclature for the transposable-element inserts, transposase transgenes, and resulting transposed insertion alleles are given below.
+5.1   Transgenic Transposable Element (TE) Concatamers
+The transgenic transposable element concatamers are identified with a standard prefix Tg (for transgenic) and Tn (for transposable element). The class of transposable element may be included in parentheses. The general format of the symbol is:
+TgTn(transposon_class_abbreviation-vector)#LabcodeExample:  TgTn(sb-T2/GT2/tTA)1DlaThe symbol consists of:
+Tg denoting transgenic
+Tn denoting transposon
+In parentheses, a lowercase abbreviation of the transposon class (in this case sb for Sleeping Beauty), followed by a hyphen and the vector designation
+The laboratory's line or founder designation or a serial number
+The Laboratory Code of the originating lab
+5.2  Transposase Inserts
+Transposases can be engineered into the genome via transgenesis or specific gene targeting. In these cases the relevant nomenclature for transgenes or targeted mutations is used.
+For a transgene, use the standard prefix Tg (for transgene). The contents of the parentheses will usually be the promoter and the symbol for the transposase with which it is associated, separated by a hyphen. The general format of the symbol is:
+Tg(promoter-transposase)#LabcodeExample:  Tg(ACTB-sb10)545AbcThe symbol consists of:
+Tg denoting transgene
+In parentheses, the official gene symbol for the promoter, using the nomenclature of the species of origin, followed by a hyphen and a lowercase transposase symbol, in this case sb10 for the Sleeping Beauty 10 transposase
+The laboratory's line or founder designation or a serial number
+The Laboratory code of the originating lab
+For a targeted knock-in of the transposase, use the standard format for a targeted mutation, i.e., the symbol of the targeted gene with a superscripted allele symbol beginning with the prefix tm. The contents of the parentheses will usually be the symbol for the transposase with which it is associated. The general format of the symbol is:
+Genetm#(transposase)LabcodeExample:  Gt(ROSA)26Sortm1(sb11)Njen
+The symbol consists of:
+The gene into which the transposase was integrated, in this case Gt(ROSA)26Sor
+In the superscript:
+tm denoting targeted mutation
+A serial number of the targeted mutation
+In parentheses, a lowercase transposase symbol, in this case sb11 for the Sleeping Beauty 11 transposase
+The Laboratory Code of the originating lab
+5.3   Transposed Insertion Alleles
+These alleles follow the rules for naming all other alleles. In general a transposable element concatamer marker will already be established, as above. The new allele, then, will be a superscripted form of the concatamer symbol. Note that all such alleles that are &quot;derived from&quot; a transposable element concatamer carry the original number with a decimal point and serial number identifying the specific allele. The general format is:
+GeneTn(transposon_class_abbreviation-vector)#LabcodeExample: Car12Tn(sb-T2/GT2/tTA)1.1DlaThe symbol consists of:
+The gene into which the transposable element was integrated (transposed)
+In the superscript:
+Tn denoting transposon
+In parentheses, a lowercase abbreviation of the transposon class (in this case sb for Sleeping Beauty), followed by a hyphen and the vector designation
+A serial number, in which the primary number corresponds to that given to the transposable element concatamer from which it arose, followed by a decimal point and a serial number designating its number within the series of derivative insertion alleles.
+The Laboratory Code of the lab originating the transposable element line
+If a newly transposed insertion occurs in an unknown site or intergenic region, the form:
+Tn(transposon_class_abbreviation-vector)#Labcode
+is used to symbolize the &quot;genomic mutation&quot; without being superscripted to a gene symbol, similar to the way a random transgene inserted into a non-gene site is designated.
+6   Definitions
+The following definitions should aid the user in understanding what is being named, and in understanding the principles underlying these guidelines.
+6.1   Gene
+A gene is a functional unit, usually encoding a protein or RNA, whose inheritance can be followed experimentally. Inheritance is usually assayed in genetic crosses, but identification of the gene in cytogenetic or physical maps are other means of mapping the locus of a gene. The existence of a gene can also be inferred in the absence of any genetic or physical map information, such as from a cDNA sequence.
+6.2   Pseudogene
+A sequence that closely resembles a known functional gene, at another locus within a genome, that is non-functional as a consequence of (usually several) mutations that prevent either its transcription or translation (or both). In general, pseudogenes result from either reverse transcription of a transcript of their &quot;normal&quot; paralog (in which case the pseudogene typically lacks introns and includes a poly(A) tail; often called processed pseudogenes) or from recombination (in which case the pseudogene is typically a tandem duplication of its &quot;normal&quot; paralog). Note that in mouse and rat, a gene may be a pseudogene in one inbred strain but not another.
+6.3   Locus
+A locus is a point in the genome, identified by a marker, which can be mapped by some means. It does not necessarily correspond to a gene; it could, for example, be an anonymous non-coding DNA segment or a cytogenetic feature. A single gene may have several loci within it (each defined by different markers) and these markers may be separated in genetic or physical mapping experiments. In such cases, it is useful to define these different loci, but normally the gene name should be used to designate the gene itself, as this usually will convey the most information.
+6.4   Marker
+A marker is the means by which a gene or a locus is identified. The marker is dependent on an assay, which could, for example, be identification of a mutant phenotype or presence of an enzyme activity, protein band, or DNA fragment. The assay must show genetic variation of the marker to map the locus on a genetic map but not to place it on a physical map.
+6.5   Allele
+The two copies of an autosomal gene or locus on the maternal and paternal chromosomes are alleles. If the two alleles are identical, the animal is homozygous at that locus. When genetically inherited variants of a gene or locus are detectable by any means, the different alleles enable genetic mapping. A single chromosome can only carry a single allele and, except in cases of duplication, deletion or trisomy, an animal carries two autosomal alleles. In particular, a transgene inserted randomly in the genome is not an allele of the endogenous locus; the condition is termed hemizygous if the transgene is present only in one of the two parental chromosome sets. By contrast, a gene modified by targeting at the endogenous locus is an allele and should be named as such.
+6.6   Allelic Variant
+Allelic variants are differences between alleles, detectable by any assay. For example, differences in anonymous DNA sequences can be detected as simple sequence length polymorphism (SSLP) or single nucleotide polymorphisms (SNPs). Other types of variants include differences in protein molecular weight or charge, differences in enzyme activity, or differences in single-stranded conformation (SSCP). Many allelic variants, in particular DNA variants, do not confer any external phenotype on the animal. These variants are often termed “polymorphisms” although, strictly speaking, that term applies only to variants with a frequency of more than 1% in the population.
+6.7   Splice Variant or Alternative Splice
+Alternative splicing of a gene results in different, normally occurring forms of mRNA defined by which exons (or parts of exons) are used. Thus one or more alternative protein products can be produced by a single allele of a gene. Among different alleles, alternative splice forms may or may not differ, depending on whether the sequence difference between the alleles affects the normal splicing mechanism and results in differences in the exon (or partial exon) usage. For example, allele A may produce mRNAs of splice form 1, 2, and 3; while allele B may produce mRNAs of splice form 1, 2, and 4; and Allele C may produce mRNAs of splice form 1, 2, and 3. In this case, each of the alleles A, B, and C by definition must differ in their DNA sequence. However, the difference between allele B versus alleles A and C must include a sequence difference that affects the splicing pattern of the gene.
+6.8    Mutation
+A mutation is a particular class of variant allele that usually confers a phenotypically identifiable difference to a reference &quot;wild type&quot; phenotype. However, in some cases, such as when homologous recombination is used to target a gene, a readily identified phenotype may not result even though the gene may be rendered non-functional. In such cases, the targeted genes are nevertheless referred to as mutant alleles.
+6.9    Dominant and Recessive
+Dominant and recessive refer to the nature of inheritance of phenotypes, not to genes, alleles, or mutations. A recessive phenotype is one that is only detected when both alleles have a particular variant or mutation. A dominant phenotype is detectable when only one variant allele is present. If both alleles can be simultaneously detected by an assay, then they are codominant. For example, an assay that detects variation of DNA or protein will almost invariably detect codominant inheritance, as both alleles are detected. If a mutation produces a phenotype in the heterozygote that is intermediate between the homozygous normal and mutant, the phenotype is referred to as semidominant. A single mutation may confer both a dominant and a recessive phenotype. For example, the mouse patch (Ph) mutation has a heterozygous (dominant) pigmentation phenotype but also a homozygous (recessive) lethal phenotype. As the terms are applied to phenotypes not to genes or alleles, then in the case where a gene has multiple mutant alleles, each can confer a phenotype that is dominant to some, but recessive to other, phenotypes due to other alleles.
+Penetrance is a quantitative measure of how often the phenotype occurs in a population; and expressivity is a measure of how strongly a phenotype is expressed in an individual. Particularly in segregating crosses, or where there is a threshold effect on phenotypic manifestation, these measures provide additional ways to describe how particular allelic combinations result in a phenotype.
+6.10   Genotype
+Genotype is the description of the genetic composition of the animals, usually in terms of particular alleles at particular loci. It may refer to single genes or loci or to many. Genotype can only be determined by assaying phenotype, including test mating to reveal carriers of recessive mutations. Strictly speaking, even direct determination of DNA variants is assaying phenotype not genotype as it is dependent on a particular assay, although it is so close to genotype that it serves as a surrogate.
+6.11   Phenotype
+Phenotype is the result of interaction between genotype and the environment and can be determined by any assay.
+6.12   Quantitative Trait Loci (QTLs)
+Quantitative Trait Loci (QTL) are polymorphic loci that contain alleles, which differentially affect the expression of continuously distributed phenotypic traits. Usually these are markers described by statistical association to quantitative variation in the particular phenotypic traits that are controlled by the cumulative action of alleles at multiple loci.
+6.13   Haplotype
+A haplotype is the association of genetically linked alleles, as found in a gamete. They may be a combination of any type of markers, and may extend over large, genetically separable distances, or be within a short distance such as within a gene and not normally separated.
+6.14   Homolog
+Genes are homologous if they recognizably have evolved from a common ancestor. Note that genes are either homologous or not; there are no degrees of homology! For example, all globin genes, and myoglobin, are homologs, even though some are more closely related to each other than others. When a measure of relatedness between sequences is required, percent identity or similarity should be used.
+6.15   Ortholog
+Genes in different species are orthologs if they have evolved from a single common ancestral gene. For example, the beta globin genes of mouse, rat and human are orthologs. Note that several genes in the mouse or rat may have a single ortholog in another species and vice versa.
+6.16   Paralog
+Paralogous genes are genes within the same species that have arisen from a common ancestor by duplication and subsequent divergence. For example, the mouse alpha globin and beta globin genes are paralogs.
+NAMING CHORMOSSOMES
+1.   General Guidelines for Designating Chromosomes
+Mouse chromosomes are numbered and identified according to the system given by Nesbitt and Francke (1973), Sawyer et al. (1987), Beechey and Evans (1996), and Evans (1996). The word Chromosome should start with a capital letter when referring to a specific chromosome and may be abbreviated to Chr after the first use, e.g., Chromosome (Chr) 1 and Chr 1. The X and Y chromosomes are indicated by capital letters rather than numbers.
+Cytogenetic bands are named by capital letters, alphabetically designating the major Giemsa (G)-staining bands from centromere to telomere. Major subdivisions within cytogenetic bands are numbered. Additional subdivisions are designated using a decimal system.
+Examples:
+Major G-band designation:
+Chr 17B
+Major subdivisions within the Chr 17B band:
+17B1, 17B2
+Additional subdivision of band 17B1:
+17B1.1, 17B1.2, 17B1.3, etc.
+
+2.   Symbols for Chromosome Anomalies
+Chromosome anomaly symbols are not italicized (unlike gene symbols).
+Symbols for chromosome anomalies consist of three parts:
+A prefix defining the type of anomaly
+Specifically formatted information indicating the chromosomes involved
+A series number and Laboratory code designation that uniquely identifies the anomaly
+2.1    Prefix
+A chromosome anomaly designation begins with a prefix that denotes the type of anomaly. Each prefix begins with a capital letter, with any subsequent letters being lowercase. The accepted prefixes are:
+
+Cen
+Centromere
+Del
+Deletion
+Df
+Deficiency
+Dp
+Duplication
+Hc
+Pericentric heterochromatin
+Hsr
+Homogeneous staining region
+In
+Inversion
+Is
+Insertion
+Iso
+Isochromosome
+MatDf
+Maternal deficiency
+MatDi
+Maternal disomy
+MatDp  
+Maternal duplication
+Ms
+Monosomy
+Ns
+Nullisomy
+PatDf
+Paternal deficiency
+PatDi
+Paternal disomy
+PatDp
+Paternal duplication
+Rb
+Robertsonian translocation
+T
+Translocation
+Tc
+Transchromosomal
+Tel
+Telomere
+Tet
+Tetrasomy
+Tg
+Transgenic insertion (see Rules for Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat)
+Tp
+Transposition
+Ts
+Trisomy
+UpDf
+Uniparental deficiency
+UpDi
+Uniparental disomy
+UpDp
+Uniparental duplication
+
+2.2    Designating the chromosomes involved in an anomaly
+The chromosome(s) involved in the anomaly should be indicated by adding the appropriate Arabic numerals or letters in parentheses, between the anomaly prefix and the series symbol.
+If two chromosomes are involved in a chromosome anomaly, such as translocations and insertions, the chromosomes are separated by a semicolon. In the case of Robertsonian translocations, the chromosomes involved are separated by a period indicating the centromere.
+In the case of insertions, the chromosome donating the inserted portion should be given first, followed by the recipient chromosome.
+2.3   A series number and Laboratory code designation that uniquely identifies the anomaly
+The first and each successive anomaly from a particular laboratory or institution is distinguished by a series symbol, consisting of a serial number followed by the Laboratory Registration Code or Laboratory code of the person or laboratory who discovered the anomaly. Each type of chromosomal anomaly from a given laboratory will have its own series of serial numbers (see examples). The Laboratory code should be the code already assigned for the particular institute, laboratory, or investigator for use with strains that they hold. If there is no preassigned code, one should be obtained from the Institute of Laboratory Animal Research (ILAR) ( http://dels.nas.edu/global/ilar/lab-codes). Laboratory codes are uniquely assigned to institutes or investigators and are usually three to four letters (first letter uppercase, followed by all lowercase).
+Examples:
+Del(9)4H
+deletion involving Chr 9, the 4th deletion from Harwell
+In(15)4H
+inversion involving Chr 15, the 4th inversion from Harwell
+Is(13;1)4H
+insertion of part of Chr 13 into Chr 1; the 4th insertion from Harwell
+In(5)2Rk
+inversion involving Chr 5; the 2nd inversion from T.H. Roderick's lab
+Rb(3.15)2Rk  
+Robertsonian translocation involving Chr 3 and Chr 15, the 2nd Robertsonian translocation from T.H. Roderick's lab.
+Iso(6)1H
+isochromosome 6, the 1st isochromosome from Harwell
+
+Note: As mouse chromosomes are all acrocentric, with the exception of Chr Y, the p and q arm designations standard for human chromosomes are not used. For mouse Chr Y, p and q are appended as required. Example: Iso(Yq).
+2.4    Abbreviating chromosome anomalies
+Once the full designation for a chromosome anomaly is written in a document, an abbreviation can be used thereafter. The abbreviation consists of the anomaly prefix plus the serial number designation and Laboratory code. The chromosomal content in parentheses is omitted.
+Using the examples from section 2.3:
+
+Full designation   
+Abbreviation
+Del(9)4H
+Del4H
+In(5)2Rk
+In2Rk
+Is(13;1)4H
+Is4H
+Rb(3.15)2Rk
+Rb2Rk
+
+2.5    Symbols for multiple chromosome anomalies
+When an animal carries two or more anomalies that are potentially separable by recombination, the symbols for both (or all) anomalies should be given.
+Examples:
+Rb(16.17)7Bnr T(1;17)190Ca/+ +   an animal heterozygous for a Robertsonian and a reciprocal translocation, each involving Chr 17. The anomalies are organizationally in &quot;coupling&quot; i.e., the same Chr 17 is involved in both.
+Rb(5.15)3Bnr +/+ In(5)9Rkan animal heterozygous for a Robertsonian and heterozygous for an inversion. Because they share a common chromosome, Chr 5, the organization of the anomalies is specified as in &quot;repulsion.&quot;
+Rb(10.11)5Rma/+ T(3;4)5Rkan animal that is heterozygous for a Robertsonian translocation and homozygous for an unrelated reciprocal translocation.
+2.6    Symbols for complex chromosome anomalies
+When one chromosome anomaly is contained within another or is inseparable from it, the symbols should be combined.
+Example:
+T(In1;5)44H  an animal carrying a translocation between Chrs 1 and 5 in which the Chr 1 segment is inverted.
+2.7    Designating chromosomal breakpoints
+The symbols p and q are used to denote the short and long arms, respectively, of mouse chromosomes. In translocations, breaks in the short arm should be designated with a p, but the q for long arm may be omitted if the meaning is clear. Because mouse autosomes and the X Chromosome are acrocentric, they do not have a short arm other than a telomere proximal to the centromere. Therefore, most rearrangements in mouse chromosomes involve breaks in the long arm (q arm). In mouse, Chr Y has both a p and q arm.
+Example:
+T(Yp;5)21Lubtranslocation involving a break in the short arm of the Y Chromosome and the long arm of Chr 5; the 21st from Lubeck.
+2.7.1     Defining the chromosomal band
+When the positions of the chromosomal breakpoints relative to the G-banded karyotype are known, these are indicated by adding the band numbers, as given in the standard karyotype of the mouse (Evans 1996), after the appropriate chromosome numbers.
+T(2H1;8A4)26Hreciprocal translocation having breakpoints in band H1 of Chr 2 and band A4 of Chr 8; the 26th from Harwell
+In(XA1;XE)1Hinversion of the region between the breakpoints in bands A1 and E of the X Chromosome; the 1st from Harwell
+Del(7E1)Tyr8Rldeletion of band 7E1 manifesting as a mutation to albino, Tyrc;the 8th from Russell
+Is(In7F1-7C;XF1)1Ct  inverted insertion of a segment of Chr 7 band F1-C into the X Chromosome at band F1; the 1st from Cattanach
+For pericentric inversions the symbols pq and/or appropriate band numbers should be used.
+In(8pq)1Rlpericentric inversion involving Chr 8; the 1st from Russell
+In(8pqA2)pericentric inversion of the region between the short arm and band A2 of the long arm of Chr 8
+In(5C2;15E1)Rb3Bnr 1Ctthe first inversion found by Cattanach in Rb3Bnr of the region between bands 5C2 and 15E1
+2.8    Deficiencies and deletions as chromosomal anomalies
+The deficiency (Df) and duplication (Dp) nomenclature should be restricted in its use to defining the unbalanced products of chromosome aberrations, i.e., deficient/duplicated chromosomes resulting from malsegregation of reciprocal translocations. Deletions are interstitial losses often, although not always, cytologically visible. Neither of these terms should be applied to small intragenic deletions. The latter give rise to allelic variation in a single locus and are given allele symbols.
+2.9    Imprinting and chromosomal anomalies
+Since the 1980s, mouse translocations have been extensively used in imprinting studies to generate uniparental disomies and uniparental duplications (partial disomies) and deficiencies of whole or selected chromosome regions, respectively (reviewed by Cattanach and Beechey 1997 and Beechey 1999). The resulting chromosomal change may be of maternal, paternal, or uniparental (referring to one or the other parent without specification of maternal vs. paternal) origin.
+These chromosome anomalies are of three types:
+Disomy - two copies of a chromosome derived from one parent
+Duplications - two copies of a chromosome region derived from one parent
+Deficiencies - missing segments of a particular chromosome region originating from one parent
+Disomies and duplications of one parental copy imply deficiency of the other parental copy.
+The nomenclature for these anomalies includes the affected chromosome in parentheses. The abbreviations, prox (proximal) and dist (distal) can be used to denote the position of the duplication/deficiency relative to the breakpoint of a translocation used to generate the duplication/deficiency. Similarly, if a translocation is used to produce a uniparental disomy or duplication, this can be indicated in the symbol.
+MatDi(12)maternal disomy for Chr 12
+PatDp(10)paternal duplication for a region of Chr 10
+MatDp(dist2)maternal duplication for distal Chr 2
+MatDf(7)maternal deficiency for Chr 7
+PatDi(11)Rb4Bnrpaternal disomy for Chr 11 produced using Robertsonian translocation Rb(11.13)4Bnr
+MatDp(dist2)T26Hmaternal duplication for the region of Chr 2 distal to the breakpoint of the reciprocal translocation T(2;8)26H
+2.10    Deletions identified through phenotypic change
+If cytologically visible deletions are first detected by change in the phenotype produced by a gene (e.g., MgfSl-12H), the gene and allele symbol designation should be included in the chromosome anomaly symbol, e.g,. Del(10)MgfSl-12H1H was originally identified as Sl12H (see Rules for Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat).
+2.11    Chromosomal aneuploidy
+Trisomies and monosomies should be denoted by the appropriate prefix symbol, followed by the chromosome(s) concerned. If a tertiary aneuploid or partial aneuploid is derived from a translocation, then the chromosome composition (proximal chromosome end; superscripted distal chromosome end) is denoted in parentheses, followed by the serial number and Laboratory code.
+Ts16trisomy for Chr 16
+Ts(113)70H  trisomy for the proximal end of Chr 1 and the distal end of Chr 13, derived from the translocation T(1;13)70H (also referred to as tertiary trisomy or partial trisomy).
+Nullisomy, monosomy, and tetrasomy are denoted similarly.
+2.12    Transchromosomal anomalies
+Transchromosomal is the term used to reference the case where a chromosome, chromosomal fragment, or engineered chromosome from another species exists as a separate, heritable, freely segregating entity or is centromerically fused to an endogenous chromosome. The designation of the additional chromosome is represented parenthetically including the species abbreviation and chromosome from that species, followed by an established line number and an ILAR Laboratory code.
+The format for a transchromosomal is:   Tc(AAAbb)CCXxx
+Where
+Tc =  transchromosomal
+AAA =  species abbreviation (e.g., HSA=human; MUS=mouse; BOV=bovine)
+Bb =  chromosome number of the inserted fragment from the other species
+CC =  line number
+Xxx =  Laboratory code
+Tc(HSA21)91-1Emcftranschromosomal, human 21, line 91-1 Elizabeth M. C. FisherThis is an engineered mouse line containing a fragment of human chromosome 21 as a freely segregating heritable fragment.
+3.    Variations in Heterochromatin and Chromosome Banding
+3.1    Nucleolus organizers
+The symbol NOR should be reserved for nucleolus organizers. Different organizers should be distinguished by chromosome numbers. Polymorphic loci within the ribosomal DNA region are designated with the root gene symbol, Rnr and the chromosome number (see Rules and Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat).
+Example:
+Rnr12a polymorphic DNA segment that identifies the ribosomal DNA region on Chr 12
+3.2    Pericentric heterochromatin
+The symbol H should be used for heterochromatin visualized cytologically, followed by a symbol indicating the chromosome region involved, in this case c for centromeric, and a number indicating the chromosome on which it lies.
+Example:
+Hc14
+pericentric heterochromatin on Chr 14
+Variations in size, etc., of any block should be indicated by superscripts, using n for normal or standard, l for large and s for small bands.
+Example:
+Hc14n
+normal or standard pericentric heterochromatin on Chr 14.In describing a new variant, a single inbred strain should be named as the prototype or standard strain.
+3.3    Loci within heterochromatin
+Individual loci or DNA segments mapped within heterochromatin should be symbolized with D- symbols (for details of naming DNA segments, see Rules for Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat). A lowercase h follows the D to indicate the DNA locus is a genetic marker for the heterochromatin region.
+Example:
+Dh1H
+the first DNA segment within the pericentromeric heterochromatin region of Chr 1 discovered at Harwell.
+3.4    Centromeres
+The centromere itself (as opposed to pericentric heterochromatin) should be denoted by the symbol Cen. Individual loci or DNA segments mapped within the centromere region should be symbolized with D- symbols. It should be noted that at present there is no sequence definition for the centromere; Cen refers to the functional unit of the centromere.
+3.5    Telomeres
+The telomere should be denoted by the symbol Tel. The symbol Tel may be substituted for D in a locus symbol that refers to a locus recognized by a telomere consensus sequence probe. Symbols for such loci (mapping to the telomere region) are italicized and consist of three parts:
+The letters Tel (for telomere)
+A number denoting the chromosome
+A letter denoting the centromeric or distal end of the chromosome, namely p for centromeric and q for distal (derived from p and q for short and long arms, respectively).
+Tel14q
+a telomere sequence on Chromosome 14 at the distal chromosome end
+Multiple loci assigned to telomeres of individual chromosomes are numbered serially.
+Tel14p1
+the first telomere sequence mapped at the centromeric end of Chr 14
+Tel19q2
+the second telomere sequence mapped at the distal end of Chr 19
+Telomeric sequences mapped to other chromosome regions should be designated as -rs loci and are sequentially numbered (see Rules for Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat and Sawyer et al., 1987).
+Example:
+Tel-rs2telomere, related sequence 2. This sequence maps at approximately 33cM on Chr 8.
+3.6    G-band polymorphisms
+When a recognizable and heritable variant in size, staining density, etc. of a particular chromosomal G-band is discovered, this should be indicated by giving the designation of the band affected, in accordance with the standard karyotype of the mouse (Evans 1996), with a superscript to indicate the variant concerned.
+Chr 17A2s
+small A2 band in Chr 17
+When a supernumerary band becomes visible, this may be due to a small duplication, and if so should be designated as such. If the supernumerary band is due not to a duplication but to a further resolution within a band, then a new band should be designated as a subdivision of the appropriate known band (see Section 1 above).
+4.   Use of Human Chromosome Nomenclature
+Chromosomal complements may be described using the type of nomenclature used for human chromosomes when dealing with whole arm changes. In this case the number of chromosomes is specified, followed by a comma and a specification of the whole arm chromosome change. Symbols used to designate these whole arm chromosome changes are:
+&quot;+&quot; to indicate the presence of a specific additional autosome
+&quot;–&quot; to indicate the absence of a specific autosome
+&quot;O&quot; to indicate a missing sex chromosome
+Additional Xs or Ys to indicate supernumerary sex chromosomes
+For mosaics a double slash is used to separate the components of the chromosomal mosaic.
+Examples:
+41,XY+13
+the normal mouse male complement with an additional copy of Chr 13
+39,XO
+a female mouse complement missing a Chr X
+39,XO//41,XYY
+a mosaic where one component is a female XO and the other a male component carrying an extra Chr Y.
+
+</Text>
+    </Snapshot>
+    <Snapshot Date="2021-01-28 17:20:38 -0300">
+        <Title>Untitled (Save)</Title>
+        <Text>
+C9orf72 in human
+Begin &gt; end
+5’ &gt; 3’
+27546545 &gt; 27573866
+
+
+OMIM IDs for FTD/ALS
+105500 (FTD and/or ALS type 1) 
+117300
+164700
+167320
+172700
+182830
+205200
+208700
+300857
+600274
+600333
+600795
+607485
+608030
+612069
+613954
+615422
+615424
+615911
+616208
+616437
+616439
+
+ORPHA IDs
+52430	
+100069
+275864
+275872
+329329
+412066
+NAMING GENES
+Alternative Transcripts
+Mttp
+microsomal triglyceride transfer protein
+Splice variant
+Mttp_EU553486  
+microsomal triglyceride transfer protein splice variant defined by transcript sequence EU553486
+Read-through Transcripts
+Read-through transcript genes should be named with a unique symbol and name. An example is diagrammed below.
+#
+Opposite Strand Genes
+Transcripts from the opposite strand that overlap another gene, or a transcript that is derived principally from the introns of another gene, or one that uses an alternative reading frame to another gene (and does not use the existing frame to a significant extent) should be given a different name.
+Other genes on the opposite strand should be assigned the symbol of the known gene with the suffix &quot;os&quot; for opposite strand.
+Example:
+Zbtb8os  zinc finger and BTB domain containing 8, opposite strand
+Gene Families
+Identified by Hybridization
+Identified by Sequence Comparison
+ESTs
+Expressed Sequence Tags (ESTs): ESTs that clearly derive from a known gene should be considered simply as an assay (marker) for that known gene 
+ Anonymous DNA Segments
+Mapped DNA Segments: 
+D8Mit17
+DNA segment, Chr 8, Massachusetts Institute of Technology 17
+D1Arb27 
+DNA segment, Chr 1, Arthritis and Rheumatism Branch, NIAMS
+D4Mit17
+DNA segment, Chr 4, Massachusetts Institute of Technology 17 (a simple sequence length polymorphism within the mouse Orm1 gene)
+Mouse or rat DNA segments that are detected by cross-hybridization to human segments are given the human name with &quot;chromosome N, cross-hybridizing to human DNA segment&quot; inserted between DNA segment and the human segment code (see symbols). The same applies for rat DNA segments detected by cross-hybridization to mouse segments (or vice versa).
+D16H21S13
+Mouse DNA segment on Chr 16 that cross-hybridizes with a DNA segment D21S13 from human Chr 21
+D1M7Mit236  
+Rat DNA segment on Chr 1 that cross-hybridizes with a DNA segment D7Mit236 from mouse Chr 7
+Gene Trap Loci
+Gene trap experiments in embryonic stem (ES) cells produce cell lines in which integration into a putative gene is selected by virtue of its expression in ES cells. The trapped gene is usually (though not necessarily) mutated by the integration. The site of integration can be characterized by a number of means, including cloning or extension of cDNA products. The loci of integration of a series of gene trap lines, once characterized as potentially unique, can be named and symbolized as members of a series, using the prefix Gt (for gene trap), followed by a vector designation in parentheses, a serial number assigned by the laboratory characterizing the locus, and the laboratory ILAR code. 
+For example, the 26th gene &quot;trapped&quot; by the ROSA vector in the laboratory of Phillip Soriano (Sor) is symbolized as:
+Gt(ROSA)26Sor
+Quantitative Trait Loci, Resistance Genes, and Immune Response Genes
+Differences between inbred strains and the phenotype of offspring of crosses between strains provide evidence for the existence of genes affecting disease resistance, immune response, and many other quantitative traits (quantitative trait loci, QTL)
+Names and symbols for QTL s
+hould be brief and descriptive and reflect the trait or phenotype measured 
+a root name describing the measured trait
+the designation QTL (recommended)
+a serial number
+
+in mouse  
+Cafq1
+caffeine metabolism QTL 1
+Cafq2
+caffeine metabolism QTL 2
+Cafq3  
+caffeine metabolism QTL 3
+in rat
+Kidm1
+kidney mass QTL 1
+Kidm2
+kidney mass QTL 2
+Kidm3  
+kidney mass QTL 3
+
+Chromosomal Rearrangements
+Symbols for chromosomal deletions, inversions, and translocations are given in the Rules for Nomenclature of Chromosome Aberrations. The end points of each of these rearrangements, however, define a locus. Where there is only a single locus on a chromosome, the chromosome anomaly symbol serves to define it. However, where an anomaly gives two loci on a single chromosome they can bedistinguished by the letters p and d for proximal and distal.
+For example, In(1)1Rk-p, In(1)1Rk-d are the proximal and distal end points of the chromosomal inversion In(1)1Rk in mouse.
+Genes Residing on the Mitochondria
+The mitochondria carry essential genes, among them many transfer RNA (tRNA) genes. Genes residing on the mitochondria have a prefix mt- (lowercase mt followed by a hyphen). For transfer RNAs, the symbols consist of three parts, mt-, T (for tRNA), and a single lowercase letter for the amino acid. The chromosomal designation for mitochondrial genes is Chr MT.
+Examples:
+mt-Tc
+tRNA, cysteine, mitochondrial(a tRNA gene residing on the mitochondria)
+mt-Atp6  
+ATP synthase 6, mitochondrial(a non-tRNA gene residing on the mitochondria)
+
+RNA Housekeeping Genes Encoded in the Nucleus
+There are hundreds of loci encoding transfer RNAs (tRNA) and ribosomal RNAs (rRNA), and many are encoded in the nucleus. The following method symbolizes these nuclear-encoded RNA genes:
+Naming nuclear encoded transfer-RNAs
+Symbols for nuclear encoded transfer-RNAs consist of four parts:
+
+n-
+lowercase n followed by a hyphen to indicate nuclear encoding
+T
+uppercase T to indicate transfer-RNA
+A
+the single letter abbreviation for the amino acid (uppercase)
+xxx
+the 3-letter anticodon (lowercase)
+#
+serial number (only when needed to distinguish multiple copies of a particular anticodon tRNA class
+
+n-TAagc12
+nuclear encoded tRNA alanine 12 (anticodon AGC)
+
+Naming nuclear encoded ribosomal-RNAs
+Symbols for nuclear encoded ribosomal-RNAs consist of four parts:
+
+n-
+lowercase n followed by a hyphen to indicate nuclear encoding
+R
+uppercase R to indicate ribosomal-RNA
+subunit
+the subunit designation
+#
+serial number for this ribosomal-RNA
+
+n-R5s104
+nuclear encoded rRNA 5S 104
+
+microRNAs and microRNA clusters
+MicroRNAs (miRNAs) are abundant, short RNA molecules that are post-transcriptional regulators that bind to complementary sequences on target mRNA transcripts, usually resulting in translational repression or target degradation and gene silencing.
+Naming microRNAsSymbols for microRNAs consist of the root symbol Mir followed by the numbering scheme tracked in the miRBase database (www.mirbase.org), a database tracking microRNAs reported for all species. (c.f. Desvignes, et al., 2015)
+For example, mouse Mir143 (microRNA 143) is represented as mmu-mir-143 in miRBase, with the mmu signifying mouse.
+Naming microRNA clustersA microRNA cluster consists of several microRNAs in immediate genome proximity. These may be given symbols and names to refer unambiguously to the entire cluster.
+For a microRNA cluster, the name will consist of the root symbol Mirc (for microRNA cluster) followed by a serial number (1, 2, 3…) for the cluster. MGI (for mouse) or RGD (for rat) should be consulted for the next available cluster number when a new cluster is defined. The list of microRNAs included in each cluster will be recorded in relevant database records for the genes, knockouts, and strains.
+(Note that this differs from the definition of miRBase, which simply refers to clustered miRNAs as those less than 10kb from the miRNA of interest. Thus, in miRBase clusters defined based on one miRNA may or may not overlap clusters based on another miRNA.
+Long noncoding RNAs
+Long non-coding RNAs (long ncRNAs, lncRNAs) are defined as transcripts longer than 200 nucleotides that are not translated into protein. The conservation of long ncRNAs is assessed on a case by case basis.
+Lincmd1 for long intergenic non-protein coding RNA of muscle differentiation 1
+Xist for X inactive specific transcript
+Enhancers, Promoters, and Regulatory Regions
+Enhancers, promoters, and regulatory regions can influence multiple genes. In addition, they can be localized far away from the gene(s) that they affect. Thus, it is misleading to name them based on the gene for which regulation was first recognized.
+Enhancers, promoters, and regulatory regions are to be symbolized as:
+
+Rr#
+regulatory region #
+where # indicates the next number in the series
+
+
+Names and Symbols for Variant and Mutant Alleles
+Different alleles of a gene or locus can be distinguished by a number of methods, including DNA fragment length, protein electrophoretic mobility, sequence comparison, or variant physiological or morphological phenotype.
+All mutant alleles, whether of spontaneous or induced origin, targeted mutations, gene traps, or transgenics should be submitted to MGD (mouse) or RGD (rat) for an allele or gene accession identifier.
+3.1   Mutant Phenotypes
+3.1.1   Genes Known Only by Mutant Phenotypes
+Where a gene is known only by mutant phenotype, the gene is given the name and symbol of the first identified mutant. Symbols of mutations conferring a recessive phenotype begin with a lowercase letter; symbols for dominant or semidominant phenotype genes begin with an uppercase letter.
+Examples:
+In mouse, recessive spotting, rs; abnormal feet and tail, Aft; circling, cir
+
+Further (allelic) mutations at the same locus, if they have the same phenotype, are given the same name with a Laboratory code preceded by a serial number (if more than one additional allele from the same lab). In the symbol the Laboratory code is added as a superscript.
+Example:
+tp2J   the second new allele of the taupe gene identified at The Jackson Laboratory
+
+If a new allelic mutation of a gene known only by a mutant phenotype is caused by a transgenic insertion, the symbol of this mutation should use the symbol of the transgene as superscript (see Section 3.4.2 and Section 4).
+Example:
+awgTg(GBtslenv)832Pkw  
+this mutation of abnormal wobbly gait is caused by a transgene in mouse line 832, produced in the laboratory of Paul Wong. (An abbreviated form, awgTg832Pkw can be used if the abbreviated designation is unique.)
+
+If the additional allele has a different phenotype, it may be given a different name, but when symbolized the new mutant symbol is superscripted to the original mutant symbol. Also, if a new mutation is described and named but not shown to be an allele of an existing gene until later, the original name of the new mutation can be kept. Even if the phenotype is apparently identical, the original symbol is used, with the new mutation symbol as superscript.
+Example:
+grey coat is an allele of recessive spotting (rs) in the mouse, and hence is symbolized rsgrc
+
+3.1.2   Phenotypes Due to Mutations in Structural Genes
+When a spontaneous or induced mutant phenotype is subsequently found to be a mutation in a structural gene, or the gene in which the mutation has occurred is cloned, the mutation becomes an allele of that gene and the symbol for the mutant allele is formed by adding the original mutant symbol as a superscript to the new gene symbol. (The mutant symbol should retain its initial upper or lowercase letter).
+The hotfoot (ho) mutation of the mouse glutamate receptor Grid2, Grid2ho
+The dominant white spotting (W) mutation of mouse Kit, KitW
+If the original mutation has multiple alleles, when describing these alleles, their symbols become part of the superscript to the identified structural gene.
+creeper, Grid2ho-cpr.
+viable white spotting, KitW-v; sash, KitW-sh.
+Even if the identified gene is novel and unnamed, it is recommended that it is nevertheless given a name and symbol different from the mutant name and symbol. This will more readily allow discrimination between mutant and wild type and between gene and phenotype.
+3.1.3   Wild Type Alleles and Revertants
+The wild type allele of a gene is indicated by + as superscript to the mutant symbol.
+The wild type allele of the taupe mutation, tp+
+The wild type Kit locus (if necessary to distinguish from mutations), Kit+
+A revertant to wild type of a mutant phenotype locus should be indicated by the symbol + with the mutant symbol as superscript.
+Revertant to wild type at the hairless mutant locus +hr
+Additional revertants are given a Laboratory Code and preceded by a serial number if more than one revertant is found in a lab. Serial numbers are independent for mouse and rat revertants and no homology is implied. If the revertant is in a gene that has been cloned, then the mutant symbol is retained as superscript to the gene symbol, and + is appended.
+Revertant to wild type of the dilute mutation of myosin Va; Myo5ad+
+Second such revertant identified at The Jackson Laboratory; Myo5ad+2J
+Engineered reversions of phenotypic mutations should be indicated by the gene symbol and superscripted mutant symbol followed by the + symbol and appropriate engineered allele designation. The format then is
+Genemutation+tm#LabcodeExample:
+Crb1rd8+em1Mvw   reversion to wild-type of the Crb1rd8 mutation by endonuclease mediated targeting, 1st reported from the laboratory of Michael Wiles.
+
+3.2   Variants
+3.2.1   Biochemical Variants
+Electrophoretic or other biochemicalvariant alleles of known structural genes are usually given lowercase letters to indicate different alleles, and in the symbol the letter becomes a superscript to the gene symbol.
+Example:
+glucose phosphate isomerase 1 alleles a and b; Gpi1a, Gpi1b
+
+3.2.2   DNA Segment Variants
+Variants of DNA segments are indicated by a superscript to the symbol. The symbol is usually an abbreviation for the inbred strain in which the variant is being described. However, a particular allele may be found in several inbred strains, and, furthermore, it may be difficult to establish whether an allele in one strain is identical to one in another. The use of allele symbols for DNA segments is mainly limited to describing inheritance and haplotypes in crosses. As long as the symbols are defined in the description, users are free to use whatever allele symbol best fits their needs. In tables of genotypes, the gene symbol can be omitted and the allele abbreviation used alone.
+D11Mit19a, D11Mit19b, D11Mit19c are variant alleles of D11Mit19 in mouse.
+3.2.3   Single Nucleotide Polymorphisms (SNPs)
+Polymorphisms defined by SNPs may occur within or outside of a protein coding sequence.
+If the SNP occurs within a gene, the SNP allele can be designated based on its dbSNP_ID, followed by a hyphen and the specific nucleotide.
+Examples:
+Park2rs6200232-G  
+The Park2 rs6200232 SNP allele with the G variant
+Park2rs6200232-A
+The Park2 rs6200232 SNP allele with the A variant
+
+If the SNP occurs outside of an identified gene, the SNP locus can be designated using the dbSNP_ID as the locus symbol and the nucleotide allelic variants are then superscripted as alleles. If a gene is later discovered to include this SNP locus, the same guidelines are applicable as those used when mutant locus symbols become alleles of known genes.
+Examples:
+rs6200616T  
+A SNP locus with the T variant
+rs6200616C
+A SNP locus with the C variant
+
+Note: If a gene Xyz is later discovered to include this SNP locus, rs620061, then the alleles listed above become Xyzrs620061-T and Xyzrs620061-C.
+3.3  Variation in Quantitative Trait Loci and in Response and Resistance Genes
+Variation in genes that do not give rise to a visible phenotype may be detected by assaying physiological or pathological parameters. Examples of this type of variation include levels of metabolite, immune response to antigen challenge, viral resistance, or response to drugs. Genetic variation may also produce phenotypic variation in morphology, behavior, or other observable traits that interact in a complex manner with other genes and/or with the environment.
+These genes can only be identified by virtue of allelic variation. In most cases, there will not be a clear wild type; hence all alleles should be named. In most cases, the alleles should be named according to their strain of origin and symbolized by adding the strain abbreviation as superscript, although for resistance and sensitivity, variants r and s may be used. Bear in mind that resistance alleles deriving from different strains may not be the same and should be given different names and symbols.
+Once the gene underlying a quantitative trait has been cloned or identified, the phenotypic name should be replaced by the name of the identified gene. The allele names and symbols should be the same as those used for the phenotype.
+Examples:
+Slc11a1r
+solute carrier family 11, host resistance allele
+Slc11a1s
+solute carrier family 11, host susceptibility allele(the QTL originally known as BCG/Lsh resistance has been identified as Slc11a1)
+Scc2BALB/cHeA  
+colon tumor susceptibility 2, BALB/cHeA allele
+Scc2STS/A
+colon tumor susceptibility 2, STS/A allele(for QTL Scc2, the STS/A allele has increased tumor susceptibility vs. BALB/cHeA)
+
+3.4   Insertional and Induced Mutations
+Mutations that are induced, targeted, or selected in structural genes are named as alleles of the structural gene.
+3.4.1   Mutations of Structural Genes
+Variants of structural genes that are clearly mutations, whether or not they confer a phenotype, are given the superscript m#Labcode, where # is a serial number and is followed by the Laboratory code where the mutation was found or characterized. Serial numbers are independently assigned in mouse and rat and the same assigned serial number does not imply orthology. If the mutation is known to have occurred on a particular allele, that can be specified by preceding the superscript with the allele symbol and a hyphen.
+for example, Mod1a-m1Lws is a mutation of the mouse Mod1a allele, the first found in the laboratory of Susan Lewis.
+If the mutation is shown to be a deletion of all or part of the structural gene, the superscript del can be used in place of m. Note that this should be used only for deletions that encompass a single gene; larger deletions should use the chromosomal deletion nomenclature.
+3.4.2    Transgenic Insertional Mutations
+Mutations produced by random insertion of a transgene (not by gene targeting) are named as a mutant allele of the gene (which should be given a name and symbol if it is a novel gene), with the superscript the symbol for the transgene (see Section 3.1.1 for examples, and Section 4 for naming transgenes).
+3.5    Targeted and Trapped Mutations
+3.5.1   Knock-out, Knock-in, Conditional and Other Targeted Mutations
+Mutations that are the result of gene targeting in ES cells are given the symbol of the targeted gene, with a superscript consisting of three parts: the symbol tm to denote a targeted mutation, a serial number from the laboratory of origin and the Laboratory code where the mutation was produced (see Section 2.1).
+Example:
+Cftrtm1Unc is the first targeted mutation of the cystic fibrosis transmembrane regulator (Cftr) gene produced at the University of North Carolina.
+
+Targeted mutations that result in the ablation of any gene expression (i.e., functionally null) are termed knock-out mutations.
+Targeted mutations, in which a foreign gene or gene segment is inserted into a target gene, resulting in expression of the foreign gene under control of the endogenous promoter are termed knock-in mutations. In these cases, the foreign (replacing) gene symbol is used parenthetically as part of the targeted allele symbol. Reporter symbols, however, are not indicated in allele symbols. Details describing specific of knock-in constructs should be associated in databases or publications, and not in nomenclature.
+Examples:
+En1tm1(Otx2)Wrst   
+in this targeted knock-in mutation, the coding region of En1 was replaced by the Otx2 gene, originating from the W. Wurst laboratory.
+Cd19tm1(cre)Cgn  
+in this targeted knock-in mutation, cre was inserted in-frame in exon 1. The allele expresses cre recombinase specifically in B-lineage cells throughout development.
+Apoetm1(APOE*2)Mae  
+in this targeted knock-in mutation, a DNA fragment containing exons 2-4 of a human APOE2 isoform replaced the equivalent portion of the mouse Apoe gene. The human protein is expressed from this allele and the endogenous mouse protein is undetectable.
+
+Knock-in alleles expressing RNAi under the control of the endogenous promoter can be designated using targeted mutation or transgene mutation nomenclature, as appropriate:
+Example:
+Genetm#(RNAi:Xyz)Labcode
+
+When a targeting vector is used to generate multiple germline transmissible alleles, such as in the Cre-Lox system, the original knock-in of loxP would follow the regular tm designation rules. If a second heritable allele was then generated after mating with a cre transgenic mouse, it would retain the parental designation followed by a decimal point and serial number.
+Example:
+Tfamtm1Lrsn and Tfamtm1.1Lrsn. In this example, Tfamtm1Lrsn designates a targeted mutation where loxP was inserted into the Tfam gene. Tfamtm1.1Lrsn designates another germline transmissible allele generated after mating with a cre transgenic mouse. Note: somatic events generated in offspring from a Tfamtm1Lrsn bearing mouse and a cre transgenic that cause disruption of Tfam in selective tissues would not be assigned nomenclature.
+
+Other more complex forms of gene replacement, such as partial &quot;knock-in&quot;, hit-and-run, double replacements, and loxP mediated integrations are not conveniently abbreviated and should be given a conventional tm#Labcode superscript. Details of the targeted locus should be given in associated publications and database entries.
+Note that although subtle alterations made in a gene appear to lend themselves to a simple naming convention whereby the base or amino acid changes are specified, in fact these do not provide unique gene names, as such alterations, which could be made in independent labs, while bearing the same changes, may differ elsewhere in the gene.
+For MHC complex engineered alleles, include the haplotype of the allele symbol, similar to spontaneous mutations.
+Examples:
+H2-Kb-tm1Bpe
+targeted mutation allele on 129P2/OlaHsd b haplotype
+H2-Db-tm1Bpe
+targeted mutation allele on 129P2/OlaHsd b haplotype
+H2-Ab1g7-em1Ygch
+CRISPR generated alllele on NOD g7 haplotype
+
+Large-scale projects that systematically produce a large number of alleles (&gt;1000) may include a project abbreviation in parentheses as part of the allele designation. These should retain the accepted nomenclature features of other alleles of that class. For example, a targeted allele created by Velocigene (Regeneron) in the KOMP knockout project:
+Gstm3tm1(KOMP)Vlcg
+Once fully designated in a publication, the allele can be abbreviated by removing the portion of the allele designation in parentheses (in this case, Gstm3tm1Vlcg), provided the symbol remains unique.
+Additional details for naming mutations and visualizing allele structures for targeted mutations generated from the International Knockout Mouse Consortium (IKMC) are provided separately. See IKMC mutation nomenclature and IKMC allele structure.
+3.5.2   Endonuclease-mediated Mutations
+Endonuclease-mediated mutations are targeted mutations generated in pluripotent or totipotent cells by an endonuclease joined to sequence-specific DNA binding domains. The mutation is introduced during homology-directed or non-homologous end-joining repair of the induced DNA break(s). Technologies generating these types of mutations include TALENs, CRISPR, Cas9, etc. (c.f. Gaj, et al., 2013; Wijshake, et al., 2014)
+Endonuclease-mediated mutations are given the symbol of the mutated gene, with a superscript consisting of three parts: the symbol &quot;em&quot; to denote an endonuclease-mediated mutation, a serial number from the laboratory of origin and the ILAR registered laboratory code of the laboratory where the mutation was produced.
+Example:
+Fgf1em1Mcw
+the first endonuclease-induced mutation of the fibroblast growth factor 1 (Fgf1) gene produced at the Medical College of Wisconsin
+
+Knock-ins, conditional and derivative alleles may be named similarly to targeted mutations above.
+Examples:
+Ptpn6em1.1Shoy
+the first derivative of the first endonuclease-induced mutation of the protein tyrosine phosphatase, non-receptor type 6 gene produced by Sho Yamasaki
+Gt(ROSA)26Sorem1.1(CAG-cas9*,-EGFP)Rsky
+the first derivative of the first endonuclease-induced mutation of the gene trap ROSA 26 gene produced by Klaus Rajewsky
+
+3.5.3    Gene Trap Mutations
+Gene trap mutations are symbolized in a similar way to targeted mutations. If the trapped gene is known, the symbol for the trapped allele will be similar to a targeted mutation of the same gene using the format Gt(vector content)#Labcode for the allele designation.
+Example:
+
+Akap12Gt(ble-lacZ)15Brr
+a gene trap allele of the Akap12 gene, where the gene trap vector contains a phleomycin resistance gene (ble) and lacZ, the 15th analyzed in the laboratory of Jacqueline Barra (Brr)
+
+If the trapped gene is novel, it should be given a name and a symbol, which includes the letters Gt for &quot;gene trap,&quot; the vector in parentheses, a serial number, and Laboratory code.
+For example, a gene trapped locus (where the gene is unknown) using vector ROSA, the 26th made in P. Soriano's laboratory, is Gt(ROSA)26Sor.
+For high throughput systematic gene trap pipelines, the mutant ES cell line's designation can be used in parentheses instead of the vector designation, and the serial number following the parentheses may be omitted.
+Examples:
+Gt(DTM030)Byg
+for a trapped gene (at an undefined locus) in mutant ES cell line DTM030, made by BayGenomics
+Osbpl1aGt(OST48536)Lex  
+gene trap allele of the oxysterol binding protein-like 1A gene, in mutant ES cell line OST48536, made by Lexicon Genetics, Inc.
+
+3.5.4    Enhancer Traps
+Enhancer traps are specialized transgenes. One utility of these transgenes is in creating cre driver lines. Enhancer traps of this type that are currently being created may include a minimal promoter, introns, a cre recombinase cassette (sometimes fused with another element such as ERT2), and polyA sites from different sources.
+Nomenclature for these enhancer traps consists of 4 parts as follows:
+Et
+prefix for enhancer trap
+cre recombinase cassette
+portion in parentheses...for example, cre, icre, or cre/ERT2 (if fused with ERT2)
+line number or serial number
+to designate lab trap number or serial number
+Lab code
+ILAR code identifying the creator of this enhancer trap
+
+Examples:
+Et(icre)1642Rdav
+Enhancer trap 1642, Ron Davis
+Et(cre/ERT2)2047Rdav
+Enhancer trap 2047, Ron Davis
+
+Note that the minimal promoter, poly A source, etc. are not part of the enhancer trap nomenclature. These are molecular details of the specific construct that will be captured in database records and reported with experimental results.
+4   Transgenes
+Any DNA that has been stably introduced into the germline of mice or rats is a transgene. Transgenes can be broken down into two categories:
+Those that are produced by homologous recombination as targeted events at particular loci
+Those that occur by random insertion into the genome (usually by means of microinjection)
+Nomenclature for targeted genes is dealt with in Section 3.5. Random insertion of a transgene in or near an endogenous gene may produce a new allele of this gene. This new allele should be named as described in Section 3.4.2. The transgene itself is a new genetic entity for which a name may be required. This section describes the guidelines for naming the inserted transgene.
+4.1   Symbols for transgenes
+It is recognized that it is not necessary, or even desirable, to name all transgenes. For example, if a number of transgenic lines are described in a publication but not all are subsequently maintained or archived, then only those that are maintained require standardized names. The following Guidelines were developed by an interspecies committee sponsored by ILAR in 1992 and modified by the Nomenclature Committee in 1999 and 2000. Transgenic symbols should be submitted to MGD or RGD through the nomenclature submission form for new loci. The transgene symbol is made up of four parts:
+Tg denoting transgene
+In parentheses, the official gene symbol of the inserted DNA, using nomenclature conventions of the species of origin
+The laboratory's line or founder designation or a serial number (note that numbering is independent for mouse and rat series)
+The Laboratory code of the originating lab
+No part of a transgene symbol is ever italicized as these are random insertions of foreign DNA material and are not part of the native genome.
+Examples:
+Tg(Zfp38)D1Htz
+a transgene containing the mouse Zfp38 gene, in line D1 reported by Nathaniel Heintz.
+Tg(CD8)1Jwg
+a transgene containing the human CD8 gene, the first transgenic line using this construct described by the lab of Jon W. Gordon.
+Tg(HLA-B*2705, B2M)33-3Trg  
+a double transgene in rat containing the human HLA-B*2705 and B2M genes, that were co-injected, giving rise to line 33-3 by Joel D. Taurog.
+
+The *, as used in the last example above, indicates that the included gene is mutant.
+Different transgenic constructs containing the same gene should not be differentiated in the symbol; they will use the same gene symbol in parentheses and will be distinguished by the serial number/Laboratory code. Information about the nature of the transgenic entity should be given in associated publications and database entries.
+In many cases, a large number of transgenic lines are made from the same gene construct and only differ by tissue specificity of expression. The most common of these are transgenes that use reporter constructs or recombinases (e.g., GFP, lacZ, cre), where the promoter should be specified as the first part of the gene insertion designation, separated by a hyphen from the reporter or recombinase designation. The SV40 large T antigen is another example. The use of promoter designations is helpful in such cases.
+Examples:
+Tg(Wnt1-LacZ)206Amc  
+the LacZ transgene with a Wnt1 promoter, from mouse line 206 in the laboratory of Andrew McMahon
+Tg(Zp3-cre)3Mrt
+the cre transgene with a Zp3 promoter, the third transgenic mouse line from the laboratory of Gail Martin
+
+In the case of a fusion gene insert, where roughly equal parts of two genes compose the construct, a forward slash separates the two genes in parentheses.
+Example:
+Tg(TCF3/HLF)1Mlc  
+a transgene in which the human transcription factor 3 gene and the hepatic leukemia factor gene were inserted as a fusion chimeric cDNA, the first transgenic mouse line produced by Michael L. Cleary's laboratory (Mlc).
+
+This scheme is to name the transgene entity only. The mouse or rat strain on which the transgene is maintained should be named separately as in the Rules and Guidelines for Nomenclature of Mouse and Rat Strains. In describing a transgenic mouse or rat strain, the strain name should precede the transgene designation.
+Examples:
+C57BL/6J-Tg(CD8)1Jwg
+mouse strain C57BL/6J carrying the Tg(CD8)1Jwg transgene.
+F344/CrlBR-Tg(HLA-B*2705, B2M)33-3Trg  
+rat strain F344/CrlBR carrying the Tg(HLA-B*2705,B2M)33-3Trg double transgene
+
+For BAC transgenics, the insert designation is the BAC clone and follows the same naming convention as the Clone Registry at NCBI.
+Example:
+Tg(RP22-412K21)15Som  
+a BAC transgene where the inserted BAC is from the RP22 BAC library, plate 412, row K, column 21. It is the 15th in the mouse made in the laboratory of Stefan Somlo (Som).
+
+Transgenes containing RNAi constructs can be designated minimally as:
+
+Tg(RNAi:geneX)#Labcode, where
+geneX
+is the gene that is knocked down
+#
+is the serial number of the transgene
+
+An expanded version of this designation is:
+
+Tg(Pro-yyRNAi:geneX)#Labcode, where
+Pro-
+can be used optionally to designate the promoter
+yy
+can be used optionally for the specific RNAi construct
+
+While there is the option to include significant information on vectors, promoters, etc. within the parentheses of a transgene symbol, this should be minimized for brevity and clarity. The function of a symbol is to provide a unique designation to a gene, locus, or mutation. The fine molecular detail of these loci and mutations should reside in databases such as MGD and RGD.
+4.2  Intergenic sites used as &quot;neutral&quot; recipient sequence landing sites
+Commonly used insertion sites include Gt(Rosa)26Sor and Hprt. The characteristics of these loci are such that they are &quot;benign&quot; in not affecting expression or function of other genes. New sites that are intergenic are being identified that can also serve as neutral insertion sites for transgenesis and are designated by Igs# (Intergenic site #), where # indicates a serial number.
+These intergenic genomic sequences can be modified by targeted, spontaneous or other means of mutagenesis to facilitate the creation of alleles for modified intergenic sites such as those generated by MICER targeting or knock-out alleles for highly conserved sequences that reside within intergenic sequences. In general, these sites are benign, not affecting expression or function of other genes, but can act as a generic site for many kinds of inserted DNA. These markers differ from Regulatory Region markers in that Igs# loci do not exhibit regulator function.
+Intergenic sites are to be symbolized as:
+Igs#   Intergenic site # where # indicates the next number in the series.5    Transposon-induced Mutations and Inserts
+Three types of genetic inserts are involved in creating transposon-induced mutations. Two lines, one carrying the transposable-element as a concatamer and the other carrying the transposase are mated. This causes the transposable-element to come in contact with the transposase and to be mobilized from its original site, and, when reintegrated into the genome, can cause a heritable phenotypic mutation. (c.f., Ding, et al.,2005; Bestor, 2005; Dupuy, et al., 2005). Accepted nomenclature for the transposable-element inserts, transposase transgenes, and resulting transposed insertion alleles are given below.
+5.1   Transgenic Transposable Element (TE) Concatamers
+The transgenic transposable element concatamers are identified with a standard prefix Tg (for transgenic) and Tn (for transposable element). The class of transposable element may be included in parentheses. The general format of the symbol is:
+TgTn(transposon_class_abbreviation-vector)#LabcodeExample:  TgTn(sb-T2/GT2/tTA)1DlaThe symbol consists of:
+Tg denoting transgenic
+Tn denoting transposon
+In parentheses, a lowercase abbreviation of the transposon class (in this case sb for Sleeping Beauty), followed by a hyphen and the vector designation
+The laboratory's line or founder designation or a serial number
+The Laboratory Code of the originating lab
+5.2  Transposase Inserts
+Transposases can be engineered into the genome via transgenesis or specific gene targeting. In these cases the relevant nomenclature for transgenes or targeted mutations is used.
+For a transgene, use the standard prefix Tg (for transgene). The contents of the parentheses will usually be the promoter and the symbol for the transposase with which it is associated, separated by a hyphen. The general format of the symbol is:
+Tg(promoter-transposase)#LabcodeExample:  Tg(ACTB-sb10)545AbcThe symbol consists of:
+Tg denoting transgene
+In parentheses, the official gene symbol for the promoter, using the nomenclature of the species of origin, followed by a hyphen and a lowercase transposase symbol, in this case sb10 for the Sleeping Beauty 10 transposase
+The laboratory's line or founder designation or a serial number
+The Laboratory code of the originating lab
+For a targeted knock-in of the transposase, use the standard format for a targeted mutation, i.e., the symbol of the targeted gene with a superscripted allele symbol beginning with the prefix tm. The contents of the parentheses will usually be the symbol for the transposase with which it is associated. The general format of the symbol is:
+Genetm#(transposase)LabcodeExample:  Gt(ROSA)26Sortm1(sb11)Njen
+The symbol consists of:
+The gene into which the transposase was integrated, in this case Gt(ROSA)26Sor
+In the superscript:
+tm denoting targeted mutation
+A serial number of the targeted mutation
+In parentheses, a lowercase transposase symbol, in this case sb11 for the Sleeping Beauty 11 transposase
+The Laboratory Code of the originating lab
+5.3   Transposed Insertion Alleles
+These alleles follow the rules for naming all other alleles. In general a transposable element concatamer marker will already be established, as above. The new allele, then, will be a superscripted form of the concatamer symbol. Note that all such alleles that are &quot;derived from&quot; a transposable element concatamer carry the original number with a decimal point and serial number identifying the specific allele. The general format is:
+GeneTn(transposon_class_abbreviation-vector)#LabcodeExample: Car12Tn(sb-T2/GT2/tTA)1.1DlaThe symbol consists of:
+The gene into which the transposable element was integrated (transposed)
+In the superscript:
+Tn denoting transposon
+In parentheses, a lowercase abbreviation of the transposon class (in this case sb for Sleeping Beauty), followed by a hyphen and the vector designation
+A serial number, in which the primary number corresponds to that given to the transposable element concatamer from which it arose, followed by a decimal point and a serial number designating its number within the series of derivative insertion alleles.
+The Laboratory Code of the lab originating the transposable element line
+If a newly transposed insertion occurs in an unknown site or intergenic region, the form:
+Tn(transposon_class_abbreviation-vector)#Labcode
+is used to symbolize the &quot;genomic mutation&quot; without being superscripted to a gene symbol, similar to the way a random transgene inserted into a non-gene site is designated.
+6   Definitions
+The following definitions should aid the user in understanding what is being named, and in understanding the principles underlying these guidelines.
+6.1   Gene
+A gene is a functional unit, usually encoding a protein or RNA, whose inheritance can be followed experimentally. Inheritance is usually assayed in genetic crosses, but identification of the gene in cytogenetic or physical maps are other means of mapping the locus of a gene. The existence of a gene can also be inferred in the absence of any genetic or physical map information, such as from a cDNA sequence.
+6.2   Pseudogene
+A sequence that closely resembles a known functional gene, at another locus within a genome, that is non-functional as a consequence of (usually several) mutations that prevent either its transcription or translation (or both). In general, pseudogenes result from either reverse transcription of a transcript of their &quot;normal&quot; paralog (in which case the pseudogene typically lacks introns and includes a poly(A) tail; often called processed pseudogenes) or from recombination (in which case the pseudogene is typically a tandem duplication of its &quot;normal&quot; paralog). Note that in mouse and rat, a gene may be a pseudogene in one inbred strain but not another.
+6.3   Locus
+A locus is a point in the genome, identified by a marker, which can be mapped by some means. It does not necessarily correspond to a gene; it could, for example, be an anonymous non-coding DNA segment or a cytogenetic feature. A single gene may have several loci within it (each defined by different markers) and these markers may be separated in genetic or physical mapping experiments. In such cases, it is useful to define these different loci, but normally the gene name should be used to designate the gene itself, as this usually will convey the most information.
+6.4   Marker
+A marker is the means by which a gene or a locus is identified. The marker is dependent on an assay, which could, for example, be identification of a mutant phenotype or presence of an enzyme activity, protein band, or DNA fragment. The assay must show genetic variation of the marker to map the locus on a genetic map but not to place it on a physical map.
+6.5   Allele
+The two copies of an autosomal gene or locus on the maternal and paternal chromosomes are alleles. If the two alleles are identical, the animal is homozygous at that locus. When genetically inherited variants of a gene or locus are detectable by any means, the different alleles enable genetic mapping. A single chromosome can only carry a single allele and, except in cases of duplication, deletion or trisomy, an animal carries two autosomal alleles. In particular, a transgene inserted randomly in the genome is not an allele of the endogenous locus; the condition is termed hemizygous if the transgene is present only in one of the two parental chromosome sets. By contrast, a gene modified by targeting at the endogenous locus is an allele and should be named as such.
+6.6   Allelic Variant
+Allelic variants are differences between alleles, detectable by any assay. For example, differences in anonymous DNA sequences can be detected as simple sequence length polymorphism (SSLP) or single nucleotide polymorphisms (SNPs). Other types of variants include differences in protein molecular weight or charge, differences in enzyme activity, or differences in single-stranded conformation (SSCP). Many allelic variants, in particular DNA variants, do not confer any external phenotype on the animal. These variants are often termed “polymorphisms” although, strictly speaking, that term applies only to variants with a frequency of more than 1% in the population.
+6.7   Splice Variant or Alternative Splice
+Alternative splicing of a gene results in different, normally occurring forms of mRNA defined by which exons (or parts of exons) are used. Thus one or more alternative protein products can be produced by a single allele of a gene. Among different alleles, alternative splice forms may or may not differ, depending on whether the sequence difference between the alleles affects the normal splicing mechanism and results in differences in the exon (or partial exon) usage. For example, allele A may produce mRNAs of splice form 1, 2, and 3; while allele B may produce mRNAs of splice form 1, 2, and 4; and Allele C may produce mRNAs of splice form 1, 2, and 3. In this case, each of the alleles A, B, and C by definition must differ in their DNA sequence. However, the difference between allele B versus alleles A and C must include a sequence difference that affects the splicing pattern of the gene.
+6.8    Mutation
+A mutation is a particular class of variant allele that usually confers a phenotypically identifiable difference to a reference &quot;wild type&quot; phenotype. However, in some cases, such as when homologous recombination is used to target a gene, a readily identified phenotype may not result even though the gene may be rendered non-functional. In such cases, the targeted genes are nevertheless referred to as mutant alleles.
+6.9    Dominant and Recessive
+Dominant and recessive refer to the nature of inheritance of phenotypes, not to genes, alleles, or mutations. A recessive phenotype is one that is only detected when both alleles have a particular variant or mutation. A dominant phenotype is detectable when only one variant allele is present. If both alleles can be simultaneously detected by an assay, then they are codominant. For example, an assay that detects variation of DNA or protein will almost invariably detect codominant inheritance, as both alleles are detected. If a mutation produces a phenotype in the heterozygote that is intermediate between the homozygous normal and mutant, the phenotype is referred to as semidominant. A single mutation may confer both a dominant and a recessive phenotype. For example, the mouse patch (Ph) mutation has a heterozygous (dominant) pigmentation phenotype but also a homozygous (recessive) lethal phenotype. As the terms are applied to phenotypes not to genes or alleles, then in the case where a gene has multiple mutant alleles, each can confer a phenotype that is dominant to some, but recessive to other, phenotypes due to other alleles.
+Penetrance is a quantitative measure of how often the phenotype occurs in a population; and expressivity is a measure of how strongly a phenotype is expressed in an individual. Particularly in segregating crosses, or where there is a threshold effect on phenotypic manifestation, these measures provide additional ways to describe how particular allelic combinations result in a phenotype.
+6.10   Genotype
+Genotype is the description of the genetic composition of the animals, usually in terms of particular alleles at particular loci. It may refer to single genes or loci or to many. Genotype can only be determined by assaying phenotype, including test mating to reveal carriers of recessive mutations. Strictly speaking, even direct determination of DNA variants is assaying phenotype not genotype as it is dependent on a particular assay, although it is so close to genotype that it serves as a surrogate.
+6.11   Phenotype
+Phenotype is the result of interaction between genotype and the environment and can be determined by any assay.
+6.12   Quantitative Trait Loci (QTLs)
+Quantitative Trait Loci (QTL) are polymorphic loci that contain alleles, which differentially affect the expression of continuously distributed phenotypic traits. Usually these are markers described by statistical association to quantitative variation in the particular phenotypic traits that are controlled by the cumulative action of alleles at multiple loci.
+6.13   Haplotype
+A haplotype is the association of genetically linked alleles, as found in a gamete. They may be a combination of any type of markers, and may extend over large, genetically separable distances, or be within a short distance such as within a gene and not normally separated.
+6.14   Homolog
+Genes are homologous if they recognizably have evolved from a common ancestor. Note that genes are either homologous or not; there are no degrees of homology! For example, all globin genes, and myoglobin, are homologs, even though some are more closely related to each other than others. When a measure of relatedness between sequences is required, percent identity or similarity should be used.
+6.15   Ortholog
+Genes in different species are orthologs if they have evolved from a single common ancestral gene. For example, the beta globin genes of mouse, rat and human are orthologs. Note that several genes in the mouse or rat may have a single ortholog in another species and vice versa.
+6.16   Paralog
+Paralogous genes are genes within the same species that have arisen from a common ancestor by duplication and subsequent divergence. For example, the mouse alpha globin and beta globin genes are paralogs.
+NAMING CHORMOSSOMES
+1.   General Guidelines for Designating Chromosomes
+Mouse chromosomes are numbered and identified according to the system given by Nesbitt and Francke (1973), Sawyer et al. (1987), Beechey and Evans (1996), and Evans (1996). The word Chromosome should start with a capital letter when referring to a specific chromosome and may be abbreviated to Chr after the first use, e.g., Chromosome (Chr) 1 and Chr 1. The X and Y chromosomes are indicated by capital letters rather than numbers.
+Cytogenetic bands are named by capital letters, alphabetically designating the major Giemsa (G)-staining bands from centromere to telomere. Major subdivisions within cytogenetic bands are numbered. Additional subdivisions are designated using a decimal system.
+Examples:
+Major G-band designation:
+Chr 17B
+Major subdivisions within the Chr 17B band:
+17B1, 17B2
+Additional subdivision of band 17B1:
+17B1.1, 17B1.2, 17B1.3, etc.
+
+2.   Symbols for Chromosome Anomalies
+Chromosome anomaly symbols are not italicized (unlike gene symbols).
+Symbols for chromosome anomalies consist of three parts:
+A prefix defining the type of anomaly
+Specifically formatted information indicating the chromosomes involved
+A series number and Laboratory code designation that uniquely identifies the anomaly
+2.1    Prefix
+A chromosome anomaly designation begins with a prefix that denotes the type of anomaly. Each prefix begins with a capital letter, with any subsequent letters being lowercase. The accepted prefixes are:
+
+Cen
+Centromere
+Del
+Deletion
+Df
+Deficiency
+Dp
+Duplication
+Hc
+Pericentric heterochromatin
+Hsr
+Homogeneous staining region
+In
+Inversion
+Is
+Insertion
+Iso
+Isochromosome
+MatDf
+Maternal deficiency
+MatDi
+Maternal disomy
+MatDp  
+Maternal duplication
+Ms
+Monosomy
+Ns
+Nullisomy
+PatDf
+Paternal deficiency
+PatDi
+Paternal disomy
+PatDp
+Paternal duplication
+Rb
+Robertsonian translocation
+T
+Translocation
+Tc
+Transchromosomal
+Tel
+Telomere
+Tet
+Tetrasomy
+Tg
+Transgenic insertion (see Rules for Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat)
+Tp
+Transposition
+Ts
+Trisomy
+UpDf
+Uniparental deficiency
+UpDi
+Uniparental disomy
+UpDp
+Uniparental duplication
+
+2.2    Designating the chromosomes involved in an anomaly
+The chromosome(s) involved in the anomaly should be indicated by adding the appropriate Arabic numerals or letters in parentheses, between the anomaly prefix and the series symbol.
+If two chromosomes are involved in a chromosome anomaly, such as translocations and insertions, the chromosomes are separated by a semicolon. In the case of Robertsonian translocations, the chromosomes involved are separated by a period indicating the centromere.
+In the case of insertions, the chromosome donating the inserted portion should be given first, followed by the recipient chromosome.
+2.3   A series number and Laboratory code designation that uniquely identifies the anomaly
+The first and each successive anomaly from a particular laboratory or institution is distinguished by a series symbol, consisting of a serial number followed by the Laboratory Registration Code or Laboratory code of the person or laboratory who discovered the anomaly. Each type of chromosomal anomaly from a given laboratory will have its own series of serial numbers (see examples). The Laboratory code should be the code already assigned for the particular institute, laboratory, or investigator for use with strains that they hold. If there is no preassigned code, one should be obtained from the Institute of Laboratory Animal Research (ILAR) ( http://dels.nas.edu/global/ilar/lab-codes). Laboratory codes are uniquely assigned to institutes or investigators and are usually three to four letters (first letter uppercase, followed by all lowercase).
+Examples:
+Del(9)4H
+deletion involving Chr 9, the 4th deletion from Harwell
+In(15)4H
+inversion involving Chr 15, the 4th inversion from Harwell
+Is(13;1)4H
+insertion of part of Chr 13 into Chr 1; the 4th insertion from Harwell
+In(5)2Rk
+inversion involving Chr 5; the 2nd inversion from T.H. Roderick's lab
+Rb(3.15)2Rk  
+Robertsonian translocation involving Chr 3 and Chr 15, the 2nd Robertsonian translocation from T.H. Roderick's lab.
+Iso(6)1H
+isochromosome 6, the 1st isochromosome from Harwell
+
+Note: As mouse chromosomes are all acrocentric, with the exception of Chr Y, the p and q arm designations standard for human chromosomes are not used. For mouse Chr Y, p and q are appended as required. Example: Iso(Yq).
+2.4    Abbreviating chromosome anomalies
+Once the full designation for a chromosome anomaly is written in a document, an abbreviation can be used thereafter. The abbreviation consists of the anomaly prefix plus the serial number designation and Laboratory code. The chromosomal content in parentheses is omitted.
+Using the examples from section 2.3:
+
+Full designation   
+Abbreviation
+Del(9)4H
+Del4H
+In(5)2Rk
+In2Rk
+Is(13;1)4H
+Is4H
+Rb(3.15)2Rk
+Rb2Rk
+
+2.5    Symbols for multiple chromosome anomalies
+When an animal carries two or more anomalies that are potentially separable by recombination, the symbols for both (or all) anomalies should be given.
+Examples:
+Rb(16.17)7Bnr T(1;17)190Ca/+ +   an animal heterozygous for a Robertsonian and a reciprocal translocation, each involving Chr 17. The anomalies are organizationally in &quot;coupling&quot; i.e., the same Chr 17 is involved in both.
+Rb(5.15)3Bnr +/+ In(5)9Rkan animal heterozygous for a Robertsonian and heterozygous for an inversion. Because they share a common chromosome, Chr 5, the organization of the anomalies is specified as in &quot;repulsion.&quot;
+Rb(10.11)5Rma/+ T(3;4)5Rkan animal that is heterozygous for a Robertsonian translocation and homozygous for an unrelated reciprocal translocation.
+2.6    Symbols for complex chromosome anomalies
+When one chromosome anomaly is contained within another or is inseparable from it, the symbols should be combined.
+Example:
+T(In1;5)44H  an animal carrying a translocation between Chrs 1 and 5 in which the Chr 1 segment is inverted.
+2.7    Designating chromosomal breakpoints
+The symbols p and q are used to denote the short and long arms, respectively, of mouse chromosomes. In translocations, breaks in the short arm should be designated with a p, but the q for long arm may be omitted if the meaning is clear. Because mouse autosomes and the X Chromosome are acrocentric, they do not have a short arm other than a telomere proximal to the centromere. Therefore, most rearrangements in mouse chromosomes involve breaks in the long arm (q arm). In mouse, Chr Y has both a p and q arm.
+Example:
+T(Yp;5)21Lubtranslocation involving a break in the short arm of the Y Chromosome and the long arm of Chr 5; the 21st from Lubeck.
+2.7.1     Defining the chromosomal band
+When the positions of the chromosomal breakpoints relative to the G-banded karyotype are known, these are indicated by adding the band numbers, as given in the standard karyotype of the mouse (Evans 1996), after the appropriate chromosome numbers.
+T(2H1;8A4)26Hreciprocal translocation having breakpoints in band H1 of Chr 2 and band A4 of Chr 8; the 26th from Harwell
+In(XA1;XE)1Hinversion of the region between the breakpoints in bands A1 and E of the X Chromosome; the 1st from Harwell
+Del(7E1)Tyr8Rldeletion of band 7E1 manifesting as a mutation to albino, Tyrc;the 8th from Russell
+Is(In7F1-7C;XF1)1Ct  inverted insertion of a segment of Chr 7 band F1-C into the X Chromosome at band F1; the 1st from Cattanach
+For pericentric inversions the symbols pq and/or appropriate band numbers should be used.
+In(8pq)1Rlpericentric inversion involving Chr 8; the 1st from Russell
+In(8pqA2)pericentric inversion of the region between the short arm and band A2 of the long arm of Chr 8
+In(5C2;15E1)Rb3Bnr 1Ctthe first inversion found by Cattanach in Rb3Bnr of the region between bands 5C2 and 15E1
+2.8    Deficiencies and deletions as chromosomal anomalies
+The deficiency (Df) and duplication (Dp) nomenclature should be restricted in its use to defining the unbalanced products of chromosome aberrations, i.e., deficient/duplicated chromosomes resulting from malsegregation of reciprocal translocations. Deletions are interstitial losses often, although not always, cytologically visible. Neither of these terms should be applied to small intragenic deletions. The latter give rise to allelic variation in a single locus and are given allele symbols.
+2.9    Imprinting and chromosomal anomalies
+Since the 1980s, mouse translocations have been extensively used in imprinting studies to generate uniparental disomies and uniparental duplications (partial disomies) and deficiencies of whole or selected chromosome regions, respectively (reviewed by Cattanach and Beechey 1997 and Beechey 1999). The resulting chromosomal change may be of maternal, paternal, or uniparental (referring to one or the other parent without specification of maternal vs. paternal) origin.
+These chromosome anomalies are of three types:
+Disomy - two copies of a chromosome derived from one parent
+Duplications - two copies of a chromosome region derived from one parent
+Deficiencies - missing segments of a particular chromosome region originating from one parent
+Disomies and duplications of one parental copy imply deficiency of the other parental copy.
+The nomenclature for these anomalies includes the affected chromosome in parentheses. The abbreviations, prox (proximal) and dist (distal) can be used to denote the position of the duplication/deficiency relative to the breakpoint of a translocation used to generate the duplication/deficiency. Similarly, if a translocation is used to produce a uniparental disomy or duplication, this can be indicated in the symbol.
+MatDi(12)maternal disomy for Chr 12
+PatDp(10)paternal duplication for a region of Chr 10
+MatDp(dist2)maternal duplication for distal Chr 2
+MatDf(7)maternal deficiency for Chr 7
+PatDi(11)Rb4Bnrpaternal disomy for Chr 11 produced using Robertsonian translocation Rb(11.13)4Bnr
+MatDp(dist2)T26Hmaternal duplication for the region of Chr 2 distal to the breakpoint of the reciprocal translocation T(2;8)26H
+2.10    Deletions identified through phenotypic change
+If cytologically visible deletions are first detected by change in the phenotype produced by a gene (e.g., MgfSl-12H), the gene and allele symbol designation should be included in the chromosome anomaly symbol, e.g,. Del(10)MgfSl-12H1H was originally identified as Sl12H (see Rules for Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat).
+2.11    Chromosomal aneuploidy
+Trisomies and monosomies should be denoted by the appropriate prefix symbol, followed by the chromosome(s) concerned. If a tertiary aneuploid or partial aneuploid is derived from a translocation, then the chromosome composition (proximal chromosome end; superscripted distal chromosome end) is denoted in parentheses, followed by the serial number and Laboratory code.
+Ts16trisomy for Chr 16
+Ts(113)70H  trisomy for the proximal end of Chr 1 and the distal end of Chr 13, derived from the translocation T(1;13)70H (also referred to as tertiary trisomy or partial trisomy).
+Nullisomy, monosomy, and tetrasomy are denoted similarly.
+2.12    Transchromosomal anomalies
+Transchromosomal is the term used to reference the case where a chromosome, chromosomal fragment, or engineered chromosome from another species exists as a separate, heritable, freely segregating entity or is centromerically fused to an endogenous chromosome. The designation of the additional chromosome is represented parenthetically including the species abbreviation and chromosome from that species, followed by an established line number and an ILAR Laboratory code.
+The format for a transchromosomal is:   Tc(AAAbb)CCXxx
+Where
+Tc =  transchromosomal
+AAA =  species abbreviation (e.g., HSA=human; MUS=mouse; BOV=bovine)
+Bb =  chromosome number of the inserted fragment from the other species
+CC =  line number
+Xxx =  Laboratory code
+Tc(HSA21)91-1Emcftranschromosomal, human 21, line 91-1 Elizabeth M. C. FisherThis is an engineered mouse line containing a fragment of human chromosome 21 as a freely segregating heritable fragment.
+3.    Variations in Heterochromatin and Chromosome Banding
+3.1    Nucleolus organizers
+The symbol NOR should be reserved for nucleolus organizers. Different organizers should be distinguished by chromosome numbers. Polymorphic loci within the ribosomal DNA region are designated with the root gene symbol, Rnr and the chromosome number (see Rules and Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat).
+Example:
+Rnr12a polymorphic DNA segment that identifies the ribosomal DNA region on Chr 12
+3.2    Pericentric heterochromatin
+The symbol H should be used for heterochromatin visualized cytologically, followed by a symbol indicating the chromosome region involved, in this case c for centromeric, and a number indicating the chromosome on which it lies.
+Example:
+Hc14
+pericentric heterochromatin on Chr 14
+Variations in size, etc., of any block should be indicated by superscripts, using n for normal or standard, l for large and s for small bands.
+Example:
+Hc14n
+normal or standard pericentric heterochromatin on Chr 14.In describing a new variant, a single inbred strain should be named as the prototype or standard strain.
+3.3    Loci within heterochromatin
+Individual loci or DNA segments mapped within heterochromatin should be symbolized with D- symbols (for details of naming DNA segments, see Rules for Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat). A lowercase h follows the D to indicate the DNA locus is a genetic marker for the heterochromatin region.
+Example:
+Dh1H
+the first DNA segment within the pericentromeric heterochromatin region of Chr 1 discovered at Harwell.
+3.4    Centromeres
+The centromere itself (as opposed to pericentric heterochromatin) should be denoted by the symbol Cen. Individual loci or DNA segments mapped within the centromere region should be symbolized with D- symbols. It should be noted that at present there is no sequence definition for the centromere; Cen refers to the functional unit of the centromere.
+3.5    Telomeres
+The telomere should be denoted by the symbol Tel. The symbol Tel may be substituted for D in a locus symbol that refers to a locus recognized by a telomere consensus sequence probe. Symbols for such loci (mapping to the telomere region) are italicized and consist of three parts:
+The letters Tel (for telomere)
+A number denoting the chromosome
+A letter denoting the centromeric or distal end of the chromosome, namely p for centromeric and q for distal (derived from p and q for short and long arms, respectively).
+Tel14q
+a telomere sequence on Chromosome 14 at the distal chromosome end
+Multiple loci assigned to telomeres of individual chromosomes are numbered serially.
+Tel14p1
+the first telomere sequence mapped at the centromeric end of Chr 14
+Tel19q2
+the second telomere sequence mapped at the distal end of Chr 19
+Telomeric sequences mapped to other chromosome regions should be designated as -rs loci and are sequentially numbered (see Rules for Nomenclature of Genes, Genetic Markers, Alleles, and Mutations in Mouse and Rat and Sawyer et al., 1987).
+Example:
+Tel-rs2telomere, related sequence 2. This sequence maps at approximately 33cM on Chr 8.
+3.6    G-band polymorphisms
+When a recognizable and heritable variant in size, staining density, etc. of a particular chromosomal G-band is discovered, this should be indicated by giving the designation of the band affected, in accordance with the standard karyotype of the mouse (Evans 1996), with a superscript to indicate the variant concerned.
+Chr 17A2s
+small A2 band in Chr 17
+When a supernumerary band becomes visible, this may be due to a small duplication, and if so should be designated as such. If the supernumerary band is due not to a duplication but to a further resolution within a band, then a new band should be designated as a subdivision of the appropriate known band (see Section 1 above).
+4.   Use of Human Chromosome Nomenclature
+Chromosomal complements may be described using the type of nomenclature used for human chromosomes when dealing with whole arm changes. In this case the number of chromosomes is specified, followed by a comma and a specification of the whole arm chromosome change. Symbols used to designate these whole arm chromosome changes are:
+&quot;+&quot; to indicate the presence of a specific additional autosome
+&quot;–&quot; to indicate the absence of a specific autosome
+&quot;O&quot; to indicate a missing sex chromosome
+Additional Xs or Ys to indicate supernumerary sex chromosomes
+For mosaics a double slash is used to separate the components of the chromosomal mosaic.
+Examples:
+41,XY+13
+the normal mouse male complement with an additional copy of Chr 13
+39,XO
+a female mouse complement missing a Chr X
+39,XO//41,XYY
+a mosaic where one component is a female XO and the other a male component carrying an extra Chr Y.
+
+</Text>
+    </Snapshot>
+</SnapshotIndexes>

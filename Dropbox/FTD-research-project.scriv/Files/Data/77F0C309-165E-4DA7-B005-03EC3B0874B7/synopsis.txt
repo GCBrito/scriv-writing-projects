@@ -1,0 +1,2 @@
+Estado da arte dos modelos de FTD
+Modelo de ALS já foi explorado
