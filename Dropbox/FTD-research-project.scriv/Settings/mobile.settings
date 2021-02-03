@@ -36,17 +36,17 @@
   "DraftNavigatorShowsTextTitles" : true,
   "ShowsLabelsInBinder" : true,
   "CompileOptions" : {
-    "TitlesUseMarkdownLevels" : false,
+    "PaperType" : 3,
     "FileFormat" : 0,
     "RemoveComments" : true,
     "RectoFooterText" : "<$p>",
+    "HeaderText" : "",
     "RectoHeaderText" : "",
     "FirstPageIsTitle" : false,
     "ConvertToMarkdown" : false,
     "FooterText" : "<$p>",
     "CurrentFolderOnly" : false,
-    "PaperType" : 3,
-    "HeaderText" : ""
+    "TitlesUseMarkdownLevels" : false
   },
   "ShowsStatusInBinder" : true,
   "CardsShowStatusStamps" : false,
