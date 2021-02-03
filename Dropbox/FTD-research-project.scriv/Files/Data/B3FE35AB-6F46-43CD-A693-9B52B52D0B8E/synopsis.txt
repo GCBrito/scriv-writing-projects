@@ -1,0 +1,7 @@
+• Describe how the data will be presented in the results section (eg, mean vs median), which statistical tests will used for the inferential data, and what p value is deemed to indicate a statistically significant difference (Respir Care 2004 (49) 10 1229-1232).
+• If necessary, explain why the statistical tests you selected were appropriate. Citing a reference for the appropriate statistical test is a good idea, if one is available, as it helps limit questions from the reviewers (Respir Care 2004 (49) 10 1222-1228).
+
+• A concise guide on how to choose an appropriate statistical method is reported in: Kurichi JE, Sonnad SS. Statistical methods in the surgical literature. J Am Coll Surg 2006; 202: 476-484. 
+
+* If you are not familiar with statistical methods, obtain the help of a statistician BEFORE starting your study, to make sure that your study methods (populations, groups, randomisation, …) are sound, to be set from the start for a great paper!
+

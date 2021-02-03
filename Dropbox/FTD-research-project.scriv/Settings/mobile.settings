@@ -1,0 +1,54 @@
+{
+  "CardsUseLabelColors" : true,
+  "UseFullOutline" : 0,
+  "TintBinderWithLabels" : true,
+  "DocStates" : {
+    "76284D75-BDD1-4340-B315-668AAD4B9F31" : {
+      "scrollPos" : "0"
+    },
+    "7A0B27DF-599E-4B23-818D-C83B179DA14B" : {
+      "scrollPos" : "0"
+    },
+    "29D995D2-1DF1-408B-9F5B-EE880E6E8851" : {
+      "scrollPos" : "0"
+    },
+    "0A205AD9-3881-427D-A15E-EC15BB1EC848" : {
+      "scrollPos" : "0"
+    },
+    "2C5635FA-8AE7-48B9-9855-55097D8DEF68" : {
+      "scrollPos" : "0"
+    },
+    "D2196534-D220-4318-ACD3-1C0081F976EA" : {
+      "scrollPos" : "0"
+    },
+    "48045D76-5F93-4DAD-B4D6-EF4625BF1576" : {
+      "scrollPos" : "0"
+    },
+    "9FCC8EE7-B4C9-45FA-97DE-BD859AE6DB25" : {
+      "scrollPos" : "0"
+    },
+    "6026B179-8386-47D9-AA0F-5438271BF90C" : {
+      "scrollPos" : "0"
+    }
+  },
+  "TextScaleFactor" : 1.2,
+  "TypewriterScrolling" : false,
+  "DraftNavigatorShowsTextTitles" : true,
+  "ShowsLabelsInBinder" : true,
+  "CompileOptions" : {
+    "PaperType" : 3,
+    "FileFormat" : 0,
+    "RemoveComments" : true,
+    "RectoFooterText" : "<$p>",
+    "HeaderText" : "",
+    "RectoHeaderText" : "",
+    "FirstPageIsTitle" : false,
+    "ConvertToMarkdown" : false,
+    "FooterText" : "<$p>",
+    "CurrentFolderOnly" : false,
+    "TitlesUseMarkdownLevels" : false
+  },
+  "ShowsStatusInBinder" : true,
+  "CardsShowStatusStamps" : false,
+  "LargeSynopsisFont" : false
+}

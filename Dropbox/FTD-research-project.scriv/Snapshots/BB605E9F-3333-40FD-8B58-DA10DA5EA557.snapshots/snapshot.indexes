@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="BB605E9F-3333-40FD-8B58-DA10DA5EA557">
+    <Snapshot Date="2020-12-30 22:40:19 -0300">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>IMPC Pipeline
+Unrestricted
+Welfare Observations IMPC_WEL_001 (v.1.0)
+The Welfare Observations procedure is used for the recording of welfare issues as and when they occu... Read More
+View SOPView ParametersView OntologiesView History
+Body Weight IMPC_BWT_001 (v.1.3)
+The body weight test measures the weight of the mouse in a time series, allowing monitoring of its e... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Experimental design IMPC_EXD_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+Adult LacZ IMPC_ALZ_001 (v.1.9)
+To stain adult mutant  and control tissues for bacterial beta-galactosidase (LacZ) activity in order... Read More
+View SOPView ParametersView OntologiesView History
+Fertility of Homozygous Knock-out Mice IMPC_FER_001 (v.1.1)
+To assess the fertility of homozygous knockout mice.
+ MandatoryView SOPView ParametersView OntologiesView History
+Viability Primary Screen IMPC_VIA_002 (v.2.0)
+Assess the viability of mutant mice of each sex and zygosity.
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+Housing and Husbandry IMPC_HOU_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+E9.5 and Younger
+Gross Morphology Embryo E9.5 IMPC_GEL_003 (v.3.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.0)(v.1.0)
+Viability E9.5 Secondary Screen IMPC_EVL_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+OPT E9.5 IMPC_EOL_002 (v.2.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+MicroCT E9.5 IMPC_EML_002 (v.2.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+Gross Morphology Placenta E9.5 IMPC_GPL_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+E12.5
+Gross Morphology Embryo E12.5 IMPC_GEM_003 (v.3.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.0)(v.1.0)
+Embryo LacZ IMPC_ELZ_001 (v.1.1)
+
+View SOPView ParametersView OntologiesView History
+Gross Morphology Placenta E12.5 IMPC_GPM_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+Viability E12.5 Secondary Screen IMPC_EVM_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+E15.5
+Viability E14.5-E15.5 Secondary Screen IMPC_EVO_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+Gross Morphology Placenta E14.5-E15.5 IMPC_GPO_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+MicroCT E14.5-E15.5 Analysis IMPC_MAA_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+MicroCT E14.5-E15.5 IMPC_EMO_002 (v.2.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+Gross Morphology Embryo E14.5-E15.5 IMPC_GEO_003 (v.3.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.0)(v.1.0)
+E18.5 and Older
+Viability E18.5 Secondary Screen IMPC_EVP_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+MicroCT E18.5 IMPC_EMA_002 (v.2.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+Gross Morphology Embryo E18.5 IMPC_GEP_003 (v.3.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.0)(v.1.0)
+Gross Morphology Placenta E18.5 IMPC_GPP_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+Week 9
+Open Field IMPC_OFD_001 (v.1.1)
+The Open Field test is used to assess anxiety and exploratory behaviors. It is based on the natural ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Grip Strength IMPC_GRS_001 (v.1.1)
+The grip strength test is used to measure the neuromuscular function as maximal muscle strength of f... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Combined SHIRPA and Dysmorphology IMPC_CSD_003 (v.3.9)
+SHIRPA and dysmorphology were originally always separate assessments.  However they have recently be... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.7)(v.1.11)
+Week 10
+Acoustic Startle and Pre-pulse Inhibition (PPI) IMPC_ACS_003 (v.3.4)
+The acoustic startle response is characterized by an exaggerated flinching response to an unexpected... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.4)(v.1.5)
+Light-Dark Test IMPC_LDT_001 (v.1.1)
+Light-Dark test monitors the anxiety-related behaviour of mice
+View SOPView ParametersView OntologiesView History
+Week 11
+Fear Conditioning IMPC_FEA_001 (v.1.2)
+Fear Conditioning test assesses aversive learning and memory
+View SOPView ParametersView OntologiesView History
+Indirect Calorimetry IMPC_CAL_003 (v.3.5)
+Indirect calorimetry provides detailed information on the energy metabolism of mutant mice. Energy e... Read More
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.7)(v.1.8)
+Y-maze IMPC_YMZ_001 (v.1.1)
+Y-maze assesses learning and memory; it can be used instead/in parallel of Fear Conditioning
+View SOPView ParametersView OntologiesView History
+Week 12
+Echo IMPC_ECH_001 (v.1.4)
+To assess the functionality of the heart in order to determine the presence of a mutant phenotype.
+View SOPView ParametersView OntologiesView History
+Electrocardiogram (ECG) IMPC_ECG_002 (v.2.6)
+To provide a high throughput method to obtain Electrocardiograms in a conscious mouse or an anesthet... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Week 13
+Intraperitoneal glucose tolerance test (IPGTT) IMPC_IPG_001 (v.1.1)
+The glucose tolerance test measures the clearance of an intraperitoneally injected glucose load from... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Challenge Whole Body Plethysmography IMPC_CHL_001 (v.1.1)
+The purpose of this procedure is to record the respiratory function of mice, when submitted to metha... Read More
+View SOPView ParametersView OntologiesView History
+Week 14
+Auditory Brain Stem Response IMPC_ABR_002 (v.2.5)
+Auditory brainstem response test determines hearing sensitivity and other physiological parameters u... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.7)
+X-ray IMPC_XRY_001 (v.1.9)
+Construct and analyse digital X-ray images in immobilised mice using a Faxitron X-Ray system or NTB ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Body Composition (DEXA lean/fat) IMPC_DXA_001 (v.1.8)
+Measure bone mineral content and density as well as body composition in mice using the DEXA (Dual En... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Week 15
+Eye Morphology IMPC_EYE_002 (v.2.8)
+To detect abnormalities in eye morphology.
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Week 16
+Tissue Embedding and Block Banking IMPC_BLK_001 (v.1.9)
+Collect and fix a standard list of tissues from the complete necropsy (see IMPC Gross Pathology &amp; Ti... Read More
+View SOPView ParametersView OntologiesView History
+Clinical Chemistry IMPC_CBC_003 (v.3.9)
+Clinical chemistry determines biochemical parameters in plasma including enzymatic activity, specifi... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.1)(v.1.12)
+Gross Pathology and Tissue Collection IMPC_PAT_002 (v.2.9)
+To perform a complete necropsy to detect and record abnormal external findings and macroscopic alter... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Histopathology IMPC_HIS_003 (v.3.0)
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.6)(v.1.9)
+Hematology IMPC_HEM_002 (v.2.9)
+Hematological assessment of blood determines blood cell counts (white blood cells, red blood cells, ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.11)
+Organ Weight IMPC_OWT_001 (v.1.4)
+Organ weights from different tissues collected for IMPC
+View SOPView ParametersView OntologiesView History
+Heart Weight IMPC_HWT_001 (v.1.9)
+To evaluate cardiac size using heart weight and body weight.
+ MandatoryView SOPView ParametersView OntologiesView History
+Insulin Blood Level IMPC_INS_003 (v.3.2)
+The insulin concentration in the blood is an important indicator of diabetes.Ontological description... Read More
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.3)(v.1.3)
+Immunophenotyping IMPC_IMM_002 (v.2.0)
+Immunophenotyping of immune system cells
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.8)</Text>
+    </Snapshot>
+    <Snapshot Date="2021-01-10 17:18:10 -0300">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>IMPC Pipeline
+Unrestricted
+Welfare Observations IMPC_WEL_001 (v.1.0)
+The Welfare Observations procedure is used for the recording of welfare issues as and when they occu... Read More
+View SOPView ParametersView OntologiesView History
+Body Weight IMPC_BWT_001 (v.1.3)
+The body weight test measures the weight of the mouse in a time series, allowing monitoring of its e... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Experimental design IMPC_EXD_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+Adult LacZ IMPC_ALZ_001 (v.1.9)
+To stain adult mutant  and control tissues for bacterial beta-galactosidase (LacZ) activity in order... Read More
+View SOPView ParametersView OntologiesView History
+Fertility of Homozygous Knock-out Mice IMPC_FER_001 (v.1.1)
+To assess the fertility of homozygous knockout mice.
+ MandatoryView SOPView ParametersView OntologiesView History
+Viability Primary Screen IMPC_VIA_002 (v.2.0)
+Assess the viability of mutant mice of each sex and zygosity.
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+Housing and Husbandry IMPC_HOU_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+E9.5 and Younger
+Gross Morphology Embryo E9.5 IMPC_GEL_003 (v.3.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.0)(v.1.0)
+Viability E9.5 Secondary Screen IMPC_EVL_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+OPT E9.5 IMPC_EOL_002 (v.2.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+MicroCT E9.5 IMPC_EML_002 (v.2.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+Gross Morphology Placenta E9.5 IMPC_GPL_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+E12.5
+Gross Morphology Embryo E12.5 IMPC_GEM_003 (v.3.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.0)(v.1.0)
+Embryo LacZ IMPC_ELZ_001 (v.1.1)
+
+View SOPView ParametersView OntologiesView History
+Gross Morphology Placenta E12.5 IMPC_GPM_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+Viability E12.5 Secondary Screen IMPC_EVM_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+E15.5
+Viability E14.5-E15.5 Secondary Screen IMPC_EVO_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+Gross Morphology Placenta E14.5-E15.5 IMPC_GPO_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+MicroCT E14.5-E15.5 Analysis IMPC_MAA_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+MicroCT E14.5-E15.5 IMPC_EMO_002 (v.2.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+Gross Morphology Embryo E14.5-E15.5 IMPC_GEO_003 (v.3.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.0)(v.1.0)
+E18.5 and Older
+Viability E18.5 Secondary Screen IMPC_EVP_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+MicroCT E18.5 IMPC_EMA_002 (v.2.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.0)
+Gross Morphology Embryo E18.5 IMPC_GEP_003 (v.3.0)
+
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.0)(v.1.0)
+Gross Morphology Placenta E18.5 IMPC_GPP_001 (v.1.0)
+
+View SOPView ParametersView OntologiesView History
+Week 9
+Open Field IMPC_OFD_001 (v.1.1)
+The Open Field test is used to assess anxiety and exploratory behaviors. It is based on the natural ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Grip Strength IMPC_GRS_001 (v.1.1)
+The grip strength test is used to measure the neuromuscular function as maximal muscle strength of f... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Combined SHIRPA and Dysmorphology IMPC_CSD_003 (v.3.9)
+SHIRPA and dysmorphology were originally always separate assessments.  However they have recently be... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.7)(v.1.11)
+Week 10
+Acoustic Startle and Pre-pulse Inhibition (PPI) IMPC_ACS_003 (v.3.4)
+The acoustic startle response is characterized by an exaggerated flinching response to an unexpected... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.4)(v.1.5)
+Light-Dark Test IMPC_LDT_001 (v.1.1)
+Light-Dark test monitors the anxiety-related behaviour of mice
+View SOPView ParametersView OntologiesView History
+Week 11
+Fear Conditioning IMPC_FEA_001 (v.1.2)
+Fear Conditioning test assesses aversive learning and memory
+View SOPView ParametersView OntologiesView History
+Indirect Calorimetry IMPC_CAL_003 (v.3.5)
+Indirect calorimetry provides detailed information on the energy metabolism of mutant mice. Energy e... Read More
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.7)(v.1.8)
+Y-maze IMPC_YMZ_001 (v.1.1)
+Y-maze assesses learning and memory; it can be used instead/in parallel of Fear Conditioning
+View SOPView ParametersView OntologiesView History
+Week 12
+Echo IMPC_ECH_001 (v.1.4)
+To assess the functionality of the heart in order to determine the presence of a mutant phenotype.
+View SOPView ParametersView OntologiesView History
+Electrocardiogram (ECG) IMPC_ECG_002 (v.2.6)
+To provide a high throughput method to obtain Electrocardiograms in a conscious mouse or an anesthet... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Week 13
+Intraperitoneal glucose tolerance test (IPGTT) IMPC_IPG_001 (v.1.1)
+The glucose tolerance test measures the clearance of an intraperitoneally injected glucose load from... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Challenge Whole Body Plethysmography IMPC_CHL_001 (v.1.1)
+The purpose of this procedure is to record the respiratory function of mice, when submitted to metha... Read More
+View SOPView ParametersView OntologiesView History
+Week 14
+Auditory Brain Stem Response IMPC_ABR_002 (v.2.5)
+Auditory brainstem response test determines hearing sensitivity and other physiological parameters u... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.7)
+X-ray IMPC_XRY_001 (v.1.9)
+Construct and analyse digital X-ray images in immobilised mice using a Faxitron X-Ray system or NTB ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Body Composition (DEXA lean/fat) IMPC_DXA_001 (v.1.8)
+Measure bone mineral content and density as well as body composition in mice using the DEXA (Dual En... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Week 15
+Eye Morphology IMPC_EYE_002 (v.2.8)
+To detect abnormalities in eye morphology.
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Week 16
+Tissue Embedding and Block Banking IMPC_BLK_001 (v.1.9)
+Collect and fix a standard list of tissues from the complete necropsy (see IMPC Gross Pathology &amp; Ti... Read More
+View SOPView ParametersView OntologiesView History
+Clinical Chemistry IMPC_CBC_003 (v.3.9)
+Clinical chemistry determines biochemical parameters in plasma including enzymatic activity, specifi... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.1)(v.1.12)
+Gross Pathology and Tissue Collection IMPC_PAT_002 (v.2.9)
+To perform a complete necropsy to detect and record abnormal external findings and macroscopic alter... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Histopathology IMPC_HIS_003 (v.3.0)
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.6)(v.1.9)
+Hematology IMPC_HEM_002 (v.2.9)
+Hematological assessment of blood determines blood cell counts (white blood cells, red blood cells, ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.11)
+Organ Weight IMPC_OWT_001 (v.1.4)
+Organ weights from different tissues collected for IMPC
+View SOPView ParametersView OntologiesView History
+Heart Weight IMPC_HWT_001 (v.1.9)
+To evaluate cardiac size using heart weight and body weight.
+ MandatoryView SOPView ParametersView OntologiesView History
+Insulin Blood Level IMPC_INS_003 (v.3.2)
+The insulin concentration in the blood is an important indicator of diabetes.Ontological description... Read More
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.3)(v.1.3)
+Immunophenotyping IMPC_IMM_002 (v.2.0)
+Immunophenotyping of immune system cells
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.8)</Text>
+    </Snapshot>
+</SnapshotIndexes>

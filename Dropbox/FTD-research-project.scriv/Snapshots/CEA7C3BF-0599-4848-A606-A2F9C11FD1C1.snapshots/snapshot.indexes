@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="CEA7C3BF-0599-4848-A606-A2F9C11FD1C1">
+    <Snapshot Date="2021-01-10 17:18:04 -0300">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>I'm using Zotero with Better BibTex plugin as my reference manager, and have installed the zotpick applescript Application, which works fine.I compile my document to plain text.I've installed Pandoc and various filters (citeproc, fignos, eqnos etc), and have a simple Pandoc command that converts the plain text to PDF.I still have to get to grips with styles, but I've done quite a lot of webpage/css development so hope it is relatively straightforward.I have 2 things that I need to get working though: figures and equations. I'm a bit confused by the Scrivener/Pandoc images documentation. I've tried using 'Image linked from File', the image appears in the document but it doesn't appear in my PDF. How do I get it to appear in the PDF?For figures - I'm going to have a lot, this is a science PhD thesis, so the figures are the most important part. I'd like to have a link to an external file, so if I change them (they are produced using Python), the figure in the document is automatically updated. I also need to be able to reference them within the text, and have that reference update automatically if the order of figures changes (i.e. Fig 2 changes to Fig. 3). I can do this with LaTeX, can I do it in Scrivener? Also, can I edit the size of images using Markdown </Text>
+    </Snapshot>
+</SnapshotIndexes>

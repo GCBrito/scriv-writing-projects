@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="CEA5A9E7-E239-4353-8CDB-9B973783599A">
+    <Snapshot Date="2020-12-30 22:40:19 -0300">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Week 69
+Grip Strength JAXLA_GRS_001 (v.1.1)
+The grip strength test is used to measure the neuromuscular function as maximal muscle strength of f... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Open Field - centre start JAXLA_OFD_001 (v.1.1)
+The Open Field test is used to assess anxiety and exploratory behaviors. It is based on the natural ... Read More
+View SOPView ParametersView OntologiesView History
+Combined SHIRPA and Dysmorphology JAXLA_CSD_003 (v.3.9)
+SHIRPA and dysmorphology were originally always separate assessments.  However they have recently be... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.7)(v.1.11)
+Week 70
+Hole-board Exploration JAXLA_HBD_001 (v.1.1)
+To monitor the activity of mice in hole-board apparatus over a defined period of time in order to as... Read More
+View SOPView ParametersView OntologiesView History
+Light-Dark Test JAXLA_LDT_001 (v.1.2)
+To monitor the anxiety-related behavior of mice in a two-chambered light-dark arena over a defined p... Read More
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.1)
+Week 71
+Y-maze JAXLA_YMZ_001 (v.1.1)
+Y-maze assesses learning and memory; it can be used instead/in parallel of Fear Conditioning
+View SOPView ParametersView OntologiesView History
+Week 72
+Electrocardiogram (ECG) JAXLA_ECG_002 (v.2.6)
+To provide a high throughput method to obtain Electrocardiograms in a conscious mouse or an anesthet... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Week 73
+Intraperitoneal glucose tolerance test (IPGTT) JAXLA_IPG_001 (v.1.1)
+The glucose tolerance test measures the clearance of an intraperitoneally injected glucose load from... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Week 75
+X-ray JAXLA_XRY_001 (v.1.9)
+Construct and analyse digital X-ray images in immobilised mice using a Faxitron X-Ray system or NTB ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Body Composition (DEXA lean/fat) JAXLA_DXA_001 (v.1.8)
+Measure bone mineral content and density as well as body composition in mice using the DEXA (Dual En... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Week 76
+Eye Morphology JAXLA_EYE_002 (v.2.8)
+To detect abnormalities in eye morphology.
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Week 78
+Tissue Embedding and Block Banking JAXLA_BLK_001 (v.1.9)
+Collect and fix a standard list of tissues from the complete necropsy (see IMPC Gross Pathology &amp; Ti... Read More
+View SOPView ParametersView OntologiesView History
+Clinical Chemistry JAXLA_CBC_003 (v.3.9)
+Clinical chemistry determines biochemical parameters in plasma including enzymatic activity, specifi... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Gross Pathology and Tissue Collection JAXLA_PAT_002 (v.2.9)
+To perform a complete necropsy to detect and record abnormal external findings and macroscopic alter... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Hematology JAXLA_HEM_002 (v.2.9)
+Hematological assessment of blood determines blood cell counts (white blood cells, red blood cells, ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Heart Weight JAXLA_HWT_001 (v.1.9)
+To evaluate cardiac size using heart weight and body weight.
+ MandatoryView SOPView ParametersView OntologiesView History</Text>
+    </Snapshot>
+    <Snapshot Date="2021-01-10 17:18:11 -0300">
+        <Title>Pre-Sync External File Version</Title>
+        <Text>Week 69
+Grip Strength JAXLA_GRS_001 (v.1.1)
+The grip strength test is used to measure the neuromuscular function as maximal muscle strength of f... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Open Field - centre start JAXLA_OFD_001 (v.1.1)
+The Open Field test is used to assess anxiety and exploratory behaviors. It is based on the natural ... Read More
+View SOPView ParametersView OntologiesView History
+Combined SHIRPA and Dysmorphology JAXLA_CSD_003 (v.3.9)
+SHIRPA and dysmorphology were originally always separate assessments.  However they have recently be... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.2.7)(v.1.11)
+Week 70
+Hole-board Exploration JAXLA_HBD_001 (v.1.1)
+To monitor the activity of mice in hole-board apparatus over a defined period of time in order to as... Read More
+View SOPView ParametersView OntologiesView History
+Light-Dark Test JAXLA_LDT_001 (v.1.2)
+To monitor the anxiety-related behavior of mice in a two-chambered light-dark arena over a defined p... Read More
+View SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.1)
+Week 71
+Y-maze JAXLA_YMZ_001 (v.1.1)
+Y-maze assesses learning and memory; it can be used instead/in parallel of Fear Conditioning
+View SOPView ParametersView OntologiesView History
+Week 72
+Electrocardiogram (ECG) JAXLA_ECG_002 (v.2.6)
+To provide a high throughput method to obtain Electrocardiograms in a conscious mouse or an anesthet... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Week 73
+Intraperitoneal glucose tolerance test (IPGTT) JAXLA_IPG_001 (v.1.1)
+The glucose tolerance test measures the clearance of an intraperitoneally injected glucose load from... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Week 75
+X-ray JAXLA_XRY_001 (v.1.9)
+Construct and analyse digital X-ray images in immobilised mice using a Faxitron X-Ray system or NTB ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Body Composition (DEXA lean/fat) JAXLA_DXA_001 (v.1.8)
+Measure bone mineral content and density as well as body composition in mice using the DEXA (Dual En... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Week 76
+Eye Morphology JAXLA_EYE_002 (v.2.8)
+To detect abnormalities in eye morphology.
+ MandatoryView SOPView ParametersView OntologiesView History
+Previous Versions:(v.1.9)
+Week 78
+Tissue Embedding and Block Banking JAXLA_BLK_001 (v.1.9)
+Collect and fix a standard list of tissues from the complete necropsy (see IMPC Gross Pathology &amp; Ti... Read More
+View SOPView ParametersView OntologiesView History
+Clinical Chemistry JAXLA_CBC_003 (v.3.9)
+Clinical chemistry determines biochemical parameters in plasma including enzymatic activity, specifi... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Gross Pathology and Tissue Collection JAXLA_PAT_002 (v.2.9)
+To perform a complete necropsy to detect and record abnormal external findings and macroscopic alter... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Hematology JAXLA_HEM_002 (v.2.9)
+Hematological assessment of blood determines blood cell counts (white blood cells, red blood cells, ... Read More
+ MandatoryView SOPView ParametersView OntologiesView History
+Heart Weight JAXLA_HWT_001 (v.1.9)
+To evaluate cardiac size using heart weight and body weight.
+ MandatoryView SOPView ParametersView OntologiesView History</Text>
+    </Snapshot>
+</SnapshotIndexes>
