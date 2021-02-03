@@ -15,11 +15,22 @@ Why ftd in c9 patients end up developing semantic dementia?
 C9 HRE in microglia increases sting activity
 Early life stress increases stress response later in life
 Evidence for this mechanism
-much higher ftd for PTST patients (what else?)
-Elevated sting response in ftd patients</Text>
-			<Notes>Apresentar aos leitores o tema e os conceitos necessários para entenderem o projeto; Convencer que o projeto é relevante, que está bem planejado, que eu sou capaz de executar;
+	1.	much higher ftd for PTST patients (what else?) he 
+	2.	Elevated sting response in ftd patients. 
 
-• Check if the introduction has a funnel shape with clear sections on
+
+Always genotype the mice in your studies. Options: 
+•	Standard PCR: primers + Taq Polymerase + free nucleotides (dNTPs))
+•	Melt curve analysis: above + fluorescent dsDNA (evagreen) + thermocycler (rtPCR machine) 
+•	Quantitative PCR (qPCR) or real-time PCR (rtPCR):
+•	Probe/Endpoint analysis 
+
+qPCR:
+
+	￼￼
+</Text>
+			<Notes>Apresentar aos leitores o tema e os conceitos necessários para entenderem o projeto; Convencer que o projeto é relevante, que está bem planejado, que eu sou capaz de executar;
+ • Check if the introduction has a funnel shape with clear sections on
 	- general background (what is this all about?);
 	- what is known and what is unknown about this specific subject (why was this study needed, and why is it important?);
 	- primary research question (what did we want to know?); and 
@@ -28,6 +39,13 @@ Elevated sting response in ftd patients</Text>
 • Determine if the introduction is the start of the story line of your paper by looking at your outline (skeleton).
 • Ask yourself, “Will this introduction sell my paper to editors, reviewers, readers, and the media?”
 (Journal of Clinical Epidemiology 66 (2013) 702)</Notes>
+			<Comments>30/01/21 15:37
+Standard PCR and melt curve analysis are qualitative assays that are useful for distinguishing genotypes for targeted mutations, or showing the presence or absence of a transgene in transgenic mice. However, they are not quantitative, and are often incapable of distinguishing hemizygous transgenic mice from homozygotes. For that, you can do real-time PCR (rtPCR), otherwise known as quantitative PCR (qPCR).
+30/01/21 15:49
+In qPCR, the amount of fluorescence is measured at each cycle until it can be detected above background. This cycle is called the cycle threshold (CT). The difference between the reference and the mutant products is the “deltaCT” (dCT), which is quantified to determine the genotype of the product
+
+31/01/21 12:34
+Probe/Endpoint analysis protocols are able to genotype small targeted mutations that may not be detectable with other genotyping strategies and the data analysis is less time-consuming than for qPCR.</Comments>
 		</Document>
 		<Document ID="2C5635FA-8AE7-48B9-9855-55097D8DEF68">
 			<Title>Abstract</Title>
@@ -37,13 +55,11 @@ Palili
  vest
 
 Vuust</Text>
-Vist</Text>
 			<Notes>- introdução e base teórica
 - métodos
 - resultados esperados
 - palavras-chave
-
-• Construct abstract from keywords from all sections of the main text.
+ • Construct abstract from keywords from all sections of the main text.
 • Avoid abbreviations and passive voice.
 • Always state the objective and start the results section with the answer to the research question.
 • Give sample size if you report percentages.
