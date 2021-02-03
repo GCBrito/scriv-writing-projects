@@ -1,5 +1,0 @@
--caracterizar bem o quadro de FTD (ALS parece já estar melhor caract)
--avaliar a influência ambiental (estresse?) (quanto influencia o desenv da doença)
--avaliar se esse seria um bom modelo pra estudo de terapêutica pra FTD
--caracterizar bem esse modelo de forma ampla (fenotípica
--sistematizar o modelo para estudo de ftd com ou sem ALS
