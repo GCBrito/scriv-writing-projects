@@ -13,7 +13,7 @@
       "scrollPos" : "0"
     },
     "0A205AD9-3881-427D-A15E-EC15BB1EC848" : {
-      "scrollPos" : "0"
+      "scrollPos" : "1630"
     },
     "2C5635FA-8AE7-48B9-9855-55097D8DEF68" : {
       "scrollPos" : "0"
@@ -36,17 +36,17 @@
   "DraftNavigatorShowsTextTitles" : true,
   "ShowsLabelsInBinder" : true,
   "CompileOptions" : {
-    "TitlesUseMarkdownLevels" : false,
+    "PaperType" : 3,
     "FileFormat" : 0,
     "RemoveComments" : true,
     "RectoFooterText" : "<$p>",
     "HeaderText" : "",
+    "CurrentFolderOnly" : false,
     "RectoHeaderText" : "",
+    "FooterText" : "<$p>",
     "FirstPageIsTitle" : false,
     "ConvertToMarkdown" : false,
-    "FooterText" : "<$p>",
-    "PaperType" : 3,
-    "CurrentFolderOnly" : false
+    "TitlesUseMarkdownLevels" : false
   },
   "ShowsStatusInBinder" : true,
   "CardsShowStatusStamps" : false,

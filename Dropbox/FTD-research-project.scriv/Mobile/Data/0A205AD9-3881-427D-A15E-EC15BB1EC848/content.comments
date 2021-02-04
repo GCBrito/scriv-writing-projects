@@ -25,4 +25,12 @@ In qPCR, the amount of fluorescence is measured at each cycle until it can be de
 
 \f0\fs24 \cf0 31/01/21 12:34\
 Probe/Endpoint analysis protocols are able to genotype small targeted mutations that may not be detectable with other genotyping strategies and the data analysis is less time-consuming than for qPCR.}]]></Comment>
+	<Comment ID="7230FB7D-3CA7-417D-A4D4-7AC216F6FD83" Color="1.0 0.96 0.8" ><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2578
+\cocoatextscaling0\cocoaplatform1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 03/02/21 11:21\
+Hybridization is a basic property of nucleotide sequences and is taken advantage of in numerous molecular biology techniques. Overall, genetic relatedness of two species can be determined by hybridizing segments of their DNA (DNA-DNA hybridization). Due to sequence similarity between closely related organisms, higher temperatures are required to melt such DNA hybrids when compared to more distantly related organisms. A variety of different methods use hybridization to pinpoint the origin of a DNA sample, including the polymerase chain reaction (PCR). In another technique, short DNA sequences are hybridized to cellular mRNAs to identify expressed genes}]]></Comment>
 </Comments>

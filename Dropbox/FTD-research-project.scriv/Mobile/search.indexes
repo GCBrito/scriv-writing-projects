@@ -12,7 +12,9 @@
 -3 sobre os questionamentos</Synopsis>
 			<Text>&lt;$hn&gt;	Introduction
 Why ftd in c9 patients end up developing semantic dementia? 
+C9bac500 $463.46 for a breeder pair (hemizig + noncarrier)
 C9 HRE in microglia increases sting activity
+C9 poly PR end up activating p53 cascade (and Puma) which induces cell death. But what happens between poly PR and p53 is still unkow
 Early life stress increases stress response later in life
 Evidence for this mechanism
 	1.	much higher ftd for PTST patients (what else?) he 
@@ -28,6 +30,24 @@ Always genotype the mice in your studies. Options:
 qPCR:
 
 	￼￼
+
+Hybridisation: used in pcr and Gene expression analysis 
+
+Phenotyping (Rizzo et al. 2018).
+The spontaneous alteration test is used to assess spatial working memory and is one that can be performed in mice with reduced visual acuity
+An assay of sensory and fine motor ability is the adhesion removal test, which consists of putting a small adhesive sticker on the top of the mouse’s head and then tracking the time it takes for the mouse to remove the sticker.
+Recommended for aged mice:
+￼
+
+
+- Always validate assays/experiments/tests (cognitive or otherwise) with a control group
+For some assays, such as tests that assess cognitive function, scopolamine can be used for validation. Scopolamine can mimic the cognitive deficits seen in aged mice
+you may need to control for other variables as well, such as body weight — as mice age and their body weight become more variable. For tests such as grip strength, results should be normalized to body weight
+- consider statistical power (n required) to show a difference between groups in your assays/tests
+- have an Endpoint:
+An endpoint is the point for the mouse when the study is over — whether because you have collected the data that is necessary for your research, or because of the accumulation of health issues from aging means the mouse needs to be euthanized
+have a way of assessing the health of the mouse. Frailty and body conditioning assessments are a common method of general health assessment. Frailty is defined as “weakness, slowness, low activity, and poor endurance” (Toth 2018). There are multiple ways to assess frailty, but the most studied in mice is the clinical frailty index (CFI, Toth 2018, Rizzo 2018).
+across different strains, a decline in body weight and temperature can be predictive of death, even in the absence of indications of morbidity (Toth 2018).
 </Text>
 			<Notes>Apresentar aos leitores o tema e os conceitos necessários para entenderem o projeto; Convencer que o projeto é relevante, que está bem planejado, que eu sou capaz de executar;
  • Check if the introduction has a funnel shape with clear sections on
@@ -45,7 +65,9 @@ Standard PCR and melt curve analysis are qualitative assays that are useful for 
 In qPCR, the amount of fluorescence is measured at each cycle until it can be detected above background. This cycle is called the cycle threshold (CT). The difference between the reference and the mutant products is the “deltaCT” (dCT), which is quantified to determine the genotype of the product
 
 31/01/21 12:34
-Probe/Endpoint analysis protocols are able to genotype small targeted mutations that may not be detectable with other genotyping strategies and the data analysis is less time-consuming than for qPCR.</Comments>
+Probe/Endpoint analysis protocols are able to genotype small targeted mutations that may not be detectable with other genotyping strategies and the data analysis is less time-consuming than for qPCR.
+03/02/21 11:21
+Hybridization is a basic property of nucleotide sequences and is taken advantage of in numerous molecular biology techniques. Overall, genetic relatedness of two species can be determined by hybridizing segments of their DNA (DNA-DNA hybridization). Due to sequence similarity between closely related organisms, higher temperatures are required to melt such DNA hybrids when compared to more distantly related organisms. A variety of different methods use hybridization to pinpoint the origin of a DNA sample, including the polymerase chain reaction (PCR). In another technique, short DNA sequences are hybridized to cellular mRNAs to identify expressed genes</Comments>
 		</Document>
 		<Document ID="2C5635FA-8AE7-48B9-9855-55097D8DEF68">
 			<Title>Abstract</Title>
