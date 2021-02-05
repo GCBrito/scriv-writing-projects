@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Comments Version="1.0">
+    <Comment ID="479BA2A5-BFD8-4079-8D1C-B324102C35D3" Collapsed="No" Color="1.000000 0.960006 0.800000"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SourceSansPro-Regular;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs20\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx0\tx285\tx540\tx810\tx1080\tx1350\tx1620\tx2160\tx2700\tx3240\sa120\sb90\ql\ltrch\loch {\f0\fs20\b0\i0 30/01/21 15:49}
+\par\plain {\f0\fs20\b0\i0 In qPCR, the amount of fluorescence is measured at each cycle until it can be detected above background. This cycle is called the cycle threshold (CT). The difference between the reference and the mutant products is the \loch\af0\hich\af0\dbch\af0\uc1\u8220\'93deltaCT\u8221\'94 (dCT), which is quantified to determine the genotype of the product}
+\par\plain \f0\fs20\b0\i0}]]></Comment>
+    <Comment ID="D1E70138-C733-414A-8FF7-9B0FA3AEB0CC" Collapsed="No" Color="1.000000 0.960006 0.800000"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SourceSansPro-Regular;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs20\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx0\tx285\tx540\tx810\tx1080\tx1350\tx1620\tx2160\tx2700\tx3240\sa120\sb90\ql\ltrch\loch {\f0\fs20\b0\i0 30/01/21 15:37}
+\par\plain {\f0\fs20\b0\i0 Standard PCR and melt curve analysis are qualitative assays that are useful for distinguishing genotypes for targeted mutations, or showing the presence or absence of a transgene in transgenic mice. However, they are not quantitative, and are often incapable of distinguishing hemizygous transgenic mice from homozygotes. For that, you can do real-time PCR (rtPCR), otherwise known as quantitative PCR (qPCR).}}]]></Comment>
+    <Comment ID="DD6B933E-B637-4C85-A565-6A4FB4FBE2E8" Collapsed="No" Color="1.000000 0.960006 0.800000"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SourceSansPro-Regular;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs20\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx0\tx285\tx540\tx810\tx1080\tx1350\tx1620\tx2160\tx2700\tx3240\sa120\sb90\ql\ltrch\loch {\f0\fs20\b0\i0 03/02/21 11:21}
+\par\plain {\f0\fs20\b0\i0 Hybridization is a basic property of nucleotide sequences and is taken advantage of in numerous molecular biology techniques. Overall, genetic relatedness of two species can be determined by hybridizing segments of their DNA (DNA-DNA hybridization). Due to sequence similarity between closely related organisms, higher temperatures are required to melt such DNA hybrids when compared to more distantly related organisms. A variety of different methods use hybridization to pinpoint the origin of a DNA sample, including the polymerase chain reaction (PCR). In another technique, short DNA sequences are hybridized to cellular mRNAs to identify expressed genes}}]]></Comment>
+    <Comment ID="C69F7D0A-328E-4ED7-BBE5-C207827B3657" Collapsed="No" Color="1.000000 0.960006 0.800000"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SourceSansPro-Regular;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs20\cf0\pgnrestart\pgnstarts1
+\pard\plain \tx0\tx285\tx540\tx810\tx1080\tx1350\tx1620\tx2160\tx2700\tx3240\sa120\sb90\ql\ltrch\loch {\f0\fs20\b0\i0 31/01/21 12:34}
+\par\plain {\f0\fs20\b0\i0 Probe/Endpoint analysis protocols are able to genotype small targeted mutations that may not be detectable with other genotyping strategies and the data analysis is less time-consuming than for qPCR.}}]]></Comment>
+</Comments>

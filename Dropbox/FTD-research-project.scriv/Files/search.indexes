@@ -40,17 +40,18 @@ If the results of an experiment or observation can be defined into an enumerated
         </Document>
         <Document ID="04666B61-F7D8-4ED9-9437-CA6FB47F4767">
             <Title>Literature review</Title>
-            <Notes>The literature review or survey as a heading introducing the following sections, this outlines a very top-level overview of what literature is to come - no more than three lines or so describing the research that is to be addressed. 
+            <Notes>The literature review or survey:
 This section will need to state how we are breaking the literature up i.e. how the following discussion is grouped.</Notes>
         </Document>
         <Document ID="04A5C005-A90B-4B65-97A2-C318E3708A33">
             <Title>Modelo C9orf72</Title>
         </Document>
+        <Document ID="05364580-7C05-4424-8459-D810BF94A387"/>
         <Document ID="094883AD-DEB8-485D-BB30-C970B813C832">
             <Title>DFT</Title>
         </Document>
         <Document ID="0A205AD9-3881-427D-A15E-EC15BB1EC848">
-            <Title>Introduction</Title>
+            <Title>Introdução</Title>
             <Synopsis>- Apresentar a DFT clinicamente, as síndromes, patologia e falta de tto
 - Apresentar limitações dos modelos atuais experimentais
 
@@ -58,14 +59,20 @@ This section will need to state how we are breaking the literature up i.e. how t
 -3 artigos sobre o modelo
 -3 artigos sobre as proteínas básicas
 -3 sobre os questionamentos</Synopsis>
-            <Text>&lt;$hn&gt;	Introduction
-Why ftd in c9 patients end up developing semantic dementia? 
-C9 HRE in microglia increases sting activity
-Early life stress increases stress response later in life
-Evidence for this mechanism
-much higher ftd for PTST patients (what else?)
-Elevated sting response in ftd patients</Text>
-            <Notes>Apresentar aos leitores o tema e os conceitos necessários para entenderem o projeto; Convencer que o projeto é relevante, que está bem planejado, que eu sou capaz de executar;
+            <Text>As demências estão, hoje, entre as principais causas de incapacidade no mundo. Elas fazem parte das doenças neurodegenerativas e comprometem a capacidade do indivíduo de viver uma vida plena, o bem estar das famílias e impactam economicamente a sociedade, com perda de anos de vida produtivos e com custos de cuidados associados.* O grupo das demências frontotemporais (DFT) com ou sem doença do neurônio motor (DNM) é especialmente importante neste contexto. A DFT é a segunda causa mais frequente de demência precoce, com a maior parte dos casos ocorrendo entre os 45 e 65 anos de idade.*
+O diagnóstico das DFTs ocorre normalmente entre 4 e 6 anos após o início dos sintomas. Parte significativa dos pacientes recebe múltiplos diagnósticos - frequentemente psiquiátricos - até que sejam corretamente identificadas.* O tempo entre o início dos sintomas e a morte varia entre uma média de 2,5 anos para os pacientes com DNM concomitante e 12 anos para variantes de linguagem.
+Historicamente, os termos DFT e degeneração lobar frontotemporal (DLFT) foram usados de forma inconsistente. A primeira descrição de uma síndrome demencial frontotemporal foi feita por Arnold Pick em 1892.* Essa síndrome originou o termo doença de Pick, que se caracteriza por sintomas comportamentais e de linguagem, com atrofia dos lobos temporais, associado à presença de infiltrados citoplasmáticos - chamados corpos de Pick. Com a descrição de outras síndromes clínico-patológicas, o termo demência frontotemporal passou a se referir ao conjunto delas, que se caracterizam por sintomas comportamentais e cognitivos com piora progressiva e irreversíveis e pela atrofia de regiões cerebrais frontais e/ou temporais. O termo doença de Pick foi reservado somente às síndromes demenciais com a presença de patologia com os corpos de Pick. Com o avanço da caracterização molecular, genética, de neuroimagem e clínica dos pacientes, o termo DLFT passou a descrever os achados neuropatológicos subjacentes às síndromes.*</Text>
+            <Notes>• The introduction section (in some journals this section is called “background”) lays the foundation for the paper. 
+• Some authors write long, heavily referenced introductions, but most authors save the heavy detail and description of previous related research for the discussion section. 
+• The classic introduction is 2 or 3 paragraphs.
+(Respir Care 2004 (49) 10 1222-1228)
+• The first paragraph provides the background information, with a few seminal references. 
+• It’s not necessary to introduce every paper on the topic in the introduction. 
+• Mention the most important references and state the research problem. 
+(Respir Care 2004 (49) 10 1222-1228)
+
+• Use recent and most contributive references, preferably from the journal to which you are submitting your manuscript.
+Apresentar aos leitores o tema e os conceitos necessários para entenderem o projeto; Convencer que o projeto é relevante, que está bem planejado, que eu sou capaz de executar;
 • Check if the introduction has a funnel shape with clear sections on
 	- general background (what is this all about?);
 	- what is known and what is unknown about this specific subject (why was this study needed, and why is it important?);
@@ -75,6 +82,11 @@ Elevated sting response in ftd patients</Text>
 • Determine if the introduction is the start of the story line of your paper by looking at your outline (skeleton).
 • Ask yourself, “Will this introduction sell my paper to editors, reviewers, readers, and the media?”
 (Journal of Clinical Epidemiology 66 (2013) 702)</Notes>
+            <Comments>{ | Galvin, et al., 2017 | | |zu:7172713:E94IQLK7}{ | Nichols, et al., 2019 | | |zu:7172713:E7RRMS2R}
+{ | Moore, et al., 2020 | | |zu:7172713:82ESE9HP}
+{ | Ducharme, et al., 2020 | | |zu:7172713:KBPJPSKQ}
+{ | Pick, 1892 | | |zu:7172713:DX35HDIA}
+{ | Neary, et al., 1998 | | |zu:7172713:CB4SYTBX}</Comments>
         </Document>
         <Document ID="0CFAF3F7-7631-46B2-B10A-8FC23493FADD">
             <Title>Subjects</Title>
@@ -85,6 +97,8 @@ Elevated sting response in ftd patients</Text>
 - sintomas começam entre 20 e 30semanas 
 - sacrificar algo entre 80 dias e 160 dias cada leva
 - total = 120 animais</Synopsis>
+            <Text>Serão adquiridos 100 camundongos, sendo 50 machos e 50 fêmeas, do laboratório Jax (USA, columbia). Desses, 40 machos e 40 fêmeas devem ser da linhagem transgênica C9orf72 BAC C9-500. 
+Os animais serão recebidos com 30 dias de vida e mantidos em caixas padronizadas, com quatro animais dos mesmos sexo e grupo experimental, no vivário do CEMBE da PUCRS. Além disso serão mantidos em condições de iluminação com ciclos de 24 horas e com alimentação e hidratação *ad libidum*, salvo quando submetidos a condições experimentais. </Text>
             <Notes>• Indicate how patients were selected
 	- normal volunteers, patients, or animals
 	- all consecutive patients, convenience sample, …) 
@@ -98,8 +112,68 @@ Elevated sting response in ftd patients</Text>
         <Document ID="14C5B308-C150-44AF-89AF-74C2719C3D16">
             <Title>cultura iPS?</Title>
         </Document>
+        <Document ID="15CB8EAA-5727-4037-B1DA-5B690730B9A4">
+            <Title>Genética</Title>
+            <Text>Genética
+Cerca de 40% dos casos de DLFT ocorre em pacientes com história familiar de demências ou outras doenças neurodegenerativas e em 30% uma causa monogênica é identificada. O restante dos pacientes apresenta a DLFT esporádica. A identificação da proteína tau e do seu gene (MAPT), assim como da proteína progranulina (PGRN) e do seu gene (GRN) como causadoras das DFTs marcou o início de uma série de descobertas sobre as bases genéticas da neurodegeneração relacionadas às DLFTs. Mutações em 
+
+```
+C9orf72 como causa de 60% dos casos esporádicos 
+o avanço dos estudos de gwas e das causas das DLFTs
+```
+C9orf72 
+O *chromossome 9 open reading frame 72* (C9orf72) é um gene humano localizado no braço curto do cromossomo 9, na posição 21.2. As mutações no C9orf72 são responsáveis por cerca de 60% dos casos esporádicos e familiares de DLFT e de ALS 
+O cíngulo anterior dorsal e as insulas anteriores são muito afetadas pelo estresse e ativados muito na rejeição social. Eles também são muito afetados pela DFTs. Ver papel do C9orf72  no desencadeamento da neurodegeneração do cingulo e das insulas. As insulas normalmente ocorrem em quais ftds? linguagem? Ver regiões do córtex que são mais afetadas pra cada variante das DLFT. Associar com as regiões que mais sofrem ativação e inflamação nos casos de rejeição social e depressão (pela rejeição crônica). Associar níveis de IL-6, TNF-alfa e IL-1beta a essas variáveis. Como a perda de função do C9orf72 (com aumento das STING) nas células mieloides periféricas pode em última análise resultar em acúmulo de TDP-43 (principalmente tipo B, as vezes A). O aumento dos interferons resultante da atividade STING causa o que no cérebro (revisar) ? Quais as regiões afetadas nas DLFT-TDP ? </Text>
+        </Document>
         <Document ID="1AE34B27-D229-4DF4-AE78-392AA16B9701">
             <Title>Síndromes clínicas</Title>
+        </Document>
+        <Document ID="1B0B865A-9320-402F-AC7E-1A2F293DE8EF">
+            <Title>Table</Title>
+            <Notes>• Make a deliberate choice early in the writing process on which key findings to present in tables.
+• The title should reflect what is shown.
+• Ensure that tables are self-explanatory.
+• Do not repeat information from tables in the text but emphasise the important findings.
+• Design tables to make them clear and easy to read.
+• Start each table on a new page, after the reference list.
+(Journal of Clinical Epidemiology 66 (2013) 1197)
+• Tables are used to present complex data in a concise and organised manner.
+• Prepare the results and data of the study before drafting the tables.
+• The flow of the tables should tell a logical story.
+• Design, title and label the tables carefully so that they are easy to understand.
+WHEN TO PRESENT DATA IN TABLES:
+• Precise numerical data rather than proportions or trends.
+• Large numbers of related data.
+• Summarise information that will be clearer in a tabular form rather than in a running text.
+• Complex information that will be clearer in a table than in a text form or a graph.
+COMMON ERRORS:
+• Tables in the manuscript are not cited in the text.
+• Tabular data do not agree with the data given in the text.
+• Inaccurate arithmetic for columns (e.g. numbers do not add up).
+• Information in the text is duplicated in the tables.
+• Information in the tables is duplicated in graphs.
+(Singapore Med J. 2009;50(2):117-8; quiz 119.)</Notes>
+        </Document>
+        <Document ID="1BC2EF4E-EA01-4F9B-98B1-245BCDF9933B">
+            <Title>Genotyping</Title>
+            <Text>Always genotype the mice in your studies. Options: 
+•	Standard PCR: primers + Taq Polymerase + free nucleotides (dNTPs))
+•	Melt curve analysis: above + fluorescent dsDNA (evagreen) + thermocycler (rtPCR machine) 
+•	Quantitative PCR (qPCR) or real-time PCR (rtPCR):
+•	Probe/Endpoint analysis 
+
+Hybridisation: used in pcr and Gene expression analysis 
+#
+#</Text>
+            <Comments>30/01/21 15:37
+Standard PCR and melt curve analysis are qualitative assays that are useful for distinguishing genotypes for targeted mutations, or showing the presence or absence of a transgene in transgenic mice. However, they are not quantitative, and are often incapable of distinguishing hemizygous transgenic mice from homozygotes. For that, you can do real-time PCR (rtPCR), otherwise known as quantitative PCR (qPCR).
+30/01/21 15:49
+In qPCR, the amount of fluorescence is measured at each cycle until it can be detected above background. This cycle is called the cycle threshold (CT). The difference between the reference and the mutant products is the “deltaCT” (dCT), which is quantified to determine the genotype of the product
+
+31/01/21 12:34
+Probe/Endpoint analysis protocols are able to genotype small targeted mutations that may not be detectable with other genotyping strategies and the data analysis is less time-consuming than for qPCR.
+03/02/21 11:21
+Hybridization is a basic property of nucleotide sequences and is taken advantage of in numerous molecular biology techniques. Overall, genetic relatedness of two species can be determined by hybridizing segments of their DNA (DNA-DNA hybridization). Due to sequence similarity between closely related organisms, higher temperatures are required to melt such DNA hybrids when compared to more distantly related organisms. A variety of different methods use hybridization to pinpoint the origin of a DNA sample, including the polymerase chain reaction (PCR). In another technique, short DNA sequences are hybridized to cellular mRNAs to identify expressed genes</Comments>
         </Document>
         <Document ID="1C729109-48D8-4C5A-9A0E-060BD559011E">
             <Title>Progressão e ausência de tratamento</Title>
@@ -117,7 +191,14 @@ Elevated sting response in ftd patients</Text>
             <Title>Proteínas</Title>
         </Document>
         <Document ID="29D995D2-1DF1-408B-9F5B-EE880E6E8851">
-            <Title>Abbreviations</Title>
+            <Title>Abreviações</Title>
+            <Text>PSP
+CBS
+DFT
+DLFT
+ELA
+DMN
+</Text>
             <Notes>#</Notes>
         </Document>
         <Document ID="2ABADD8F-D41E-4D09-823B-3D3C5C520E23">
@@ -167,7 +248,7 @@ The sex of the specimens. When analyzed using the linear mixed model, males and 
 #</Text>
         </Document>
         <Document ID="2AD8581D-582E-4074-85B2-D41A47C1054E">
-            <Title>Budget</Title>
+            <Title>Orçamento Detalhado</Title>
             <Text>Budget
 This should be as detailed as possible but simple to understand. A simple table with line items should suffice. Any descriptions or justifications can be done below the table.
 
@@ -190,10 +271,8 @@ Total
             <Title>Expansão C9orf72</Title>
         </Document>
         <Document ID="2C5635FA-8AE7-48B9-9855-55097D8DEF68">
-            <Title>Abstract</Title>
-            <Text>Patatei
-Palola
-Palili
+            <Title>Resumo</Title>
+            <Text>A demência frontotemporal (DFT) e a esclerose lateral amiotrófica (ELA) fazem parte de um espectro de doenças neurodegenerativas graves que têm em comum uma alta influência genética e o achado neuropatológico de proteínas disfuncionais. A mutação de extensão do gene C9orf72 de repetição de hexanucleotídeos (GGGGCC) é a principal causa genética da DFT/ELA e está associada acúmulo da proteína TDP-43. O mecanismo que leva da disfunção do C9orf72 à neurodegeneração ainda não foi completamente elucidado, mas a elevação da transcrição de genes 
 </Text>
             <Notes>- introdução e base teórica
 - métodos
@@ -223,15 +302,26 @@ Approach: How will you address the problem?
 Results: What is the answer or expected answer?
 Conclusions: What are the implications?</Notes>
         </Document>
+        <Document ID="2D5027F8-876B-4B32-8678-D99B80E3DE1B">
+            <Title>Inflamação</Title>
+            <Text>Os efeitos do IFN-alfa de depressão neurovegetativos (principalmente) parecem estar relacionados com o dACC (que também está relacionado com a dor física). 
+A função do c9orf72 no sistema imune foi visto por doenças autoimunes em series de casos. O estresse crônico eleva estado inflamatório e está relacionado com depressão e incidência da ftd? As citocinas, as proteinopatias, o desencadeamento da doença. A epigenética modula esse papel autoimune/c9orf72 no estabelecimento da ftd? O papel da microglia na neurodegeneração e resposta com minociclina
+O c9orf72 em células mieloides degrada o STING (gene que estimula interferons-beta) e a sua perda de função resulta em elevação do STING e dos interferons - o que explica doenças autoimunes em pacientes ALS/DFT
+Neste trabalho, propomos avaliar as funções motora e cognitiva, a neurodegeneração, a presença de proteinopatias no cerebro e a inflamação. Além disso vamos avaliar o papel da </Text>
+        </Document>
         <Document ID="2EBD0010-3EF3-45BE-AD91-DAC9FC4B3555">
             <Title>Características clínicas</Title>
-            <Synopsis>bvFTD é principal, mas no modelo não foi caracterizado</Synopsis>
         </Document>
         <Document ID="34A246B6-0938-40F8-9E6D-D5E808CCC7B2">
             <Title>Requisitos e orientações</Title>
         </Document>
         <Document ID="34D109E6-C2FE-4A9A-A5FA-A24ADB6F880C">
             <Title>Delineamento experimental</Title>
+            <Text>Estudo pré-clínico longitudinal
+Implementação
+Os animais serão divididos em três grupos experimentais em números equivalentes de machos e fêmeas ([Figura 1][]). O primeiro com os 20 animais sem as modificações genéticas do modelo C9orf72 BAC e que não serão submetidos ao protocolo de estresse crônico (grupo controle, n=20) .  O segundo com 40 animais do modelo C9orf72 BAC que também não serão submetidos ao protocolo de estresse crônico (grupo C9orf72-ns, n=40). O terceiro grupo com os 40 animais restantes do modelo C9orf72 BAC que serão submetidos ao protocolo de estresse crônico (grupo C9orf72-s, n=40). 
+Os animais  Com REV: dias   
+Fazer imagem com delineamento do estudo</Text>
         </Document>
         <Document ID="355A71AF-B590-4AA7-B310-A3909F8CB39C">
             <Title>Formatting</Title>
@@ -307,12 +397,9 @@ teresasss
         </Document>
         <Document ID="37A0B306-621C-4878-87EB-55515B4C0052">
             <Title>Background information</Title>
-            <Synopsis>• The first paragraph provides the background information, with a few seminal references. 
-• It’s not necessary to introduce every paper on the topic in the introduction. 
-• Mention the most important references and state the research problem. 
-(Respir Care 2004 (49) 10 1222-1228)
-
-• Use recent and most contributive references, preferably from the journal to which you are submitting your manuscript.</Synopsis>
+        </Document>
+        <Document ID="38A1EEC1-3071-481C-9828-E44E8E8B4F36">
+            <Title>Figures</Title>
         </Document>
         <Document ID="38BD1C43-3FA6-4D04-AD50-7C5B5E620328">
             <Title>Genes notes</Title>
@@ -324,8 +411,8 @@ Begin &gt; end
 27546545 &gt; 27573866
 
 
-OMIM IDs for FTD/ALS
-105500 (FTD and/or ALS type 1) 
+OMIM IDs for DFT/ALS
+105500 (DFT and/or ALS type 1) 
 117300
 164700
 167320
@@ -1031,36 +1118,27 @@ a mosaic where one component is a female XO and the other a male component carry
         </Document>
         <Document ID="3C2CCA5A-6E40-4D19-A7C7-CAF941F3E126">
             <Title>Epidemiologia</Title>
-            <Synopsis>Descrever dados quantiativos epidemiológicos, socioeconômicos e financeiros</Synopsis>
+            <Synopsis>Descrever dados quantitativos epidemiológicos, socioeconômicos e financeiros</Synopsis>
         </Document>
         <Document ID="48045D76-5F93-4DAD-B4D6-EF4625BF1576">
             <Title>References</Title>
-            <Notes>• Use reference management software at all times.
-• Find the requested output style in the author instructions of the target journal and adhere to it at 100%.
-• Always cite the original source behind a statement.
-• Read the actual reference, do not cite as reference a paper citing another paper, obtain, read and cite the original work (you will be surprised by the number of errors in reference and interpretation of the original work)
-• Use your own words to describe facts derived from references, never copy and paste sentences (=plagiarism).
-• If you need to choose among several references, select one by
-considering the level of evidence, open-access, year of publication,
-and published in the target journal.
-• Meticulously check the final reference list for errors.
-(Journal of Clinical Epidemiology 66 (2013) 1198)	
-Note that if you are using another program for references, (which you should!), such as Bookends, Sente or EndNote, you will need to cut and paste the generated references into this part of the document.  
-
-Consiste em uma lista ordenada com os materiais utilizados para a confecção do projeto. A referência permite a correta identificação de um documento, no todo ou em parte, não importando em que suporte esteja (livro, artigo de periódico, fita cassete, slide, CD-ROM, fotografia, entrevista gravada etc.).É um elemento obrigatório e deve conter:
-» Título (REFERÊNCIAS)» Relação das referências utilizadas no projeto
-» Para elaborar as referências consulte o Modelo de Referências Elaborado pela Biblioteca Central Irmão José Otão, de acesso exclusivo para alunos, professores, pesquisadores e funcionários da PUCRS, disponível no endereço eletrônico:biblioteca.pucrs.br/?p=255 ou consulte a ABNT NBR 6023: Referências - Elaboração, disponível na Referência na Biblioteca Central.
-IMPORTANTE:» Todos os materiais que forem mencionados no texto do projeto devem obrigatoriamente, serem incluídos na lista de referências.» Após a consulta de qualquer tipo de documento, anote os seus dados para não ter trabalho em coletá-los posteriormente na compilação das referências.» Quando consultar periódicos, não esqueça de anotar o local de publicação, volume ou ano e número ou fascículo.» Na consulta de documentos na Internet, não esqueça de anotar o endereço eletrônico (URL),  data de acesso (dia, mês, ano) e opcionalmente o horário do acesso.» Para documentos impressos, retire as informações, preferencialmente, da folha de rosto dos documentos.» As referências devem ser separadas entre si por um espaço simples.</Notes>
+        </Document>
+        <Document ID="49946EB3-0E7B-4C1C-AFFB-D6AC461E9028">
+            <Title>Abstract</Title>
+        </Document>
+        <Document ID="4BDDF4BF-CADB-412D-809A-4655B21F26A4">
+            <Title>Project - text draft</Title>
         </Document>
         <Document ID="4E154604-AAC3-4340-BE23-B553B14E4CE1">
             <Title>Frontiers in Neurology</Title>
         </Document>
         <Document ID="4ECBF3BE-29D4-4942-BEF1-7EC8CD75575C">
             <Title>Standard (Journal publication)</Title>
-            <Synopsis>• The introduction section (in some journals this section is called “background”) lays the foundation for the paper. 
-• Some authors write long, heavily referenced introductions, but most authors save the heavy detail and description of previous related research for the discussion section. 
-• The classic introduction is 2 or 3 paragraphs.
-(Respir Care 2004 (49) 10 1222-1228)</Synopsis>
+        </Document>
+        <Document ID="4EEA2B20-A7CE-4C6E-ADF6-31EC967A732C">
+            <Title>Palavras-chave</Title>
+            <Text>Demência frontotemporal; Degeneração lobar frontotemporal; C9orf72; Esclerose lateral amiotrófica; Inflamação
+</Text>
         </Document>
         <Document ID="5216AF37-6182-4B0C-A181-63E34A4B7589">
             <Title>To do</Title>
@@ -1068,14 +1146,30 @@ IMPORTANTE:» Todos os materiais que forem mencionados no texto do projeto deve
 Decide article type
 The specialty sections of Frontiers in Neurology welcome submission of the following article types: Brief Research Report, Case Report, Clinical Trial, Correction, Editorial, Hypothesis and Theory, Methods, Mini Review, Opinion, Original Research, Perspective, Review, Study Protocol, Systematic Review, Classification, Policy and Practice Reviews, Specialty Grand Challenge, Technology and Code, Community Case Study, Data Report and Erratum.
 When submitting a manuscript to Frontiers in Neurology, authors must submit the material directly to one of the specialty sections. Manuscripts are peer-reviewed by the Associate and Review Editors of the respective specialty section.
+To publish in frontiers in neurology: you need a translational perspective if working with animal models
+“Reviewing abstracts for quality and relevance to the Topic”
+Review:
+350 words
+#
+15 fig + tables
+12'000 words
+#
+#
+#
+2.3.1.10. Abstract
+GUIDELINES (MAX. LIMITS)
+Abstract length: 1000 words
+As a primary goal, the abstract should render the general significance and conceptual advance of the work clearly accessible to a broad readership. In the abstract, minimize the use of abbreviations and do not cite references. The text of the abstract section should be in 12 point normal Times New Roman. See Summary Table for abstract requirement and length according to article type.
+For Clinical Trial article types, please include the Unique Identifier and the URL of the publicly accessible website on which the trial is registered. “Experimental models of Frontotemporal Dementia-ALS spectrum disorder: a translational approach” 
+Experimental design for preclinical translational research should include consideration of the genetic backgrounds, diets, bioburden, and other environmental impacts on the selected model, and early implementation of pathology to optimize specimens for analysis, and the contributions of pathology to research success.
+
+
+
 
 </Text>
         </Document>
         <Document ID="524FDC7D-159D-444C-A4FF-778C60495F84">
             <Title>Fisiopatologia</Title>
-            <Synopsis>Quais neurônios morrem?
-Qual o itinerário da progressão?
-</Synopsis>
         </Document>
         <Document ID="52F134BC-B1DD-4C88-B32E-77CD2A62BFE9">
             <Title>Fatores de risco</Title>
@@ -1187,8 +1281,11 @@ Turabian (2003) notes that sometimes you might want prefer to keep your claim un
 It is really important to identify the work’s contribution to practice and theory when you do this.  </Synopsis>
             <Text>[Lorem ipsum]</Text>
         </Document>
+        <Document ID="601E06FC-AA9C-4E35-A591-D0EE81330B84">
+            <Title>Assets</Title>
+        </Document>
         <Document ID="6026B179-8386-47D9-AA0F-5438271BF90C">
-            <Title>Title page</Title>
+            <Title>Título</Title>
             <Text>GUILHERME CAMARGO BRITO
 
 
@@ -1196,11 +1293,11 @@ It is really important to identify the work’s contribution to practice and the
 
 
 
- Avaliação da inflamação relacionada ao estresse na manifestação da demência frontotemporal e esclerose lateral amiotrófica associadas ao gene c9orf72 
+ Avaliação da inflamação relacionada ao estresse na manifestação da demência frontotemporal e esclerose lateral amiotrófica associadas ao gene C9orf72 
 
 
 
-Projeto de pesquisa científica, apresentado ao Programa de Pós-Graduação em Medicina e Ciências da Saúde da Pontifícia Universidade Católica do Rio Grande do Sul, como requisito para qualificação de título de Doutor no Programa de Pós-Graduação strictu sensu: Doutorado.
+Projeto de pesquisa científica, apresentado ao Programa de Pós-Graduação em Medicina e Ciências da Saúde da Pontifícia Universidade Católica do Rio Grande do Sul, como requisito para qualificação de título de Doutor no Programa de Pós-Graduação stricto sensu: Doutorado.
 
 
 
@@ -1602,7 +1699,7 @@ An overview of what this study is all about i.e. 'this study investigates xxxxx.
             <Title>Caracterização cognitiva</Title>
         </Document>
         <Document ID="76284D75-BDD1-4340-B315-668AAD4B9F31">
-            <Title>Cover</Title>
+            <Title>Capa</Title>
             <Synopsis>￼￼</Synopsis>
             <Text>PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL
 ESCOLA DE MEDICINA
@@ -1647,9 +1744,77 @@ This section addresses the ‘so what’ question.  What larger issue will reade
         </Document>
         <Document ID="77F0C309-165E-4DA7-B005-03EC3B0874B7">
             <Title>Modelos experimentais</Title>
-            <Synopsis>Estado da arte dos modelos de FTD
+            <Synopsis>Estado da arte dos modelos de DFT
 Modelo de ALS já foi explorado
 </Synopsis>
+            <Notes>
+Standard considerations for proof of concept and preclinical studies
+1
+Genetic background
+Clearly stated, including breeding protocol and source of animals and gender. Gender should be specified for each experimental group
+2
+Potential sources of variability
+Understood and addressed (e.g. gender, litter, copy number)
+3
+Numbers per group
+Justified (power analysis, dependent on measure)
+4
+Select key read-outs from phenotype
+Select key read-outs from an overt phenotype being predictive for disease and corresponding treatment
+5
+Proof of mechanism/exposure
+Evidence that the target has been modulated or target tissue concentrations are adequate, ideally as a first step and in the disease model
+6
+Experimental design
+ 
+(a)
+Blinding
+Placebo or drug treatment should be blinded to observer
+(b)
+Onset of clinical signs
+Include measure of onset, well validated, robust, reproducible e.g. weight loss, behavioural signs
+(c)
+Disease progression
+Quantitative measure of disease progression (weight loss, grip strength, wire hanging, gait analysis, neurological scoring)
+(d)
+Survival
+For survival studies in G93A animals (high copy), each group should consist of a minimum of 12 animals of a single gender, unless justified by power analysis
+(d)
+Histology
+Mandatory for positive outcomes. Should include motor neuron counts in gender specific groups of n = 5–6 minimum. Methods of analysis clearly described
+(e)
+Statistical analysis
+Justified for each type of analysis. If potential confounding variables not controlled for in experimental design then appropriate statistical tests used (e.g. Cox proportional hazards regression)
+7
+External validity of data
+Control group data should be compared to published data using the same background strain. Consider inter-laboratory comparison
+8
+Claims about therapeutic value
+Must not be made in proof of concept studies
+ 
+ 
+ 
+Additional considerations for preclinical studies
+9
+Replication of effect
+In an independent laboratory or in a different mammalian model (e.g. different strain, different mutation)
+10
+Post-symptomatic efficacy
+Highly recommended (effect on disease progression or survival)
+11
+Efficacy linked to exposure or biomarker of drug action
+Facilitates translation to the clinic
+(a)
+Biomarker of drug action
+Highly recommended. Link efficacy with biomarker of drug action, which has the potential to be replicated in the clinic.
+(b)
+Exposure
+Highly recommended. Link efficacy to concentration of agent achieved in the target tissue and plasma (plasma concentration easily measured in the clinic)
+12
+Additional outcome measures
+More specialized tests of disease progression would strengthen pre-clinical studies (e.g. MRI, physiology, comprehensive histopathology, gene profiling, proteomics)
+
+</Notes>
         </Document>
         <Document ID="78D53BDD-2C7A-4165-B3ED-FB2D3512B541">
             <Title>Tables</Title>
@@ -1733,7 +1898,7 @@ Declaração O projeto ou protocolo deve incluir declaração assinada pelo(s) 
 </Text>
         </Document>
         <Document ID="7A383203-455E-4D35-ADC1-8FF5A2B2297F">
-            <Title>Genética</Title>
+            <Title>Familiar</Title>
             <Synopsis>Expansão não-codificante do GGGGCC (hexanucleotideo) no gene C9orf72 = princ causa de family ftd e als </Synopsis>
             <Text>Variantes relevantes
 MAPT
@@ -1749,6 +1914,10 @@ FUS (chr 16 in human)</Text>
         </Document>
         <Document ID="7BBAFE67-E15C-4E86-B941-E25F98937A69">
             <Title>Objetivos específicos</Title>
+            <Text>- Estabelecer a linhagem de camundongos C9-500 BAC como modelo de estudo das DFTs 
+- Avaliar o desempenho cognitivo dos animais nos testes de reconhecimento de objeto, de campo aberto e no elevated plus maze. 
+- Avaliar sintomas depressivos pelo teste de preferência da sacarose. 
+- Medir IL-6, IL-1B, TNF-a (e outros via multiplex)</Text>
         </Document>
         <Document ID="7E0CAAFE-EC28-46A4-9A76-A921D027DABA">
             <Title>Research resources</Title>
@@ -2416,6 +2585,7 @@ Ausência de modelos adequados
 Dificuldade em estudo em humanos
 
 Citar doenças que tiveram grande avanços pelo uso de modelos animais semelhantes</Synopsis>
+            <Text>A demência frontotemporal não dispõe de tratamento que modifique o curso da doença, não possui intervenções de prevenção efeitivas e não tem seus fatores de risco e seus mecanismos fisiopatológicos esclarecidos. O estabelecimento de modelos experimentais adequados é um passo necessário para abordagem desses componentes das DFTs. O modelo de camundongos C9orf72 BAC é um avanço técnico recente e simula aspectos clínicos e patológicos da doença. Dessa forma, a sua avaliação fenotípica de forma sistemática estabelecerá um contexto para o desenvolvimento de intervenções farmacológicas, diagnósticas e preventivas com um enfoque translacional. </Text>
             <Notes>Importance of the Project
 The importance of the research including what makes your research unique and/or the specific contribution you seek to make.
 
@@ -2445,9 +2615,26 @@ Conversely, some journals state that information parenthetically at first mentio
 In this context then it’s an extension of the minimalistic literature review.  We are only identifying key concepts here though.</Synopsis>
             <Text>[Lorem ipsum]</Text>
         </Document>
+        <Document ID="97B588EA-39A5-46BE-AF2F-BBE6DF0D4356">
+            <Title>Síndromes Clínicas</Title>
+            <Synopsis>bvDFT é principal, mas no modelo não foi caracterizado</Synopsis>
+            <Text>Atualmente a DFT é dividida clinicamente em três subtipos: a variante comportamental da demência frontotemporal (DFTvc); as variantes semântica (APPvs) e não-fluente/agramatical da afasia progressiva primária (APPnf);* As três formas podem ainda apresentar concomitantemente a doença do neurônio motor (DNM) — também chamada esclerose lateral amiotrófica (ELA) — ou duas síndromes de parkinsonismo atípico: a síndrome corticobasal (CBS) e a síndrome de paralisia supranuclear progressiva (PSPS).*
+A sobreposição de características clínicas, neuropatológicas e genéticas entre a ELA e a DFT sugere que essas patologias sejam dois polos de um mesmo espectro. Recentemente o termo transtorno do espectro da ELA/DFT (do inglês, ALS/FTD spectrum disorder) passou a ser usado para se referir à essa entidade, com as manifestações isoladas da DFT em um polo e as da ELA em outro.* Na ELA, pelo menos metade dos pacientes desenvolvem disfunções cognitivas ou comportamentais.* Na DFT até 15% desenvolvem a ELA propriamente dita, mas cerca da metade apresenta pelo menos algum grau de comprometimento motor.*
+Inicialmente na DFT, os sintomas costumam apresentam-se limitados ao subtipo que define a síndrome do paciente. Com o tempo, a sintomatologia e a neurodegeneração tendem a convergir para um quadro de disfunção cognitiva generalizada e a morte ocorre indiretamente, por causas secundárias, com exceção dos quadros acompanhados da DNM.  
+A DFTvc apresenta predomínio de sintomas comportamentais, como desinibição, apatia, irritabilidade, impulsividade, hiperoralidade, déficits executivos focais, perda de empatia e estereotipias. A perda de habilidade de cognição social, como a teoria da mente e processamento emocional, causam grande prejuízo com a progressão da doença. 
+A APPvs e a APPnf têm predomínio de déficits de linguagem. A testagem diagnóstica revela dificuldades incluindo de compreensão de sintaxe complexa ou de palavras isoladas, de repetição, discurso apráxico  ou agramatismo, que frequentemente são confundidos com a doença de Alzheimer (DA).</Text>
+            <Comments>{ | Gorno-Tempini, et al., 2011 | | |zu:7172713:2VG2MCVQ}{ | Rascovsky, et al., 2011 | | |zu:7172713:D4LN4NUS}
+{ | Devenney, et al., 2015 | | |zu:7172713:SM8FBX5U}{ | Espay, &amp; Litvan, 2011 | | |zu:7172713:WKSYYBHW}
+{ | Devenney, et al., 2015 | | |zu:7172713:SM8FBX5U}{ | Strong, et al., 2017 | | |zu:7172713:H22RIPXH}{ | Strong, et al., 2003 | | |zu:7172713:82VZ87SG}{ | Lomen-Hoerth, et al., 2002 | | |zu:7172713:2W4WX9FG}
+{ | Strong, et al., 2009 | | |zu:7172713:XUSPKXK9}
+{ | Lomen-Hoerth, et al., 2002 | | |zu:7172713:2W4WX9FG}{ | Burrell, et al., 2011 | | |zu:7172713:CLZIVSLG}</Comments>
+        </Document>
         <Document ID="97FD11D4-C78A-47AF-9843-481D8396DF99">
             <Title>DFT-ALS spectrum</Title>
-            <Synopsis>Explicar como a FTD se encaixa no contexto das demências. Falar sobre as doenças neurodegenerativas, com ênfase nas proteinopatias. </Synopsis>
+            <Synopsis>Explicar como a DFT se encaixa no contexto das demências. Falar sobre as doenças neurodegenerativas, com ênfase nas proteinopatias. </Synopsis>
+        </Document>
+        <Document ID="9A1637F7-FCD3-4805-AA89-8541B61AA305">
+            <Title>assets</Title>
         </Document>
         <Document ID="9D2CFD12-2EAD-4C50-A240-9166B49674F9">
             <Title>Manuscript formatting</Title>
@@ -2740,26 +2927,39 @@ Insert your specific and answerable research questions here. Bullet points are O
         </Document>
         <Document ID="A947FA0F-6FA9-44C7-996E-1FBE6E1F3784">
             <Title>My notes</Title>
-            <Text>To publish in frontiers in neurology: you need a translational perspective if working with animal models
-“Reviewing abstracts for quality and relevance to the Topic”
-Review:
-350 words
-#
-15 fig + tables
-12'000 words
-#
-#
-#
-2.3.1.10. Abstract
-GUIDELINES (MAX. LIMITS)
-Abstract length: 1000 words
-As a primary goal, the abstract should render the general significance and conceptual advance of the work clearly accessible to a broad readership. In the abstract, minimize the use of abbreviations and do not cite references. The text of the abstract section should be in 12 point normal Times New Roman. See Summary Table for abstract requirement and length according to article type.
-For Clinical Trial article types, please include the Unique Identifier and the URL of the publicly accessible website on which the trial is registered. “Experimental models of Frontotemporal Dementia-ALS spectrum disorder: a translational approach” 
-Experimental design for preclinical translational research should include consideration of the genetic backgrounds, diets, bioburden, and other environmental impacts on the selected model, and early implementation of pathology to optimize specimens for analysis, and the contributions of pathology to research success.
-Mice phenotypes databases:
-- Mouse Phenome Database based at the Jackson Laboratory
-- IMPC International Mouse Phenotyping Consortium
-- The Mammalian Phenotype Ontology
+            <Text>&lt;$hn&gt;	Introduction
+Why ftd in c9 patients end up developing semantic dementia? 
+C9bac500 $463.46 for a breeder pair (hemizig + noncarrier)
+C9 HRE in microglia increases sting activity
+C9 poly PR end up activating p53 cascade (and Puma) which induces cell death. But what happens between poly PR and p53 is still unkow
+Early life stress increases stress response later in life
+Evidence for this mechanism
+much higher ftd for PTST patients (what else?) he 
+Elevated sting response in ftd patients. 
+
+O estresse crônico modula il6, il1b e tnf-a, que funcionam principalmente virando a chave do sistema imune: redução das defesas virais, contra neoplasias.
+A cronificação da transdução social de sinais inflamatórios, reduz defesas virais (=menos IFN e genes ativadores).
+Isso é o oposto da perda de C9ORF72. Talvez o C9ORF72 seja necessário pra esse shift da cronificação. Talvez bloqueio da sua função impeça o efeito do estresse crônico.
+60 ratos c9-500 com 16s inicia nas fêmeas e entre 20s e 40s em 50% do resto. 10 fêmeas agudas, 5 crônicas, 15 machos crônicos.
+Grupo de 30 com 15 machos e 15 fêmeas vai ser submetido ao protocolo de estresse crônico em dois momentos (jovens e pré doença)
+Medir mRNA de il6, tnf-a (contraprova) e il1b, além dos sting/IFN e NF-kB.
+Medir acúmulo de tdp-43, astroglia, microglia (glicose),
+ Em córtex, e Medula, estresse oxidativo, 
+rotarod
+ Pref sacarose, reconhecimento de objetos, campo aberto 
+####  Como eu posso melhorar o projeto ainda? 
+Melhorar a avaliação motora. 
+Early life stress leva a aumento da suscetibilidade a 
+
+- Always validate assays/experiments/tests (cognitive or otherwise) with a control group
+For some assays, such as tests that assess cognitive function, scopolamine can be used for validation. Scopolamine can mimic the cognitive deficits seen in aged mice
+you may need to control for other variables as well, such as body weight — as mice age and their body weight become more variable. For tests such as grip strength, results should be normalized to body weight
+- consider statistical power (n required) to show a difference between groups in your assays/tests
+- have an Endpoint:
+An endpoint is the point for the mouse when the study is over — whether because you have collected the data that is necessary for your research, or because of the accumulation of health issues from aging means the mouse needs to be euthanized
+have a way of assessing the health of the mouse. Frailty and body conditioning assessments are a common method of general health assessment. Frailty is defined as “weakness, slowness, low activity, and poor endurance” (Toth 2018). There are multiple ways to assess frailty, but the most studied in mice is the clinical frailty index (CFI, Toth 2018, Rizzo 2018).
+across different strains, a decline in body weight and temperature can be predictive of death, even in the absence of indications of morbidity (Toth 2018).
+
 Phenotyping strategies: in vivo evaluations, imaging strategies, molecular evaluations (microarray, proteomics, metabolomics etc), and clinical and anatomic pathology.
 Motor: rotarod, swim test, tail hang (graps limbs), 
 Phenotyping variables:
@@ -2841,7 +3041,7 @@ J - Pipeline &quot;Immune function&quot;
 #
 (1) Flow cytometric analysis of peripheral blood and lymphiod organs; Immunoglobulin isotyping and autoantibody detection
 (2) Primary resistance to Listeria monocytogenes infection(3) Antigen-specific T-cell response(4) Protective capacity of memory T-cells against high-dose challenge with Listeria monocytogenes
-The protein encoded by this gene plays an important role in the regulation of endosomal trafficking, and has been shown to interact with Rab proteins that are involved in autophagy and endocytic transport. Expansion of a GGGGCC repeat from 2-22 copies to 700-1600 copies in the intronic sequence between alternate 5' exons in transcripts from this gene is associated with 9p-linked ALS (amyotrophic lateral sclerosis) and FTD (frontotemporal dementia) (PMID: 21944778, 21944779). Studies suggest that hexanucleotide expansions could result in the selective stabilization of repeat-containing pre-mRNA, and the accumulation of insoluble dipeptide repeat protein aggregates that could be pathogenic in FTD-ALS patients (PMID: 23393093). Alternative splicing results in multiple transcript variants encoding different isoforms. 
+The protein encoded by this gene plays an important role in the regulation of endosomal trafficking, and has been shown to interact with Rab proteins that are involved in autophagy and endocytic transport. Expansion of a GGGGCC repeat from 2-22 copies to 700-1600 copies in the intronic sequence between alternate 5' exons in transcripts from this gene is associated with 9p-linked ALS (amyotrophic lateral sclerosis) and DFT (frontotemporal dementia) (PMID: 21944778, 21944779). Studies suggest that hexanucleotide expansions could result in the selective stabilization of repeat-containing pre-mRNA, and the accumulation of insoluble dipeptide repeat protein aggregates that could be pathogenic in DFT-ALS patients (PMID: 23393093). Alternative splicing results in multiple transcript variants encoding different isoforms. 
 TING tips the balance in favor of apoptosis when mitochondrial stress is present 
 
 The standard mice: c57BL/6J
@@ -2883,26 +3083,79 @@ All mice were housed in pathogen-free facilities under 12-h light–dark cycles 
         </Document>
         <Document ID="A9701855-69F3-4C58-8C3D-B754AA230E4A">
             <Title>Phenotyping </Title>
+            <Text>Phenotyping (Rizzo et al. 2018).
+The spontaneous alteration test is used to assess spatial working memory and is one that can be performed in mice with reduced visual acuity
+An assay of sensory and fine motor ability is the adhesion removal test, which consists of putting a small adhesive sticker on the top of the mouse’s head and then tracking the time it takes for the mouse to remove the sticker.
+Recommended for aged mice:
+#</Text>
         </Document>
         <Document ID="AA122E5A-26EC-440F-A9A3-D40D9A8E5E94">
             <Title>Table and figures legends</Title>
+            <Text>scriv_FTLD-pathology-genetics-clinical-integration
+{ | Greaves, &amp; Rohrer, 2019 | | |zu:7172713:ES22VS97}
+The landscape of the frontotemporal dementia spectrum disorders. About 70% is sporadic with approximately equal numbers of TDP-43 proteinopathies and tauopathies (including corticoba- sal degeneration, CBD progressive supranuclear palsy, PSP Pick’s disease, GGT globular glial tauopathy), and a smaller number of FUSopathies (including atypical frontotemporal lobar degeneration with ubiquitin inclusions, aFTLDU). About 30% is genetic with TDP- 43 proteinopathies being the commonest cause (mutations in C9orf72 (usually TDP-43 types A or B), GRN (type A), TBK1 (types A or B), VCP (type D), SQSTM1, and TARDBP) then tauopathies (mutations in MAPT), FUSopathies (mu other proteinopa- thies (mutations in CHMP2B)
+</Text>
             <Notes>List here the legends for your tables and figures, formatted according to your target journal instructions.</Notes>
         </Document>
         <Document ID="ABDB709A-490E-4488-A536-C51AE0049733">
-            <Title>FTD topic - old</Title>
-            <Text>The discovery that repeat expansions in C9orf72 gene has led to many exciting discoveries in the past few years. This expansion causes amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) and is responsible for the majority of ALS and FTD cases of European ancestry. Three, not mutually exclusive pathological mechanisms have been proposed: i) Formation of RNA foci sequestering specific RNA-binding proteins and impairing their normal function; ii) Repeat-associated non-AUG-initiated (RAN) translation of RNA repeats into toxic dipeptide repeat proteins (DPRs) and iii) haploinsufficiency resulting in reduced levels of the C9orf72 protein contributing to pathogenesis.The pathological mechanisms of C9orf72-linked disease are a very active and timely research field and many original papers and reviews are regularly published on this subject. Therefore, the goal of this Research Topic is to address the most recent progress in unraveling molecular mechanisms of C9orf72 neurodegeneration. Furthermore, this Research Topic will highlight advances in developing translational approaches for C9orf72 disease.We will seek original research articles, reviews, and mini-reviews on the most recent aspects of the pathogenesis of C9orf72-linked disease.• RNA toxicity• Protein aggregates• Homeostasis and autophagy• Protein transport defects• Synaptopathy• Role of glia in C9orf72 neurodegeneration• Novel animal models to model C9orf72• Therapeutic approaches for C9orf72• C9orf72 neurodegeneration
-Keywords: C9orf72, RNA toxicity, dipeptide-repeat, G4C2 expansion, ALS, FTD
+            <Title>DFT topic - old</Title>
+            <Text>The discovery that repeat expansions in C9orf72 gene has led to many exciting discoveries in the past few years. This expansion causes amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (DFT) and is responsible for the majority of ALS and DFT cases of European ancestry. Three, not mutually exclusive pathological mechanisms have been proposed: i) Formation of RNA foci sequestering specific RNA-binding proteins and impairing their normal function; ii) Repeat-associated non-AUG-initiated (RAN) translation of RNA repeats into toxic dipeptide repeat proteins (DPRs) and iii) haploinsufficiency resulting in reduced levels of the C9orf72 protein contributing to pathogenesis.The pathological mechanisms of C9orf72-linked disease are a very active and timely research field and many original papers and reviews are regularly published on this subject. Therefore, the goal of this Research Topic is to address the most recent progress in unraveling molecular mechanisms of C9orf72 neurodegeneration. Furthermore, this Research Topic will highlight advances in developing translational approaches for C9orf72 disease.We will seek original research articles, reviews, and mini-reviews on the most recent aspects of the pathogenesis of C9orf72-linked disease.• RNA toxicity• Protein aggregates• Homeostasis and autophagy• Protein transport defects• Synaptopathy• Role of glia in C9orf72 neurodegeneration• Novel animal models to model C9orf72• Therapeutic approaches for C9orf72• C9orf72 neurodegeneration
+Keywords: C9orf72, RNA toxicity, dipeptide-repeat, G4C2 expansion, ALS, DFT
 Important Note: All contributions to this Research Topic must be within the scope of the section and journal to which they are submitted, as defined in their mission statements. Frontiers reserves the right to guide an out-of-scope manuscript to a more suitable section or journal at any stage of peer review.</Text>
         </Document>
         <Document ID="AC529BAD-4A7E-47EA-ACBB-107038BA801E">
             <Title>Objectives</Title>
-            <Synopsis>-caracterizar bem o quadro de FTD (ALS parece já estar melhor caract)
+            <Synopsis>-caracterizar bem o quadro de DFT (ALS parece já estar melhor caract)
 -avaliar a influência ambiental (estresse?) (quanto influencia o desenv da doença)
--avaliar se esse seria um bom modelo pra estudo de terapêutica pra FTD
+-avaliar se esse seria um bom modelo pra estudo de terapêutica pra DFT
 -caracterizar bem esse modelo de forma ampla (fenotípica
 -sistematizar o modelo para estudo de ftd com ou sem ALS
 </Synopsis>
         </Document>
+        <Document ID="B121A692-92D3-4E56-B42A-722903BDC9CC">
+            <Title>Figures</Title>
+            <Notes>Figures (generic)
+• Make a deliberate choice early in the writing process on which key findings to present in figures.
+• The title should reflect what is shown.
+• Ensure that figures are self-explanatory.
+• Do not repeat information from figures in the text but emphasize the important findings.
+• Design figures to make them clear and easy to read.
+• Start each figure on a new page, after the reference list.
+(Journal of Clinical Epidemiology 66 (2013) 1197)
+You can paste here your figures, just for reference.
+All scientific journals require submission of artwork separately, usually in formats such as TIFF, EPS, JPG and PDF. Color files must usually be in CMYK (cyan, magenta, yellow, black) mode (Use Photoshop to convert the color space)
+For Photographs and non-EPS graphs ensure that you save at least at 300 dpi resolution. Check a recent issue of your target journal for the usual size of figures.
+Graphs
+• Prepare the results and data of the study before drafting the graphs.
+• The flow of the graphs should tell a logical story.
+• Choose the appropriate graph type to match the study data.
+• Design, provide legends and label the graphs carefully so that they are clear and easy to understand.
+WHEN TO PRESENT DATA IN GRAPHS:
+• Show trends and patterns in the data.
+• Paint an interesting picture and make a visual impact.
+• Reveal relations between variables in the data.
+COMMON ERRORS:
+• Information in the text is duplicated in graphs, or information in graphs is duplicated in tables.
+• The graph does not have proper legends.
+• The wrong type of graph is chosen to represent the data.
+• The graph is not plotted to scale. Data is not labelled,
+is inconsistent, interrupted, or exaggerated to produce the desired effect.
+• The source of previously-published data is not credited.
+• The misuse of pseudo three-dimensional graphs.
+Images
+• Illustrations provide visual information.
+• Effective illustrations improve the readability of a scientific paper as they make a visual impact.
+• Prepare legends and label illustrations clearly so that they are easy to understand.
+• Submit illustrations in a format that will provide high-quality reproduction.
+COMMON ERRORS:
+• Photographs show much more than the relevant parts, i.e. extraneous material.
+• Patients or subjects can be clearly identified in the photographs and images.
+• Authors’ names and affiliations appear on the images.
+• Photographic/halftone figure scans are embedded in a Microsoft Word document, causing significant pixel resolution to be lost.
+• Annotations on the figures are too small or are illegible.
+(Singapore Med J. 2009;50(3):245-249. — Singapore Med J. 2009;50(4):330-4; quiz 335.)</Notes>
+        </Document>
+        <Document ID="B35EFB81-AD14-441E-B523-66D384CFF356"/>
         <Document ID="B3FE35AB-6F46-43CD-A693-9B52B52D0B8E">
             <Title>Statistical methods</Title>
             <Synopsis>• Describe how the data will be presented in the results section (eg, mean vs median), which statistical tests will used for the inferential data, and what p value is deemed to indicate a statistically significant difference (Respir Care 2004 (49) 10 1229-1232).
@@ -2913,6 +3166,10 @@ Important Note: All contributions to this Research Topic must be within the scop
 * If you are not familiar with statistical methods, obtain the help of a statistician BEFORE starting your study, to make sure that your study methods (populations, groups, randomisation, …) are sound, to be set from the start for a great paper!
 
 </Synopsis>
+            <Text>Cálculo Amostral 
+Tamanho de Efeito
+Poder estatístico (provável 0.8)
+</Text>
         </Document>
         <Document ID="B53190A3-F61A-4FF0-BC01-C4D1AC489286">
             <Title>work plan</Title>
@@ -3056,6 +3313,50 @@ mês 36
 
 
 </Text>
+        </Document>
+        <Document ID="B6EE2491-5153-498D-B450-D4FFA5EF10D6">
+            <Title>scriv_FTLD-pathology-genetics-clinical-integration</Title>
+            <Text>#</Text>
+            <Notes>Figures (generic)
+• Make a deliberate choice early in the writing process on which key findings to present in figures.
+• The title should reflect what is shown.
+• Ensure that figures are self-explanatory.
+• Do not repeat information from figures in the text but emphasize the important findings.
+• Design figures to make them clear and easy to read.
+• Start each figure on a new page, after the reference list.
+(Journal of Clinical Epidemiology 66 (2013) 1197)
+You can paste here your figures, just for reference.
+All scientific journals require submission of artwork separately, usually in formats such as TIFF, EPS, JPG and PDF. Color files must usually be in CMYK (cyan, magenta, yellow, black) mode (Use Photoshop to convert the color space)
+For Photographs and non-EPS graphs ensure that you save at least at 300 dpi resolution. Check a recent issue of your target journal for the usual size of figures.
+Graphs
+• Prepare the results and data of the study before drafting the graphs.
+• The flow of the graphs should tell a logical story.
+• Choose the appropriate graph type to match the study data.
+• Design, provide legends and label the graphs carefully so that they are clear and easy to understand.
+WHEN TO PRESENT DATA IN GRAPHS:
+• Show trends and patterns in the data.
+• Paint an interesting picture and make a visual impact.
+• Reveal relations between variables in the data.
+COMMON ERRORS:
+• Information in the text is duplicated in graphs, or information in graphs is duplicated in tables.
+• The graph does not have proper legends.
+• The wrong type of graph is chosen to represent the data.
+• The graph is not plotted to scale. Data is not labelled,
+is inconsistent, interrupted, or exaggerated to produce the desired effect.
+• The source of previously-published data is not credited.
+• The misuse of pseudo three-dimensional graphs.
+Images
+• Illustrations provide visual information.
+• Effective illustrations improve the readability of a scientific paper as they make a visual impact.
+• Prepare legends and label illustrations clearly so that they are easy to understand.
+• Submit illustrations in a format that will provide high-quality reproduction.
+COMMON ERRORS:
+• Photographs show much more than the relevant parts, i.e. extraneous material.
+• Patients or subjects can be clearly identified in the photographs and images.
+• Authors’ names and affiliations appear on the images.
+• Photographic/halftone figure scans are embedded in a Microsoft Word document, causing significant pixel resolution to be lost.
+• Annotations on the figures are too small or are illegible.
+(Singapore Med J. 2009;50(3):245-249. — Singapore Med J. 2009;50(4):330-4; quiz 335.)</Notes>
         </Document>
         <Document ID="B71CC8BA-A259-4B1C-AAC2-AD40B8F9D130">
             <Title>Esporádica</Title>
@@ -3258,6 +3559,50 @@ Previous Versions:(v.1.8)</Text>
 • List unresolved issues. 
 (Respir Care 2004 (49) 10 1222-1228)</Synopsis>
         </Document>
+        <Document ID="BD025A94-B9BB-44D7-8F8A-DE7C66F0D346">
+            <Title>scriv_FTD-ALS_spectrum-disorder-genes</Title>
+            <Text>#</Text>
+            <Notes>Figures (generic)
+• Make a deliberate choice early in the writing process on which key findings to present in figures.
+• The title should reflect what is shown.
+• Ensure that figures are self-explanatory.
+• Do not repeat information from figures in the text but emphasize the important findings.
+• Design figures to make them clear and easy to read.
+• Start each figure on a new page, after the reference list.
+(Journal of Clinical Epidemiology 66 (2013) 1197)
+You can paste here your figures, just for reference.
+All scientific journals require submission of artwork separately, usually in formats such as TIFF, EPS, JPG and PDF. Color files must usually be in CMYK (cyan, magenta, yellow, black) mode (Use Photoshop to convert the color space)
+For Photographs and non-EPS graphs ensure that you save at least at 300 dpi resolution. Check a recent issue of your target journal for the usual size of figures.
+Graphs
+• Prepare the results and data of the study before drafting the graphs.
+• The flow of the graphs should tell a logical story.
+• Choose the appropriate graph type to match the study data.
+• Design, provide legends and label the graphs carefully so that they are clear and easy to understand.
+WHEN TO PRESENT DATA IN GRAPHS:
+• Show trends and patterns in the data.
+• Paint an interesting picture and make a visual impact.
+• Reveal relations between variables in the data.
+COMMON ERRORS:
+• Information in the text is duplicated in graphs, or information in graphs is duplicated in tables.
+• The graph does not have proper legends.
+• The wrong type of graph is chosen to represent the data.
+• The graph is not plotted to scale. Data is not labelled,
+is inconsistent, interrupted, or exaggerated to produce the desired effect.
+• The source of previously-published data is not credited.
+• The misuse of pseudo three-dimensional graphs.
+Images
+• Illustrations provide visual information.
+• Effective illustrations improve the readability of a scientific paper as they make a visual impact.
+• Prepare legends and label illustrations clearly so that they are easy to understand.
+• Submit illustrations in a format that will provide high-quality reproduction.
+COMMON ERRORS:
+• Photographs show much more than the relevant parts, i.e. extraneous material.
+• Patients or subjects can be clearly identified in the photographs and images.
+• Authors’ names and affiliations appear on the images.
+• Photographic/halftone figure scans are embedded in a Microsoft Word document, causing significant pixel resolution to be lost.
+• Annotations on the figures are too small or are illegible.
+(Singapore Med J. 2009;50(3):245-249. — Singapore Med J. 2009;50(4):330-4; quiz 335.)</Notes>
+        </Document>
         <Document ID="C06236D6-93F2-4094-8209-19C71882ED28">
             <Title>Extended (Dissertation)</Title>
             <Synopsis>• Use this format for dissertation or thesis, or as a guideline for a scientific publication
@@ -3266,36 +3611,17 @@ Previous Versions:(v.1.8)</Text>
         </Document>
         <Document ID="CD0FE636-86C4-40F1-8C12-37FB1DC3CBE2">
             <Title>Submitting the article</Title>
-            <Text>During submission, the submitting author will be required to answer questions regarding the manuscript and research, as well as provide information and consent for all authors. Below is a checklist detailing the information that will be required.
-The following is mandatory when submitting to Frontiers;
-Author information
-a) All authors listed on the manuscript must be added in the relevant tab during submission. Please have ready the names, emails, and affiliations of all the authors, and ensure the authors all qualify for authorship.
-b) During submission, you will be requested to provide an author(s) contribution statement briefly describing the tasks of all individual authors.
-File requirements
-a) A manuscript PDF file generated from the submitted manuscript, and the source file. For LaTeX only: The BIB file if the references were not included in the TEX.
-b) All figures in TIFF or JPEG formats, RGB color mode, with a resolution of 300 dpi, and complying with CC-BY licence.
-Permissions need to be obtained for re-published/adapted/modified/partial figures, and it is the responsibility of the authors to acquire the licenses, to follow any citation instructions requested by third-party rights holders, and cover any supplementary charges. Uploaded figures will be embedded at the end of the submitted manuscript. See here for more information.
-c) Tables should be directly inserted into the manuscript and in source form (doc, tex), not as figures. You should prepare the files accordingly.
-Statements
-a ) Please ensure that the relevant ethical approval and consent details were received and are available on request by the editor or editorial office. You will be requested to declare involvement of any human or animal subjects, and inclusion of identifiable human data for the research during the submission process; declaration statements will be generated and automatically added to your manuscript. You do not need to include these statements in your source file.
-b) Frontiers requires some types of data to be provide in manuscripts or deposited in public, community-supported repositories, prior to publication of an associated Frontiers manuscript.
-During submission, you will be requested to reply to a series of questions on the availability of the data used for the research. Based on your answers, a data availability statement will be generated and added to your manuscript. You therefore do not need to include a data statement in your source file.
-Contribution to the field
-Ahead of submission, you should prepare a statement summarizing in 200 words your manuscript’s contribution to, and position in, the existing literature of your field. This should be written avoiding any technical language or non-standard acronyms. The aim should be to convey the meaning and importance of this research to a non-expert.(Note that you will NOT be able to provide a traditional cover letter.)
-Funding and payment
-a) Details of all funding sources will be requested during submission and must be provided in a funding section of the manuscript, including grant numbers, if applicable. You should also mention funds received for open access publication fees, from your institution, library, or other grants.
-b) Prepare details ahead of submission on whom the invoice needs to be addressed to. If you are affiliated with a member institution, you will be able to select the institution in the submission system payment tile.</Text>
         </Document>
         <Document ID="CD22AF9A-BA01-43B0-AECE-3F769256E77D">
             <Title>Tau</Title>
         </Document>
         <Document ID="CD69FBC4-BF46-4283-8A12-72661B0A8C7C">
-            <Title>FTD topic</Title>
+            <Title>DFT topic</Title>
             <Text>Field Chief Editor/s:
 Irene Litvan, University of California, San Diego, San Diego, United States
 Electronic ISSN: 1664-2295
 About this Research Topic
-Frontotemporal dementia (FTD) is the second leading cause of young onset dementia and has a prevalence of around 3% in all dementia cases. In Latin America and the Caribbean (LAC), the real prevalence of FTD is unknown and preliminary evidence indicates that it is likely underdiagnosed in both early and late-onset cases.FTD is a highly heritable group of neurodegenerative disorders, with around 40% of patients having a strong family history. FTD is a large umbrella, describing many phenotypes (corticobasal syndrome, progressive supranuclear palsy, behavioral variant FTD, primary progressive aphasia, amyotrophic lateral sclerosis). Behavioral variant FTD (bvFTD) is most frequently observed, but primary progressive aphasia (PPA) is an important condition to be recognized. No direct relationship between neuropathology and clinical phenotype has been described, suggesting a complex relationship between etiopathogenic and clinical phenotypes. There is a considerable delay in diagnosis in FTD and a high rate of misdiagnosis. Barriers to diagnosis include: i) limited knowledge of FTD in LAC; ii) few validated tools for neuropsychological and speech evaluations in participants with very low education; iii) cultural factors influencing the interpretation of disorders of behavior and social cognition; iv) overlap between late-onset psychiatric disorders and bvFTD; v) the differential contribution of cognitive, behavior and motor impairment in disability.In addition to overcoming these barriers to diagnosis, individuals with FTD and their caregivers face complex needs that need to be addressed considering the socio-cultural contexts of various LAC. Addressing knowledge gaps in FTD requires consideration of the different levels of the disease from its biological basis to its impact on caregivers and society.The unique population of LAC (genetic clusters, low literacy and cognitive reserve, multilingual, multi-ethnic, high levels of inequity) presents an opportunity to understand the interplay of genetic, social, and cultural factors in the etiopathogenesis of FTD. There are critical gaps in understanding the genetic risk factors for FTD in LAC, and the role of social determinants of health (including social adversities such as exposure to violence, restricted access to health resources) as they relate to FTD presentation. It is also unclear if the high prevalence of under-treated vascular risk factors are associated with a higher prevalence or earlier onset of FTD in LAC, and if previous psychiatric disorders are associated with FTD in these particular settings in LAC.The aim of this Research Topic is to bring together research addressing FTD in LAC from various specialties (neurologist, psychiatric, geriatric) and subspecialties (cognitive neurology, movement disorder, neuropsychiatric), and a broad range of disciplines from basic science to social science. In doing so, this collection will describe current state-of-the-art practices in FTD diagnosis in LAC and will identify challenges for future research.Topics for this collection aim to include, but are not limited to:i) Introduction aiming to present FTD to a non-specialist and specialist audience and describing a multilevel or pluralistic approach to studying FTDii) Historical perspective on FTD in LACiii) Basics of FTD (genetics, pathophysiology, pathology, translational research)iv) Biomarkers (neuroimaging: MRI, DTI, molecular neuroimaging- PET; CSF)v) Clinical aspects (epidemiology, diagnostics, cognitive and neuropsychiatry studies, evaluation, language)vi) Caregiver (burden, morbidities, educational programs) and health systemvii) FTD and COVID-19viii) Multidisciplinary and cross-cultural studies, for example, social cognition and culture, or the importance of social context in the diagnosis of dementia.We would like to acknowledge that Drs. Adolfo Garcia, Diana Matallana, José Alberto Avila Funes, Leonel Takada, Maria Isabel Behrens, and Nilton Custodio, have acted as coordinators and have contributed to the preparation of the proposal for this Research Topic.
+Frontotemporal dementia (DFT) is the second leading cause of young onset dementia and has a prevalence of around 3% in all dementia cases. In Latin America and the Caribbean (LAC), the real prevalence of DFT is unknown and preliminary evidence indicates that it is likely underdiagnosed in both early and late-onset cases.DFT is a highly heritable group of neurodegenerative disorders, with around 40% of patients having a strong family history. DFT is a large umbrella, describing many phenotypes (corticobasal syndrome, progressive supranuclear palsy, behavioral variant DFT, primary progressive aphasia, amyotrophic lateral sclerosis). Behavioral variant DFT (bvDFT) is most frequently observed, but primary progressive aphasia (PPA) is an important condition to be recognized. No direct relationship between neuropathology and clinical phenotype has been described, suggesting a complex relationship between etiopathogenic and clinical phenotypes. There is a considerable delay in diagnosis in DFT and a high rate of misdiagnosis. Barriers to diagnosis include: i) limited knowledge of DFT in LAC; ii) few validated tools for neuropsychological and speech evaluations in participants with very low education; iii) cultural factors influencing the interpretation of disorders of behavior and social cognition; iv) overlap between late-onset psychiatric disorders and bvDFT; v) the differential contribution of cognitive, behavior and motor impairment in disability.In addition to overcoming these barriers to diagnosis, individuals with DFT and their caregivers face complex needs that need to be addressed considering the socio-cultural contexts of various LAC. Addressing knowledge gaps in DFT requires consideration of the different levels of the disease from its biological basis to its impact on caregivers and society.The unique population of LAC (genetic clusters, low literacy and cognitive reserve, multilingual, multi-ethnic, high levels of inequity) presents an opportunity to understand the interplay of genetic, social, and cultural factors in the etiopathogenesis of DFT. There are critical gaps in understanding the genetic risk factors for DFT in LAC, and the role of social determinants of health (including social adversities such as exposure to violence, restricted access to health resources) as they relate to DFT presentation. It is also unclear if the high prevalence of under-treated vascular risk factors are associated with a higher prevalence or earlier onset of DFT in LAC, and if previous psychiatric disorders are associated with DFT in these particular settings in LAC.The aim of this Research Topic is to bring together research addressing DFT in LAC from various specialties (neurologist, psychiatric, geriatric) and subspecialties (cognitive neurology, movement disorder, neuropsychiatric), and a broad range of disciplines from basic science to social science. In doing so, this collection will describe current state-of-the-art practices in DFT diagnosis in LAC and will identify challenges for future research.Topics for this collection aim to include, but are not limited to:i) Introduction aiming to present DFT to a non-specialist and specialist audience and describing a multilevel or pluralistic approach to studying DFTii) Historical perspective on DFT in LACiii) Basics of DFT (genetics, pathophysiology, pathology, translational research)iv) Biomarkers (neuroimaging: MRI, DTI, molecular neuroimaging- PET; CSF)v) Clinical aspects (epidemiology, diagnostics, cognitive and neuropsychiatry studies, evaluation, language)vi) Caregiver (burden, morbidities, educational programs) and health systemvii) DFT and COVID-19viii) Multidisciplinary and cross-cultural studies, for example, social cognition and culture, or the importance of social context in the diagnosis of dementia.We would like to acknowledge that Drs. Adolfo Garcia, Diana Matallana, José Alberto Avila Funes, Leonel Takada, Maria Isabel Behrens, and Nilton Custodio, have acted as coordinators and have contributed to the preparation of the proposal for this Research Topic.
 Keywords: Frontotemporal Dementia, Latin America, Biomarkers, Genetics, Imaging, Social Determinants of Health
 Important Note: All contributions to this Research Topic must be within the scope of the section and journal to which they are submitted, as defined in their mission statements. Frontiers reserves the right to guide an out-of-scope manuscript to a more suitable section or journal at any stage of peer review.</Text>
         </Document>
@@ -3429,17 +3755,132 @@ volume
 
 </Notes>
         </Document>
+        <Document ID="D0095774-33B3-42DB-A1D6-750F81D47AAB">
+            <Title>Project - text draft</Title>
+            <Text># IntroduÃ§Ã£o
+
+As demÃªncias estÃ£o, hoje, entre as principais causas de incapacidade no mundo. Elas fazem parte das doenÃ§as neurodegenerativas e comprometem a capacidade do indivÃ­duo de viver uma vida plena, o bem estar das famÃ­lias e impactam economicamente a sociedade, com perda de anos de vida produtivos e com custos de cuidados associados. O grupo das demÃªncias frontotemporais (DFT) com ou sem doenÃ§a do neurÃ´nio motor (MND) Ã© especialmente importante neste contexto. Este grupo Ã© a segunda causa mais frequente de demÃªncia precoce (&lt;65 anos), com a maior parte dos casos ocorrendo entre os 45 e 65 anos de idade.
+
+O diagnÃ³stico das DFTs ocorre normalmente entre 4 e 6 anos apÃ³s o inÃ­cio dos sintomas e parte significativa dos pacientes recebe outros diagnÃ³sticos - frequentemente psiquiÃ¡tricos - atÃ© que sejam corretamente identificadas. O tempo entre o inÃ­cio dos sintomas e a morte varia entre uma mÃ©dia de 2,5 anos para os pacientes com doenÃ§a do neurÃ´nio motor (MND) concomitante e 12 anos para variantes de linguagem.
+
+â€‹	Historicamente, os termos demÃªncia frontotemporal (DFT) e degeneraÃ§Ã£o lobar frontotemporal (DLFT) foram usados de forma inconsistente. A primeira descriÃ§Ã£o de uma sÃ­ndrome demencial frontotemporal foi feita por Arnold Pick em 1892. Essa sÃ­ndrome originou o termo doenÃ§a de Pick, que se caracteriza por sintomas comportamentais e de linguagem, com atrofia dos lobos temporais, associado Ã  presenÃ§a de infiltrados citoplasmÃ¡ticos - chamados corpos de Pick. Com a descriÃ§Ã£o de outras sÃ­ndromes clÃ­nico-patolÃ³gicas, o termo demÃªncia frontotemporal passou a se referir ao conjunto delas, que se caracterizam por sintomas comportamentais e cognitivos com piora progressiva e irreversÃ­veis e pela atrofia de regiÃµes cerebrais frontais e/ou temporais. O termo doenÃ§a de Pick foi reservado somente Ã s sÃ­ndromes demenciais com a presenÃ§a de patologia com os corpos de Pick. Com o avanÃ§o da caracterizaÃ§Ã£o molecular, genÃ©tica, de neuroimagem e clÃ­nica dos pacientes, o termo degeneraÃ§Ã£o lobar frontotemporal passou a descrever os achados neuropatolÃ³gicos subjacentes Ã s sÃ­ndromes, sendo a doenÃ§a de Pick um deles.  
+
+### SÃ­ndromes ClÃ­nicas
+
+Atualmente a DFT Ã© dividida clinicamente em quatro subtipos ([Tabela 01][Tabela 01]): a variante comportamental da demÃªncia frontotemporal (bvDFT); as variantes semÃ¢ntica (svPPA, tambÃ©m chamada demÃªncia semÃ¢ntica) e nÃ£o-fluente/agramatical (nfvPPA) da afasia progressiva primÃ¡ria (PPA); e a demÃªncia frontotemporal com doenÃ§a do neurÃ´nio motor (DFT-MND), que ocorre em atÃ© 15% dos pacientes com DFT. Esta Ãºltima, inclui tambÃ©m a esclerose lateral amiotrÃ³fica (ALS). Na ALS, atÃ© a metade dos pacientes apresenta disfunÃ§Ãµes relacionadas aos lobos frontais. 
+
+A sÃ­ndrome corticobasal (CBS) e a sÃ­ndrome de paralisia supranuclear progressiva (PSPS) sÃ£o duas sÃ­ndromes com predomÃ­nio de sintomas motores e envolvimento de cÃ³rtex frontal e sÃ£o classificadas por alguns autores dentro do espectro das DFTs, por terem a DLFT como neuropatologia subjacente. 
+
+A bvDFT apresenta predomÃ­nio de sintomas comportamentais, como desinibiÃ§Ã£o, apatia, irritabilidade, impulsividade, hiperoralidade, dÃ©ficits executivos focais, perda de empatia e estereotipias. A perda de habilidade de cogniÃ§Ã£o social, como a teoria da mente e processamento emocional, causam grande prejuÃ­zo com a progressÃ£o da doenÃ§a. 
+
+ A svPPA e a nfvPPA tÃªm predomÃ­nio de dÃ©ficits de linguagem. Cerca de 15% dos pacientes com as DFTs apresentam concomitantemente a doenÃ§a do neurÃ´nio motor. Com o tempo, a sintomatologia e a neurodegeneraÃ§Ã£o tendem a convergir para um quadro de disfunÃ§Ã£o cognitiva generalizada e a morte ocorre indiretamente, com exceÃ§Ã£o dos quadros de MND.  
+
+
+
+### DegeneraÃ§Ã£o Lobar Frontotemporal
+
+A DLFT Ã© um termo normalmente associado a conjuntos de achados neurodegenerativos e moleculares patolÃ³gicos que acompanham as sÃ­ndromes clÃ­nicas. Em comum, as DLFTs apresentam acumulo de proteÃ­nas mal dobradas em corpos de inclusÃ£o e a neurodegeneraÃ§Ã£o. A sua distribuiÃ§Ã£o topogrÃ¡fica e por tipo celular, e as caracterÃ­sticas moleculares e bioquÃ­micas diferenciam esses achados. Esses sÃ£o divididos em trÃªs tipos principais: a DLFT associada Ã  proteÃ­na tau (DLFT-tau); a DLFT associada Ã  proteÃ­na de resposta transacional DNA-ligante 43 (DLFT-TDP); e a DLFT associada Ã  proteÃ­na sarcÃ´mero-fusionada (DLFT-FUS).  Com exceÃ§Ã£o da DFT-MND, as DFTs ainda podem ocorrer em pacientes com neuropatologia associada Ã  doenÃ§a de Alzheimer (AD), com ou sem a presenÃ§a dos achados da DLFT.
+
+Dentro desses grupos, caracterÃ­sticas moleculares e neurodegenerativas definem pelo menos 17 subtipos conhecidos ([Tabela 01][Tabela 01]). A maioria desses foram descritas em poucos indivÃ­duos ou em grupos familiares especÃ­ficos, representando grupos atÃ­picos de pacientes com DLFT. Os principais subtipos sÃ£o descritos abaixo.
+
+A proteÃ­na de resposta transacional DNA-ligante 43 (TDP-43) estÃ¡ associada a pouco mais da metade dos casos de DLFT. Ela Ã© subdividida em TDP-43 tipos A, B, C e D.  
+
+O acÃºmulo da intracelular citoplasmÃ¡tico da proteÃ­na microtÃºbulo-associada tau (tau) ocorre aproximadamente na metade dos casos de DLFT. As DLFT-tau sÃ£o chamadas taupatias primÃ¡rias e incluem a degeneraÃ§Ã£o corticobasal (CBD), a paralisia supranuclear progressiva (PSP) e a doenÃ§a de Pick. Ã‰ importante diferenciarmos a CBD e a PSP da CBS e da PSPS: As duas primeiras descrevem a neuropatologia encontrada nas DLFT, as Ãºltimas as sÃ­ndromes clÃ­nicas que podem ou nÃ£o ter a CBD ou a PSP como causa subjacente. 
+
+Nessa lÃ³gica, as combinaÃ§Ãµes entre subtipos de DLFT e DFT permite caracterizaÃ§Ã£o dos casos com a neuropatologia subjacente e a sÃ­ndrome clÃ­nica. Por exemplo, a maior parte dos casos de nfvPPA, apresenta as taupatias CBD ou a PSP em achados neuropatolÃ³gicos. Um paciente com a taupatia CBD e quadro clÃ­nico compatÃ­vel com nfvPPA, seria classificado como um caso CBD-nvfPPA. A maioria dos casos restantes estÃ¡ associada Ã  proteÃ­na sarcÃ´mero-fusionada (FUS). Os mecanismos fisiopatolÃ³gicos que levam Ã  neurodegeneraÃ§Ã£o atravÃ©s dos corpos de inclusÃ£o das taupatias e da TDP-43 e subtipos ainda sÃ£o desconhecidos e serÃ£o abordados neste projeto. 
+
+### GenÃ©tica
+
+Cerca de 40% dos casos de DLFT ocorre em pacientes com histÃ³ria familiar de demÃªncias ou outras doenÃ§as neurodegenerativas e em 20% uma causa monogÃªnica Ã© identificada. O restante dos pacientes apresenta a DLFT esporÃ¡dica. A identificaÃ§Ã£o da proteÃ­na tau e do seu gene (MAPT), assim como da proteÃ­na progranulina (PGRN) e do seu gene (GRN) como causadoras das DFTs marcou o inÃ­cio de uma sÃ©rie de descobertas sobre as bases genÃ©ticas da neurodegeneraÃ§Ã£o relacionadas Ã s DLFTs. MutaÃ§Ãµes em 
+
+```
+C9orf72 como causa 60% dos casos esporÃ¡dicos 
+o avanÃ§o dos estudos de gwas e das causas das ftlds
+```
+
+
+
+### C9orf72 
+
+O *chromossome 9 open reading frame 72* (C9orf72) Ã© um gene humano localizado no braÃ§o curto do cromossomo 9, na posiÃ§Ã£o 21.2. As mutaÃ§Ãµes no C9orf72 sÃ£o responsÃ¡veis por cerca de 60% dos casos esporÃ¡dicos e familiares de DLFT e de ALS 
+
+O cÃ­ngulo anterior dorsal e as insulas anteriores sÃ£o muito afetadas pelo estresse e ativados muito na rejeiÃ§Ã£o social. Eles tambÃ©m sÃ£o muito afetados pela DFTs. Ver papel do C9orf72  no desencadeamento da neurodegeneraÃ§Ã£o do cingulo e das insulas. As insulas normalmente ocorrem em quais ftds? linguagem? Ver regiÃµes do cÃ³rtex que sÃ£o mais afetadas pra cada variante das DLFT. Associar com as regiÃµes que mais sofrem ativaÃ§Ã£o e inflamaÃ§Ã£o nos casos de rejeiÃ§Ã£o social e depressÃ£o (pela rejeiÃ§Ã£o crÃ´nica). Associar nÃ­veis de IL-6, TNF-alfa e IL-1beta a essas variÃ¡veis. Como a perda de funÃ§Ã£o do C9orf72 (com aumento das STING) nas cÃ©lulas mieloides perifÃ©ricas pode em Ãºltima anÃ¡lise resultar em acÃºmulo de TDP-43 (principalmente tipo B, as vezes A). O aumento dos interferons resultante da atividade STING causa o que no cÃ©rebro (revisar) ? Quais as regiÃµes afetadas nas DLFT-TDP ? 
+
+
+
+### InflamaÃ§Ã£o
+
+Os efeitos do IFN-alfa de depressÃ£o neurovegetativos (principalmente) parecem estar relacionados com o dACC (que tambÃ©m estÃ¡ relacionado com a dor fÃ­sica). 
+
+A funÃ§Ã£o do c9orf72 no sistema imune foi visto por doenÃ§as autoimunes em series de casos. O estresse crÃ´nico eleva estado inflamatÃ³rio e estÃ¡ relacionado com depressÃ£o e incidÃªncia da ftd? As citocinas, as proteinopatias, o desencadeamento da doenÃ§a. A epigenÃ©tica modula esse papel autoimune/c9orf72 no estabelecimento da ftd? O papel da microglia na neurodegeneraÃ§Ã£o e resposta com minociclina
+
+O c9orf72 em cÃ©lulas mieloides degrada o STING (gene que estimula interferons-beta) e a sua perda de funÃ§Ã£o resulta em elevaÃ§Ã£o do STING e dos interferons - o que explica doenÃ§as autoimunes em pacientes ALS/DFT
+
+Neste trabalho, propomos avaliar as funÃ§Ãµes motora e cognitiva, a neurodegeneraÃ§Ã£o, a presenÃ§a de proteinopatias no cerebro e a inflamaÃ§Ã£o. AlÃ©m disso vamos avaliar o papel da 
+
+ # Objetivos
+
+### Geral
+
+Avaliar a influÃªncia do estresse e inflamaÃ§Ã£o associada na fisiopatologia das demÃªncias frontotemporal relacionada a mutaÃ§Ã£o de expansÃ£o repetida de hexanucleotÃ­deos (GGGGCC) no gene C9orf72 
+
+### EspecÃ­ficos
+
+- Estabelecer a linhagem de camundongos C9-500 BAC como modelo de estudo das DFTs 
+- Avaliar o desempenho cognitivo dos animais nos testes de reconhecimento de objeto, de campo aberto e no elevated plus maze. 
+- Avaliar sintomas depressivos pelo teste de preferÃªncia da sacarose. 
+- Medir IL-6, IL-1B, TNF-a (e outros via multiplex)
+- 
+
+# Justificativa 
+
+A demÃªncia frontotemporal nÃ£o dispÃµe de tratamento que modifique o curso da doenÃ§a, nÃ£o possui intervenÃ§Ãµes de prevenÃ§Ã£o efeitivas e nÃ£o tem seus fatores de risco e seus mecanismos fisiopatolÃ³gicos esclarecidos. O estabelecimento de modelos experimentais adequados Ã© um passo necessÃ¡rio para abordagem desses componentes das DFTs. O modelo de camundongos C9orf72 BAC Ã© um avanÃ§o tÃ©cnico recente e simula aspectos clÃ­nicos e patolÃ³gicos da doenÃ§a. Dessa forma, a sua avaliaÃ§Ã£o fenotÃ­pica de forma sistemÃ¡tica estabelecerÃ¡ um contexto para o desenvolvimento de intervenÃ§Ãµes farmacolÃ³gicas, diagnÃ³sticas e preventivas com um enfoque translacional. 
+
+
+
+
+
+# MÃ©todos
+
+### Animais
+
+SerÃ£o adquiridos 100 camundongos, sendo 50 machos e 50 fÃªmeas, do laboratÃ³rio Jax (USA, columbia). Desses, 40 machos e 40 fÃªmeas devem ser da linhagem transgÃªnica C9orf72 BAC C9-500. 
+
+ Os animais serÃ£o recebidos com 30 dias de vida e mantidos em caixas padronizadas, com quatro animais dos mesmos sexo e grupo experimental, no vivÃ¡rio do CEMBE da PUCRS. AlÃ©m disso serÃ£o mantidos em condiÃ§Ãµes de iluminaÃ§Ã£o com ciclos de 24 horas e com alimentaÃ§Ã£o e hidrataÃ§Ã£o *ad libidum*, salvo quando submetidos a condiÃ§Ãµes experimentais. 
+
+### ConsideraÃ§Ãµes Ã‰ticas
+
+
+
+### Delineamento de Pesquisa
+
+Os animais serÃ£o divididos em trÃªs grupos experimentais em nÃºmeros equivalentes de machos e fÃªmeas ([Figura 1][]). O primeiro com os 20 animais sem as modificaÃ§Ãµes genÃ©ticas do modelo C9orf72 BAC e que nÃ£o serÃ£o submetidos ao protocolo de estresse crÃ´nico (grupo controle, n=20) .  O segundo com 40 animais do modelo C9orf72 BAC que tambÃ©m nÃ£o serÃ£o submetidos ao protocolo de estresse crÃ´nico (grupo C9orf72-ns, n=40). O terceiro grupo com os 40 animais restantes do modelo C9orf72 BAC que serÃ£o submetidos ao protocolo de estresse crÃ´nico (grupo C9orf72-s, n=40). 
+
+Os animais  Com REV: dias   
+
+
+
+### AnÃ¡lise EstatÃ­stica
+
+
+
+### AvaliaÃ§Ã£o cognitiva
+
+SerÃ£o avaliadas as funÃ§Ãµes cognitivas de memÃ³ria (condicionamento, retenÃ§Ã£o, )
+
+### AvaliaÃ§Ã£o motora 
+
+
+
+
+
+</Text>
+        </Document>
         <Document ID="D0BC89FF-F7FE-4A5A-B829-05268AD0EB39">
             <Title>Templates</Title>
         </Document>
         <Document ID="D2196534-D220-4318-ACD3-1C0081F976EA">
-            <Title>Summary</Title>
-            <Text>	SUMÁRIO
-</Text>
-            <Notes>É um elemento obrigatório que apresenta as principais divisões de um projeto, seções e outras partes do documento na mesma ordem e grafia em que nele figuram, reproduzindo a sua estrutura e organização.O indicativo que cada seção, divisão, capítulo com suas subdivisões devem ser acompanhados do respectivo número de página, seguindo as especificações da ABNT NBR 6027: Sumário.A palavra &quot;SUMÁRIO&quot; deve ficar centralizada, destacada graficamente e com a mesma tipologia da fonte utilizada nas seções primárias do projeto.
-A paginação deve seguir uma das formas citadas abaixo:» Indicar somente o número da primeira página. Exemplo: 21» Indicar os números das páginas em que se apresenta o texto. Exemplo: 21, 22, 23» Indicar a numeração das páginas extremas (página de início e fim). Exemplo: 21-23
-A subordinação dos itens deve ser destacada por diferenças tipográficas, como negrito, letras maiúsculas e outros.Para fazer a numeração das seções, consultar a ABNT NBR 6024: Numeração progressiva das seções de um documento escrito: 2012.Quando o projeto estiver organizado em mais de um volume, o sumário completo deve ser incluído em todos os volumes, permitindo que se tenha conhecimento de todo o conteúdo do documento em qualquer volume consultado.Os elementos pré-textuais não devem constar no sumário.» IMPORTANTE: não deve-se confundir sumário com índice ou listas.
-#</Notes>
+            <Title>Sumário</Title>
         </Document>
         <Document ID="D6B06EB0-DC44-48F1-B72C-4E75453370EB">
             <Title>Epigenética</Title>
@@ -3496,10 +3937,10 @@ Average water intake: ~ 5 ml per 24 hr
         <Document ID="DD86B859-F2DD-4761-AB98-E4507ABECE79">
             <Title>Modelo C9orf72 BAC mice</Title>
             <Synopsis>Estado da arte 
-Proeinopatia</Synopsis>
+Proteinopatia</Synopsis>
         </Document>
         <Document ID="DE7A50D4-2A88-4C10-AB24-57F4707C16C5">
-            <Title>Appendix</Title>
+            <Title>Apêndice</Title>
             <Notes>Este item é elaborado pelo próprio autor do projeto e serve para complementar a sua argumentação. É um elemento opcional e deve ser identificado por:
 » Palavra designativa (APÊNDICE)» Letra maiúscula consecutiva, seguida de travessão» Título do apêndice em letras minúsculas
 » IMPORTANTE: Quando se esgotarem as 23 letras do alfabeto, utilizam-se letras maiúsculas dobradas para identificação dos apêndices. Exemplo: APÊNDICE AA - Avaliação dos prontuários de jul./ago. 2016
@@ -3813,11 +4254,25 @@ Despesas para importação direta de equipamentos e animais transgênicos
             <Synopsis>• Some journals require a “product sources” page (at the end of the paper) that lists (in alphabetical order), for each device or supply used in the study, the name/model, manufacturer, and city and state of the manufacturer. 
 Conversely, some journals state that information parenthetically at first mention of each device or supply. (Respir Care 2004 (49) 10 1222-1228)</Synopsis>
         </Document>
+        <Document ID="E746319D-7897-4F60-94CB-1BB52768FC79">
+            <Title>Degeneração Lobar Frontotemporal</Title>
+            <Synopsis>Quais neurônios morrem?
+Qual o itinerário da progressão?
+</Synopsis>
+            <Text>A DLFT é um termo normalmente associado a conjuntos de achados neurodegenerativos e moleculares patológicos que acompanham as síndromes clínicas da DFT. Em comum, as DLFTs apresentam acúmulo de proteínas mal dobradas em corpos de inclusão e a neurodegeneração. A sua distribuição topográfica e por tipo celular, e as características moleculares e bioquímicas diferenciam esses achados. Esses são divididos em três tipos principais: a DLFT associada à proteína tau (DLFT-tau); a DLFT associada à proteína de resposta transacional DNA-ligante 43 (DLFT-TDP); e a DLFT associada à proteína sarcômero-fusionada (DLFT-FUS).  Com exceção da DFT com ELA, as DFTs ainda podem ocorrer em pacientes com neuropatologia associada à doença de Alzheimer (DA), com ou sem a presença dos achados da DLFT. 
+Dentro dessa classificação, características moleculares genéticas e neuropatológicas definem pelo menos 17 subtipos conhecidos. A maioria desses foram descritas em poucos indivíduos ou em grupos familiares específicos, representando grupos atípicos de pacientes com DLFT. Os subtipos mais comuns são brevemente descritos abaixo.
+A proteína de resposta transacional DNA-ligante 43 (TDP-43) está associada a cerca de 50% dos casos de DLFT. Ela é subdividida em TDP-43 tipos A, B, C e D. O acúmulo celular citoplasmático da proteína microtúbulo-associada tau (tau) ocorre aproximadamente na metade dos casos de DLFT. As DLFT-tau são chamadas taupatias primárias e incluem a degeneração corticobasal (CBD), a paralisia supranuclear progressiva (PSP) e a doença de Pick. É importante diferenciarmos a CBD e a PSP da CBS e da PSPS: As duas primeiras descrevem a neuropatologia encontrada nas DLFT, as últimas as síndromes clínicas que podem ou não ter a CBD ou a PSP como causa subjacente. 
+Nessa lógica, alguns autores sugerem que as combinações entre subtipos de DLFT e DFT permite caracterização dos casos com a neuropatologia subjacente e a síndrome clínica. Por exemplo, a maior parte dos casos de APPnf, apresenta as taupatias CBD ou a PSP em achados neuropatológicos. Um paciente com a taupatia CBD e quadro clínico compatível com APPnf, seria classificado como um caso CBD-APPnf. A maioria dos casos restantes está associada à proteína sarcômero-fusionada (FUS). Os mecanismos fisiopatológicos que levam à neurodegeneração através dos corpos de inclusão das taupatias e da TDP-43 e subtipos ainda não foram totalmente esclarecidos. </Text>
+        </Document>
         <Document ID="E8AA77D0-39CB-43AE-B7B1-A566D4EC3D4C">
             <Title>Considerações anatômicas</Title>
         </Document>
+        <Document ID="E9A526CC-C217-4F0A-98F4-1334F76E43C1">
+            <Title>Desfechos Avaliados</Title>
+        </Document>
         <Document ID="F0C418C9-ACAC-4D3B-8021-9FE4BEB379FD">
             <Title>Objetivos gerais</Title>
+            <Text>Avaliar a influência do estresse e inflamação associada na fisiopatologia das demências frontotemporal relacionada a mutação de expansão repetida de hexanucleotídeos (GGGGCC) no gene C9orf72 </Text>
         </Document>
         <Document ID="F4798FB5-67DA-4984-97CE-FB9C3F240FF6">
             <Title>policies and ethics</Title>
@@ -4173,12 +4628,11 @@ Frontiers takes concerns regarding image manipulation seriously. We request that
 2.7. Support
 In our commitment to continuously improve our user experience and support to the research communities, we welcome your feedback, questions and suggestions. Please visit our Help Center to find guidance on our platform or contact us at support@frontiersin.org.</Text>
         </Document>
+        <Document ID="F4D8181A-888C-44F5-8758-969783D33696">
+            <Title>figs tabls</Title>
+        </Document>
         <Document ID="F59B4AB5-8A17-4CA3-B30E-A30B045ADD6D">
             <Title>Hypothesis</Title>
-            <Synopsis>• Describes the rationale for the current study 
-• Contains the research question and the hypothesis. 
-• A common error of novice authors is to forget to include the hypothesis.
-(Respir Care 2004 (49) 10 1222-1228)</Synopsis>
         </Document>
         <Document ID="F60C4AF7-1B5B-47DC-9725-376F4E0B1A45">
             <Title>Análise</Title>
@@ -4203,6 +4657,66 @@ Type I error (α)
 Type II error (β)
 • The probability of wrongly NOT rejecting the null hypothesis when the null hypothesis is false. (Not finding an existing difference or association)</Notes>
         </Document>
+        <Document ID="F7AF1CDC-FDD4-42F5-975C-53AE6B088C67">
+            <Title>Resultados Esperados</Title>
+        </Document>
+        <Document ID="F8886AFE-BFE7-4E9F-9B50-39D8A888D16F">
+            <Title>Project - abstract_draft</Title>
+            <Text>IntroduÃ§Ã£o: a demÃªncia frontotemporal Ã© um grupo de sÃ­ndromes clÃ­nicas caracterizadas principalmente por neurodegeneraÃ§Ã£o nos cÃ³rtex frontais e temporais. A esclerose lateral amiotrofica ocorre em atÃ© 15% desses pacientes. 
+Objetivos: avaliar o papel do estresse no desencadeamento da demÃªncia DFT/ALS associada a mutaÃ§Ã£o do C9ORF72.
+O estresse crÃ´nico modula il6, il1b e tnf-a, que funcionam principalmente virando a chave do sistema imune: reduÃ§Ã£o das defesas virais, contra neoplasias.
+
+A cronificaÃ§Ã£o da transduÃ§Ã£o social de sinais inflamatÃ³rios, reduz defesas virais (=menos IFN e genes ativadores).
+
+Isso Ã© o oposto da perda de C9ORF72. Talvez o C9ORF72 seja necessÃ¡rio pra esse shift da cronificaÃ§Ã£o. Talvez bloqueio da sua funÃ§Ã£o impeÃ§a o efeito do estresse crÃ´nico.
+
+60 ratos c9-500 com 16s inicia nas fÃªmeas e entre 20s e 40s em 50% do resto. 10 fÃªmeas agudas, 5 crÃ´nicas, 15 machos crÃ´nicos.
+
+Grupo de 30 com 15 machos e 15 fÃªmeas vai ser submetido ao protocolo de estresse crÃ´nico em dois momentos (jovens e prÃ© doenÃ§a)
+
+Medir mRNA de il6, tnf-a (contraprova) e il1b, alÃ©m dos sting/IFN e NF-kB.
+Medir acÃºmulo de tdp-43, astroglia, microglia (glicose),
+ Em cÃ³rtex, e Medula, estresse oxidativo, 
+rotarod
+ Pref sacarose, reconhecimento de objetos, campo aberto 
+
+####  Como eu posso melhorar o projeto ainda? 
+Melhorar a avaliaÃ§Ã£o motora. 
+Early life stress leva a aumento da suscetibilidade a 
+
+</Text>
+        </Document>
+        <Document ID="F97C26B2-5F81-44E0-BC98-18A84F12E178">
+            <Title>Project - abstract_draft</Title>
+            <Text>Introdução: a demência frontotemporal é um grupo de síndromes clínicas caracterizadas principalmente por neurodegeneração nos córtex frontais e temporais. A esclerose lateral amiotrófica ocorre em até 15% desses pacientes. 
+Objetivos: avaliar o papel do estresse no desencadeamento da demência DFT/ALS associada a mutação do C9ORF72.
+
+
+
+
+
+O estresse crônico modula il6, il1b e tnf-a, que funcionam principalmente virando a chave do sistema imune: redução das defesas virais, contra neoplasias.
+
+A cronificação da transdução social de sinais inflamatórios, reduz defesas virais (=menos IFN e genes ativadores).
+
+Isso é o oposto da perda de C9ORF72. Talvez o C9ORF72 seja necessário pra esse shift da cronificação. Talvez bloqueio da sua função impeça o efeito do estresse crônico.
+
+60 ratos c9-500 com 16s inicia nas fêmeas e entre 20s e 40s em 50% do resto. 10 fêmeas agudas, 5 crônicas, 15 machos crônicos.
+
+Grupo de 30 com 15 machos e 15 fêmeas vai ser submetido ao protocolo de estresse crônico em dois momentos (jovens e pré doença)
+
+Medir mRNA de il6, tnf-a (contraprova) e il1b, além dos sting/IFN e NF-kB.
+Medir acúmulo de tdp-43, astroglia, microglia (glicose),
+ Em córtex, e Medula, estresse oxidativo, 
+rotarod
+ Pref sacarose, reconhecimento de objetos, campo aberto 
+
+####  Como eu posso melhorar o projeto ainda? 
+Melhorar a avaliação motora. 
+Early life stress leva a aumento da suscetibilidade a 
+
+</Text>
+        </Document>
         <Document ID="FB26A701-57A2-44FD-98AA-0C2BF17AF30C">
             <Title>Papers reading pipeline</Title>
             <Text>Extract methods for project from:
@@ -4217,7 +4731,7 @@ This is a minimalistic literature review.</Synopsis>
             <Text>[Lorem ipsum]</Text>
         </Document>
         <Document ID="FE8528AA-F825-4A08-98D0-056A67AA0910">
-            <Title>Work Plan</Title>
+            <Title>Cronograma</Title>
             <Notes>Work Plan
 This is arguably the most important part of the proposal as it shows how you will conduct your study. As such, it should be as realistic as possible and very detailed. For my proposal I broke it down by what I intended to accomplish each month.
 August

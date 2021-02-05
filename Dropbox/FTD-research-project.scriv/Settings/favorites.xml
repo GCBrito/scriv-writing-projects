@@ -3,8 +3,10 @@
     <MoveTo>
         <Recent>
             <UUID Date="2021-01-20 15:51:19 -0300">10391114-61B3-45FA-9881-722814EC3507</UUID>
+            <UUID Date="2021-02-05 01:01:58 -0300"></UUID>
         </Recent>
         <Popular>
+            <UUID Used="1" Date="2021-02-05 01:01:58 -0300"></UUID>
             <UUID Used="1" Date="2021-01-20 15:51:19 -0300">10391114-61B3-45FA-9881-722814EC3507</UUID>
         </Popular>
     </MoveTo>

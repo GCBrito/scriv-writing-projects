@@ -1,110 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
 	<Documents>
-		<Document ID="0A205AD9-3881-427D-A15E-EC15BB1EC848">
-			<Title>Introduction</Title>
-			<Synopsis>- Apresentar a DFT clinicamente, as síndromes, patologia e falta de tto
-- Apresentar limitações dos modelos atuais experimentais
-
--epidemio
--3 artigos sobre o modelo
--3 artigos sobre as proteínas básicas
--3 sobre os questionamentos</Synopsis>
-			<Text>&lt;$hn&gt;	Introduction
-Why ftd in c9 patients end up developing semantic dementia? 
-C9bac500 $463.46 for a breeder pair (hemizig + noncarrier)
-C9 HRE in microglia increases sting activity
-C9 poly PR end up activating p53 cascade (and Puma) which induces cell death. But what happens between poly PR and p53 is still unkow
-Early life stress increases stress response later in life
-Evidence for this mechanism
-	1.	much higher ftd for PTST patients (what else?) he 
-	2.	Elevated sting response in ftd patients. 
-
-
-Always genotype the mice in your studies. Options: 
-•	Standard PCR: primers + Taq Polymerase + free nucleotides (dNTPs))
-•	Melt curve analysis: above + fluorescent dsDNA (evagreen) + thermocycler (rtPCR machine) 
-•	Quantitative PCR (qPCR) or real-time PCR (rtPCR):
-•	Probe/Endpoint analysis 
-
-qPCR:
-
-	￼￼
-
-Hybridisation: used in pcr and Gene expression analysis 
-
-Phenotyping (Rizzo et al. 2018).
-The spontaneous alteration test is used to assess spatial working memory and is one that can be performed in mice with reduced visual acuity
-An assay of sensory and fine motor ability is the adhesion removal test, which consists of putting a small adhesive sticker on the top of the mouse’s head and then tracking the time it takes for the mouse to remove the sticker.
-Recommended for aged mice:
+		<Document ID="891BBF10-AA9D-4081-9809-3FB64190EADE">
+			<Title>depression immune</Title>
+			<Text>Depression and inflammation
+Slavich, G. M., &amp; Irwin, M. R. (2014). From stress to inflammation and major depressive disorder: A social signal transduction theory of depression. Psychological Bulletin, 140(3), 774–815. https://doi.org/10.1037/a0035302
+If review is needed, check the last paragraph (the theory explained) First dACC, anterior insula (and other regions) process external experience --&gt; they modulate inflammation through connections to hypothalamus (HPA axis) and brainstem autonomic nuclei (SNS) --&gt; cortisol decreases inflammation, while SNS results in epinephrine and norepinephrine increases via immune cells receptors --&gt; these cells produce transcript factors NF-kB and AP-1 --&gt; they translocate to the nucleus, bind to cis-regulatory DNA sequences and upregulated expression of proinflamm genes --&gt; these genes (IL1B, IL6, IL8, TNF) result in increased cytokines IL-1, IL-6, IL-8 and TNF-alfa --&gt; cytokines act on macrophage-like cells (passage through bbb), activate second messengers and are actively transported through bbb, and also activate microglia and astrocytes to produce more cytokines --&gt; these cytokines act on various brain regions, modulating neurotransmiters (norepinephrine, dopamine, serotonin) --&gt; these obviously change behaviour (lead to widespread neurocognitive and behavioral alterations that include aberrations in mood, cognition, motivation, eating patterns, sleep-wake rhythms, pain sensitivity, psychomotor activity, and social and exploratory behavior).
+So the theory goes: first brain interpret cues, use HPA axis and SNS to cause cytokines production which in turn act on the brain producing more cytokines and shifts in neurotransmitter balances. 
 ￼
-
-
-- Always validate assays/experiments/tests (cognitive or otherwise) with a control group
-For some assays, such as tests that assess cognitive function, scopolamine can be used for validation. Scopolamine can mimic the cognitive deficits seen in aged mice
-you may need to control for other variables as well, such as body weight — as mice age and their body weight become more variable. For tests such as grip strength, results should be normalized to body weight
-- consider statistical power (n required) to show a difference between groups in your assays/tests
-- have an Endpoint:
-An endpoint is the point for the mouse when the study is over — whether because you have collected the data that is necessary for your research, or because of the accumulation of health issues from aging means the mouse needs to be euthanized
-have a way of assessing the health of the mouse. Frailty and body conditioning assessments are a common method of general health assessment. Frailty is defined as “weakness, slowness, low activity, and poor endurance” (Toth 2018). There are multiple ways to assess frailty, but the most studied in mice is the clinical frailty index (CFI, Toth 2018, Rizzo 2018).
-across different strains, a decline in body weight and temperature can be predictive of death, even in the absence of indications of morbidity (Toth 2018).
-</Text>
-			<Notes>Apresentar aos leitores o tema e os conceitos necessários para entenderem o projeto; Convencer que o projeto é relevante, que está bem planejado, que eu sou capaz de executar;
- • Check if the introduction has a funnel shape with clear sections on
-	- general background (what is this all about?);
-	- what is known and what is unknown about this specific subject (why was this study needed, and why is it important?);
-	- primary research question (what did we want to know?); and 
-	- study aim and design (what did we do to answer the research question?).
-• Look at the length of the introduction (maximum 10~15% of the total word count).
-• Determine if the introduction is the start of the story line of your paper by looking at your outline (skeleton).
-• Ask yourself, “Will this introduction sell my paper to editors, reviewers, readers, and the media?”
-(Journal of Clinical Epidemiology 66 (2013) 702)</Notes>
-			<Comments>30/01/21 15:37
-Standard PCR and melt curve analysis are qualitative assays that are useful for distinguishing genotypes for targeted mutations, or showing the presence or absence of a transgene in transgenic mice. However, they are not quantitative, and are often incapable of distinguishing hemizygous transgenic mice from homozygotes. For that, you can do real-time PCR (rtPCR), otherwise known as quantitative PCR (qPCR).
-30/01/21 15:49
-In qPCR, the amount of fluorescence is measured at each cycle until it can be detected above background. This cycle is called the cycle threshold (CT). The difference between the reference and the mutant products is the “deltaCT” (dCT), which is quantified to determine the genotype of the product
-
-31/01/21 12:34
-Probe/Endpoint analysis protocols are able to genotype small targeted mutations that may not be detectable with other genotyping strategies and the data analysis is less time-consuming than for qPCR.
-03/02/21 11:21
-Hybridization is a basic property of nucleotide sequences and is taken advantage of in numerous molecular biology techniques. Overall, genetic relatedness of two species can be determined by hybridizing segments of their DNA (DNA-DNA hybridization). Due to sequence similarity between closely related organisms, higher temperatures are required to melt such DNA hybrids when compared to more distantly related organisms. A variety of different methods use hybridization to pinpoint the origin of a DNA sample, including the polymerase chain reaction (PCR). In another technique, short DNA sequences are hybridized to cellular mRNAs to identify expressed genes</Comments>
-		</Document>
-		<Document ID="2C5635FA-8AE7-48B9-9855-55097D8DEF68">
-			<Title>Abstract</Title>
-			<Text>Patatei
-Palola
-Palili
- vest
-Vistt
-Vuust
-Volst</Text>
-			<Notes>- introdução e base teórica
-- métodos
-- resultados esperados
-- palavras-chave
- • Construct abstract from keywords from all sections of the main text.
-• Avoid abbreviations and passive voice.
-• Always state the objective and start the results section with the answer to the research question.
-• Give sample size if you report percentages.
-• Present effect sizes with confidence intervals.
-• Check if the abstract covers the 4 Ws:
-• Background: What is known and why is this study needed? 
-• Methods: What did you do?
-• Results: What did you find?
-• Discussion: What does it mean?
-• Check that the abstract can be read independently from the main text.
-• Revise every time the main text is revised.
-• Conform to the set word limit.
-(Journal of Clinical Epidemiology 66 (2013) 585)
-Write the abstract once you have completed the paper to avoid mismatches.
-
-The abstract should summarize your research in clear and concise language. You should write your abstract with the idea that it may be the only section that will actually be read and the sole representation of your research. 
-Some primary factors that you should consider for the abstract:
-Motivation: Why do we care?
-Problem statement: What are you trying to address?
-Approach: How will you address the problem?
-Results: What is the answer or expected answer?
-Conclusions: What are the implications?</Notes>
+Figure 4. Social signal transduction theory of depression. Social signal transduction theory of depression describes mechanisms that convert, or transduce, experiences of the external social environment into the internal biological environment of depression pathogenesis. (1) Social-environmental experiences indicating possible social threat or adversity (e.g., social evaluation, rejection, isolation, or exclusion) are represented neurally, especially in brain systems that process experiences of social and physical pain. Key nodes in this neural network include the anterior Ínsula (AI) and dorsal anterior cingulate cortex (dACC, shown in the insert). These regions project to lower level brain areas (e.g., hypothalamus, brainstem autonomic control nuclei) that have the ability to initiate and modulate inflammatory activity via three pathways that involve (2) the hypothalamic-pituitary-adrenal axis, (3) sympathetic nervous system (SNS), and (4) efferent vagus nerve. (5) Activation of these pathways leads to the production of glucocorticoids. epinephrine. norepinephrine (NE), and acetylcholine (ACh), which interact with receptors on cytokine-producing cells. Whereas glucocorticoids and acetylcholine have anti-inflammatory effects, epinephrine and norepinephrine activate intracellular transcription factors (e.g., nuclear factor-KB and activator protein 1) that bind to ci.v-regulatory DNA sequences to up-regulate inflammatory gene expression. When this occurs and immune response genes are expressed. DNA is transcribed into RNA and then translated into protein. The resulting change in cell function leads to the production of proinflammatory cytokines (e.g., interleukin-1 ß [IL-lß], interleukin-6 [IL-6], tumor necrosis factor-a [TNF-a]) that signal the brain to induce cognitive, emotional, and behavioural alterations that include several hallmark symptoms of depression (e.g., sad mood, anhedonia, fatigue, psychomotor retardation, altered appetite and sleep, and social-behavioural withdrawal). Cytokines can exert these effects on the central nervous system by (6) passing through leaky or incomplete regions of the blood-brain barrier (e.g.. circumventricular organs, organum vasculosum of the lamina terminalis) and by (7) stimulating primary afferent nerve fibres in the vagus nerve, which relays information to brain systems that regulate mood, motor activity, motivation, sensitivity to social threat, and arousal. Although these neurocognitive and behavioural responses are adaptive during times of actual threat, as depicted in Figure 1, these social signal transduction pathways can also be initiated by purely symbolic, anticipated, or imagined threats—that is, situations that have not yet happened or that may never actually occur. Moreover, activation of these pathways can become self-promoting over time due to neuro-inflammatory sensitization and, as a result, remain engaged long after an actual threat has passed (see Figure 3). In such instances, these dynamics can increase risk for depression in the short-term and possibly promote physical disease, accelerate biological aging, and hasten mortality over the long run. ACTH = adrenocorticotropic hormone; mRNA = messenger ribonucleic acid.
+Type I interferons (IFN-I) have long been heralded as key contributors to effective antiviral responses. More widely understood in the context of acute viral infection, the role of this pleiotropic cytokine has been characterized as triggering antiviral states in cells and potentiating adaptive immune responses. Upon induction in the innate immune response, IFN-I triggers the expression of interferon-stimulated genes (ISGs), which upregulate the effector function of immune cells (e.g., dendritic cells, B cells, and T cells) toward successful resolution of infections. However, emerging lines of evidence reveal that viral persistence in the course of chronic infections could be driven by deleterious immunomodulatory effects upon sustained IFN-I expression. In this setting, elevation of IFN-I and ISGs is directly correlated to viral persistence and elevated viral loads. It is important to note that the correlation among IFN-I expression, ISGs, and viral persistence may be a cause or effect of chronic infection and this is an important distinction to make toward establishing the dichotomous nature of IFN-I responses. The aim of this mini review is to (i) summarize the interaction between IFN-I and downstream effector responses and therefore (ii) delineate the function of this cytokine on positive and negative immunoregulation in chronic infection. This is a significant consideration given the current therapeutic administration of IFN-I in chronic viral infections whose therapeutic significance is projected to continue despite emergence of increasingly efficacious antiviral regimens. Furthermore, elucidation of the interplay between virus and the antiviral response in the context of IFN-I will elucidate avenues toward more effective therapeutic and prophylactic measures against chronic viral infections.
+McCauley and colleagues went on to ask exactly how loss of C9orf72 caused these immune defects. The authors measured RNA levels from immune cells of mice that completely lacked C9orf72. They found a striking increase in messenger RNAs encoding both type I interferon-β protein and interferon-stimulated genes (expression of which is activated by interferon proteins) in the mutant cells 
+C9orf72 em células mieloides reduz a resposta tipo I de interferon —&gt; consequentemente sem C9orf72, a resposta (contra vírus) fica muito alta. Muita atividade de células dendríticas, linfócitos B e T. 
+A (rejeição social) aumenta IL-6, e coisarada que causa depressão
+Pacientes com ALS e mutação C9orf72 tem elevação da resposta interferon tipo I (visto por sequênciamento de RNA em células coletadas) 
+With many studies suggesting that toxic RNAs or proteins are produced by the C9orf72 repeat expansion, considerable work has focused on reducing the levels of these products. For instance, antisense oligonucleotides (short nucleic acids that bind to RNAs containing the C9orf72 repeat and trigger their degradation) have shown promising results in preclinical studies. If the trial is successful, it will be exciting to see whether boosting levels of normal C9orf72 or mitigating the effects of reduced C9orf72 function — perhaps by targeting the STING pathway — will have added benefits.
+C9orf72 mutation causes increased toxic RNA and other proteins </Text>
 		</Document>
 	</Documents>
 </SearchIndexes>

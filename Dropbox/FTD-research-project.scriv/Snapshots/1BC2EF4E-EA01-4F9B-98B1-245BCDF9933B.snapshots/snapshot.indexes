@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="1BC2EF4E-EA01-4F9B-98B1-245BCDF9933B">
+    <Snapshot Date="2021-02-04 09:54:35 -0300">
+        <Title>Untitled (Save)</Title>
+        <Text>Always genotype the mice in your studies. Options: 
+•	Standard PCR: primers + Taq Polymerase + free nucleotides (dNTPs))
+•	Melt curve analysis: above + fluorescent dsDNA (evagreen) + thermocycler (rtPCR machine) 
+•	Quantitative PCR (qPCR) or real-time PCR (rtPCR):
+•	Probe/Endpoint analysis 
+
+Hybridisation: used in pcr and Gene expression analysis 
+#
+#</Text>
+        <Comments>30/01/21 15:37
+Standard PCR and melt curve analysis are qualitative assays that are useful for distinguishing genotypes for targeted mutations, or showing the presence or absence of a transgene in transgenic mice. However, they are not quantitative, and are often incapable of distinguishing hemizygous transgenic mice from homozygotes. For that, you can do real-time PCR (rtPCR), otherwise known as quantitative PCR (qPCR).
+30/01/21 15:49
+In qPCR, the amount of fluorescence is measured at each cycle until it can be detected above background. This cycle is called the cycle threshold (CT). The difference between the reference and the mutant products is the “deltaCT” (dCT), which is quantified to determine the genotype of the product
+
+31/01/21 12:34
+Probe/Endpoint analysis protocols are able to genotype small targeted mutations that may not be detectable with other genotyping strategies and the data analysis is less time-consuming than for qPCR.
+03/02/21 11:21
+Hybridization is a basic property of nucleotide sequences and is taken advantage of in numerous molecular biology techniques. Overall, genetic relatedness of two species can be determined by hybridizing segments of their DNA (DNA-DNA hybridization). Due to sequence similarity between closely related organisms, higher temperatures are required to melt such DNA hybrids when compared to more distantly related organisms. A variety of different methods use hybridization to pinpoint the origin of a DNA sample, including the polymerase chain reaction (PCR). In another technique, short DNA sequences are hybridized to cellular mRNAs to identify expressed genes</Comments>
+    </Snapshot>
+</SnapshotIndexes>
