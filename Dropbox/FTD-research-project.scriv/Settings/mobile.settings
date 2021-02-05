@@ -3,10 +3,22 @@
   "UseFullOutline" : 0,
   "TintBinderWithLabels" : true,
   "DocStates" : {
-    "D2196534-D220-4318-ACD3-1C0081F976EA" : {
+    "76284D75-BDD1-4340-B315-668AAD4B9F31" : {
       "scrollPos" : "0"
     },
-    "76284D75-BDD1-4340-B315-668AAD4B9F31" : {
+    "7A0B27DF-599E-4B23-818D-C83B179DA14B" : {
+      "scrollPos" : "0"
+    },
+    "29D995D2-1DF1-408B-9F5B-EE880E6E8851" : {
+      "scrollPos" : "0"
+    },
+    "0A205AD9-3881-427D-A15E-EC15BB1EC848" : {
+      "scrollPos" : "1630"
+    },
+    "2C5635FA-8AE7-48B9-9855-55097D8DEF68" : {
+      "scrollPos" : "0"
+    },
+    "D2196534-D220-4318-ACD3-1C0081F976EA" : {
       "scrollPos" : "0"
     },
     "48045D76-5F93-4DAD-B4D6-EF4625BF1576" : {
@@ -17,45 +29,6 @@
     },
     "6026B179-8386-47D9-AA0F-5438271BF90C" : {
       "scrollPos" : "0"
-    },
-    "97B588EA-39A5-46BE-AF2F-BBE6DF0D4356" : {
-      "scrollPos" : "0"
-    },
-    "A947FA0F-6FA9-44C7-996E-1FBE6E1F3784" : {
-      "scrollPos" : "0"
-    },
-    "891BBF10-AA9D-4081-9809-3FB64190EADE" : {
-      "scrollPos" : "0"
-    },
-    "2C5635FA-8AE7-48B9-9855-55097D8DEF68" : {
-      "scrollPos" : "0"
-    },
-    "34A246B6-0938-40F8-9E6D-D5E808CCC7B2" : {
-      "scrollPos" : "0"
-    },
-    "A43AF3C3-C785-4AE9-A4C7-DB79C6ADD73A" : {
-      "scrollPos" : "0"
-    },
-    "7E0CAAFE-EC28-46A4-9A76-A921D027DABA" : {
-      "scrollPos" : "659"
-    },
-    "38BD1C43-3FA6-4D04-AD50-7C5B5E620328" : {
-      "scrollPos" : "22959"
-    },
-    "0A205AD9-3881-427D-A15E-EC15BB1EC848" : {
-      "scrollPos" : "62"
-    },
-    "49946EB3-0E7B-4C1C-AFFB-D6AC461E9028" : {
-      "scrollPos" : "0"
-    },
-    "E746319D-7897-4F60-94CB-1BB52768FC79" : {
-      "scrollPos" : "0"
-    },
-    "7A0B27DF-599E-4B23-818D-C83B179DA14B" : {
-      "scrollPos" : "0"
-    },
-    "29D995D2-1DF1-408B-9F5B-EE880E6E8851" : {
-      "scrollPos" : "0"
     }
   },
   "TextScaleFactor" : 1.2,
@@ -63,7 +36,7 @@
   "DraftNavigatorShowsTextTitles" : true,
   "ShowsLabelsInBinder" : true,
   "CompileOptions" : {
-    "ConvertToMarkdown" : false,
+    "PaperType" : 3,
     "FileFormat" : 0,
     "RemoveComments" : true,
     "RectoFooterText" : "<$p>",
@@ -72,11 +45,10 @@
     "RectoHeaderText" : "",
     "FooterText" : "<$p>",
     "FirstPageIsTitle" : false,
-    "TitlesUseMarkdownLevels" : false,
-    "PaperType" : 3
+    "ConvertToMarkdown" : false,
+    "TitlesUseMarkdownLevels" : false
   },
   "ShowsStatusInBinder" : true,
   "CardsShowStatusStamps" : false,
-  "GroupViewMode" : 1,
   "LargeSynopsisFont" : false
 }
